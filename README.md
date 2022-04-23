@@ -13,7 +13,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Storyboard
 
-Given the sheer popularity of the English Premier League, we decided to center our project around matches from 8 seasons from this competition. Our overall project aim is to **generate some sort of recommendation** for Premier League teams so that they can **score more goals** and ultimately win more matches  
+Given the sheer popularity of the English Premier League, we decided to center our project around matches from 8 seasons from this competition. Our overall project aim is to **generate recommendations** for Premier League teams so that they can **score more goals** and ultimately win more matches  
 
 Our initial angle to the project was to find out which variable predicts number of goals scored the best. The idea was that we can ask teams to maximise or minimise this particular variable so that they score more goals. Thus, we used **multivariate linear regression** to compare the coefficients of each of our variables used.
 

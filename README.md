@@ -10,11 +10,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Multivariate Linear Regression and Random Forest Classifer](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Multivariate%20Linear%20regression%20and%20random%20forest%20classifier.ipynb)
 4. [Problem Formulation 3, Clustering and Feature Engineering](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Clustering%20and%20feature%20engineering.ipynb)
 
-  
-## Contributors
-
-- @Zaheen - Neural Networks, Data Resampling, Data Extraction
-- @MomPansy- Logistic Regression
 
 ## Storyboard
 

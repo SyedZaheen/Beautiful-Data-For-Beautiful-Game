@@ -31,9 +31,9 @@ However, in the contrary, our findings showed that teams that had high possessio
 
 ## Problem Formulation
 
-1. Are we able to predict the number of goals scored
-2. Which variables are most relevant in predicting goals?
-3. Which playstyle results in a higher likelihood of success. 
+1. Are we able to predict the **number of goals scored** (response) using the **other variables in the data** (predictors)?
+2. Which variables are most relevant in predicting goals? (feautre importance)
+3. Which playstyle (or patterns in the data) results in the team scoring more goals? (unsupervised clustering problem)
 
 ## Models Used
 

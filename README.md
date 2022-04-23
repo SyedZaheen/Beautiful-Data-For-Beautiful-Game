@@ -56,5 +56,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Silhouette score and how to generate an optimal mnumber of clusters for centroid-based clustering
 - Feature engineering: generating a new feature based on the results of linear regression
 
-## References
 

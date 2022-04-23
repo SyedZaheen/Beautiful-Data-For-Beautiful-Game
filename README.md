@@ -38,8 +38,6 @@ However, in the contrary, our findings showed that teams that had high possessio
 ## Models Used
 
 - K-Means clustering
-- Spectral clustering
-- Birch clustering
 - Linear regression
 - Random forest classifier
 

@@ -23,7 +23,7 @@ However, our findings showed that, unsurprisingly, number of shots on target pre
 
 We wanted to now see if there is **any patterns in the data outside of number of shots that relate to average number of goals scored per team**. The rationale was that, if we saw that **maximising or minimising certain variables** (a little bit like the 'style of play' of the team) ultimately resulted in the team scoring more goals, we can then recommend that more Premier League teams adopt these style of play.
 
-We used **K-means clustering** to determine certain clusters in our data. We saw that maximising 3 variables - possession, passing, and touches - resulted in the most number of goals scored. 
+We used **K-means clustering** to determine certain clusters in our data. We saw that the algorithm had decided to classify the data according to maximising 3 variables - possession, passing, and touches - and these variables also resulted in the most number of goals scored. 
 
 However, it is well-known that certain football teams purposely choose to give possession to the oppostion and minimise the above three, and still be successful. So, in order to re-test our hypothesis, we **feature engineered a new variable called "Shot Quality"**, because the idea was that perhaps maximising the above variables also lead to lower shot quality, and thus certain teams may still choose to give up possession, passes and touches in order to gain greater shot quality. 
 

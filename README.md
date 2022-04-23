@@ -5,11 +5,11 @@ NTU SC1015 (Intro Data Science and AI) Project by Syed Zaheen and Jayden Yeo. La
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the English Premier League Dataset. For detailed walkthrough, please view the source code in order from:
 
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+1. [Data Preparation](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Data%20Preparation.ipynb)
+2. [Problem Formulation 1, 2 and Data Visualisation](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Problem%20formulation%201%20and%20Exploratory%20Data%20Analysis.ipynb)
+3. [Multivariate Linear Regression and Random Forest Classifer](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Multivariate%20Linear%20regression%20and%20random%20forest%20classifier.ipynb)
+4. [Problem Formulation 3, Clustering and Feature Engineering](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Clustering%20and%20feature%20engineering.ipynb)
+
   
 ## Contributors
 
@@ -31,7 +31,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Problem Formulation
 
-1. Are we able to predict the number of goals scored?
+1. Are we able to predict the number of goals scored
 2. Which variables are most relevant in predicting goals?
 3. Which playstyle results in a higher likelihood of success. 
 

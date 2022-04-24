@@ -13,7 +13,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Storyboard
 
-#Part 1 - Goal Prediction and Feature Importance
+### Part 1 - Goal Prediction and Feature Importance
 
 Given the sheer popularity of the English Premier League, we decided to center our project around matches from 8 seasons from this competition. Our overall project aim is to **generate recommendations** for Premier League teams so that they can **score more goals** and ultimately win more matches  
 
@@ -23,7 +23,7 @@ As we found that multivariate linear regression was quite inaccurate in predicti
 
 However, our findings from both multivariate linear regression and random forest classifier showed that, unsurprisingly, number of shots on target predicts number of goals scored the best, and by a large margin too. Thus, our recommendation is to take more shots in order to score more goals - which is pretty obvious. Since our problem had such an easy answer, we decided to refine our problem. 
 
-#Part 2 - Style of play clustering
+### Part 2 - Style of play clustering
 
 We wanted to now see if there is **any patterns in the data outside of number of shots that relate to average number of goals scored per team**. The rationale was that, if we saw that **maximising or minimising certain variables** (a little bit like the 'style of play' of the team) ultimately resulted in the team scoring more goals, we can then recommend that more Premier League teams adopt these style of play.
 

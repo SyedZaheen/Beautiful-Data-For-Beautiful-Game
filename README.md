@@ -9,6 +9,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. [Problem Formulation 1, 2 and Data Visualisation](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Problem%20formulation%201%20and%20Exploratory%20Data%20Analysis.ipynb)
 3. [Multivariate Linear Regression and Random Forest Classifer](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Multivariate%20Linear%20regression%20and%20random%20forest%20classifier-2.ipynb)
 4. [Problem Formulation 3, Clustering and Feature Engineering](https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/Clustering%20and%20feature%20engineering.ipynb)
+5. [Full Project] (https://github.com/SyedZaheen/Beautiful-Data-For-Beautiful-Game/blob/main/FullProject.ipynb)
 
 
 ## Storyboard

@@ -56,7 +56,7 @@ However, in the contrary, our findings showed that teams that had high possessio
 ## What did we learn from this project?
 
 - Web scraping techniques
-- Silhouette score and how to generate an optimal mnumber of clusters for centroid-based clustering
+- Silhouette score and how to generate an optimal number of clusters for centroid-based clustering
 - Feature engineering: generating a new feature based on the results of linear regression
 - Differences between clustering algorithms - specifically centroid-based clustering and density-based clustering.
 

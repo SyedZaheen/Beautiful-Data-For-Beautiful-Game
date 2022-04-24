@@ -13,14 +13,16 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Storyboard
 
+###Part 1 - Goal Prediction and Feature Importance
 Given the sheer popularity of the English Premier League, we decided to center our project around matches from 8 seasons from this competition. Our overall project aim is to **generate recommendations** for Premier League teams so that they can **score more goals** and ultimately win more matches  
 
 Our initial angle to the project was to find out which variable predicts number of goals scored the best. The idea was that we can ask teams to maximise or minimise this particular variable so that they score more goals. Thus, we used **multivariate linear regression** to compare the coefficients of each of our variables used.
 
-As multivariate linear regression was quite inaccurate in predicting goals, we adopted a **random forest classifier** instead to determine if goals is best predicted as a numerical or categorical data type. Our findings showed that it was best predicted as a categorical data type. The prediction was far more accurate.
+As we found that multivariate linear regression was quite inaccurate in predicting goals, we adopted a **random forest classifier** instead to determine if goals is best predicted as a numerical or categorical data type. Our findings showed that it was best predicted as a categorical data type. The prediction was far more accurate.
 
-However, our findings showed that, unsurprisingly, number of shots on target predicts number of goals scored the best, and by a large margin too. Thus, our recommendation is to take more shots in order to score more goals - which is pretty obvious. Since our problem had such an easy answer, we decided to refine our problem. 
+However, our findings from both multivariate linear regression and random forest classifier showed that, unsurprisingly, number of shots on target predicts number of goals scored the best, and by a large margin too. Thus, our recommendation is to take more shots in order to score more goals - which is pretty obvious. Since our problem had such an easy answer, we decided to refine our problem. 
 
+###Part 2 - Style of play clustering
 We wanted to now see if there is **any patterns in the data outside of number of shots that relate to average number of goals scored per team**. The rationale was that, if we saw that **maximising or minimising certain variables** (a little bit like the 'style of play' of the team) ultimately resulted in the team scoring more goals, we can then recommend that more Premier League teams adopt these style of play.
 
 We used **K-means clustering** to determine certain clusters in our data. We saw that the algorithm had decided to classify the data according to maximising 3 variables - possession, passing, and touches - and maximising these variables also resulted in the most number of goals scored. 
@@ -53,5 +55,6 @@ However, in the contrary, our findings showed that teams that had high possessio
 - Web scraping techniques
 - Silhouette score and how to generate an optimal mnumber of clusters for centroid-based clustering
 - Feature engineering: generating a new feature based on the results of linear regression
+- Differences between clustering algorithms - specifically centroid-based clustering and density-based clustering.
 
 

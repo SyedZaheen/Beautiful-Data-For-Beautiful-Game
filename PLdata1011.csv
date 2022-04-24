@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2010/11,Aston Villa,West Ham United,56.8,43.2,636,529,395,313,27,18,24,36,1,1
+2010/11,Blackburn Rovers,Everton,30.4,69.6,450,729,208,469,15,16,48,44,3,2
+2010/11,Bolton Wanderers,Fulham,46.5,53.5,592,636,336,394,26,18,54,52,5,3
+2010/11,Chelsea,West Bromwich Albion,59.5,40.5,782,571,592,394,16,20,10,24,3,1
+2010/11,Sunderland,Birmingham City,44.1,55.9,514,581,304,386,9,16,49,39,2,1
+2010/11,Tottenham Hotspur,Manchester City,39.2,60.8,613,856,374,626,27,28,20,29,1,1
+2010/11,Wigan Athletic,Blackpool,56.4,43.6,630,543,428,337,26,17,15,37,3,4
+2010/11,Wolverhampton Wanderers,Stoke City,61.5,38.5,588,423,369,227,16,15,46,50,0,3
+2010/11,Liverpool,Arsenal,36.7,63.3,531,761,303,536,30,20,33,30,5,1
+2010/11,Manchester United,Newcastle United,65.6,34.4,820,527,609,313,23,21,15,32,4,0
+2010/11,Arsenal,Blackpool,53.3,46.7,801,671,581,505,14,18,13,21,4,3
+2010/11,Birmingham City,Blackburn Rovers,56,44,565,485,346,253,9,17,58,52,3,2
+2010/11,Everton,Wolverhampton Wanderers,59.3,40.7,630,471,421,298,16,20,32,39,3,0
+2010/11,Stoke City,Tottenham Hotspur,41.7,58.3,508,678,317,466,21,18,17,53,2,1
+2010/11,West Bromwich Albion,Sunderland,54.7,45.3,589,487,375,303,9,17,42,28,3,3
+2010/11,West Ham United,Bolton Wanderers,50.2,49.8,572,580,350,360,9,29,25,43,6,0
+2010/11,Wigan Athletic,Chelsea,51.2,48.8,659,637,453,430,19,35,16,21,1,2
+2010/11,Fulham,Manchester United,42.8,57.2,629,776,410,564,14,6,38,25,0,2
+2010/11,Newcastle United,Aston Villa,50.1,49.9,571,599,380,394,19,26,18,33,1,5
+2010/11,Manchester City,Liverpool,54.4,45.6,690,603,492,400,30,16,24,24,1,3
+2010/11,Blackburn Rovers,Arsenal,35.3,64.7,501,781,281,527,26,27,32,52,5,2
+2010/11,Blackpool,Fulham,54,46,696,629,477,402,28,17,43,50,6,7
+2010/11,Chelsea,Stoke City,73,27,828,395,641,224,13,19,24,30,2,1
+2010/11,Manchester United,West Ham United,60.3,39.7,784,600,580,382,31,24,18,28,1,3
+2010/11,Tottenham Hotspur,Wigan Athletic,63.4,36.6,739,526,511,304,16,23,23,49,2,1
+2010/11,Wolverhampton Wanderers,Newcastle United,44.9,55.1,461,560,286,350,23,13,35,46,3,3
+2010/11,Aston Villa,Everton,31.7,68.3,467,734,243,517,22,11,50,23,1,0
+2010/11,Bolton Wanderers,Birmingham City,50.8,49.2,547,514,325,318,24,17,55,33,0,2
+2010/11,Liverpool,West Bromwich Albion,51,49,625,636,414,402,26,24,30,38,1,1
+2010/11,Sunderland,Manchester City,41.7,58.3,644,805,392,558,33,29,26,34,2,1
+2010/11,Arsenal,Bolton Wanderers,64.3,35.7,803,491,571,299,18,39,34,15,5,1
+2010/11,Everton,Manchester United,52.3,47.7,638,606,441,406,16,20,20,47,2,5
+2010/11,Fulham,Wolverhampton Wanderers,61.3,38.7,780,561,570,348,17,17,43,51,6,2
+2010/11,Manchester City,Blackburn Rovers,64.9,35.1,768,493,512,282,12,33,38,39,2,0
+2010/11,Newcastle United,Blackpool,56.5,43.5,597,511,396,311,8,11,17,52,4,11
+2010/11,West Bromwich Albion,Tottenham Hotspur,40.3,59.7,485,657,291,459,24,18,15,26,3,1
+2010/11,West Ham United,Chelsea,42.6,57.4,571,751,384,537,21,18,28,28,3,0
+2010/11,Wigan Athletic,Sunderland,64,36,685,462,495,275,16,21,21,29,5,0
+2010/11,Birmingham City,Liverpool,43.8,56.2,576,695,360,455,22,12,39,36,2,1
+2010/11,Stoke City,Aston Villa,43.3,56.7,495,599,277,382,16,20,26,49,2,1
+2010/11,Aston Villa,Bolton Wanderers,56.7,43.3,629,504,399,307,11,19,32,43,3,1
+2010/11,Blackburn Rovers,Fulham,38.9,61.1,520,727,303,494,24,16,30,50,4,1
+2010/11,Everton,Newcastle United,51.7,48.3,595,596,387,366,24,20,21,28,3,1
+2010/11,Stoke City,West Ham United,42.5,57.5,501,612,271,395,16,23,35,50,3,2
+2010/11,Sunderland,Arsenal,53.5,46.5,651,628,407,373,28,17,18,60,2,0
+2010/11,Tottenham Hotspur,Wolverhampton Wanderers,57.7,42.3,658,517,452,326,16,19,23,30,4,3
+2010/11,West Bromwich Albion,Birmingham City,51.4,48.6,584,549,404,388,11,21,22,27,3,2
+2010/11,Chelsea,Blackpool,56.5,43.5,752,590,534,403,13,19,13,32,3,1
+2010/11,Manchester United,Liverpool,49.5,50.5,664,689,470,511,14,19,25,37,2,1
+2010/11,Wigan Athletic,Manchester City,46,54,589,670,401,490,20,20,16,17,1,8
+2010/11,Arsenal,West Bromwich Albion,64.3,35.7,754,538,522,303,21,23,15,58,1,7
+2010/11,Birmingham City,Wigan Athletic,56.1,43.9,654,575,441,342,39,18,25,45,4,3
+2010/11,Blackpool,Blackburn Rovers,58.2,41.8,645,521,393,284,24,15,54,48,1,3
+2010/11,Fulham,Everton,45.8,54.2,637,699,406,484,23,23,44,24,3,5
+2010/11,Liverpool,Sunderland,54.9,45.1,634,551,412,347,26,21,33,33,1,1
+2010/11,Manchester City,Chelsea,43,57,606,734,375,503,37,20,33,17,2,1
+2010/11,West Ham United,Tottenham Hotspur,36.1,63.9,517,753,269,521,16,20,36,37,3,0
+2010/11,Bolton Wanderers,Manchester United,34.2,65.8,478,740,267,502,19,14,56,41,0,4
+2010/11,Newcastle United,Stoke City,63,37,686,473,472,275,16,26,28,39,2,1
+2010/11,Wolverhampton Wanderers,Aston Villa,57.7,42.3,672,558,463,324,9,25,21,62,1,3
+2010/11,Birmingham City,Everton,49,51,557,581,368,373,13,9,34,28,4,2
+2010/11,Stoke City,Blackburn Rovers,44.5,55.5,476,532,257,327,5,17,60,49,1,1
+2010/11,Sunderland,Manchester United,48,52,571,653,366,408,25,17,27,50,0,3
+2010/11,Tottenham Hotspur,Aston Villa,53.1,46.9,591,565,394,357,14,18,15,25,2,6
+2010/11,West Bromwich Albion,Bolton Wanderers,56.5,43.5,667,553,399,315,15,37,38,45,0,3
+2010/11,West Ham United,Fulham,45.6,54.4,630,718,404,497,17,17,35,52,2,0
+2010/11,Wigan Athletic,Wolverhampton Wanderers,60.9,39.1,740,526,536,335,21,22,23,19,3,2
+2010/11,Chelsea,Arsenal,47,53,625,658,405,441,21,22,26,22,8,2
+2010/11,Liverpool,Blackpool,56.8,43.2,725,618,498,391,22,21,22,45,4,1
+2010/11,Manchester City,Newcastle United,51.9,48.1,656,646,453,414,32,18,28,29,6,0
+2010/11,Arsenal,Birmingham City,58.1,41.9,787,586,570,412,13,23,25,23,3,1
+2010/11,Aston Villa,Chelsea,40,60,573,750,355,556,24,23,25,18,2,3
+2010/11,Bolton Wanderers,Stoke City,59.4,40.6,660,524,440,300,23,14,45,48,1,5
+2010/11,Fulham,Tottenham Hotspur,49.4,50.6,690,703,454,458,32,25,32,24,4,2
+2010/11,Manchester United,West Bromwich Albion,56,44,649,546,422,331,17,28,24,16,3,2
+2010/11,Newcastle United,Wigan Athletic,57.5,42.5,649,542,449,341,23,35,13,30,1,6
+2010/11,Wolverhampton Wanderers,West Ham United,49,51,654,669,435,453,17,28,22,30,0,6
+2010/11,Blackpool,Manchester City,56.3,43.7,707,586,491,357,14,22,26,29,4,8
+2010/11,Everton,Liverpool,34.1,65.9,509,795,277,568,27,25,40,27,2,3
+2010/11,Blackburn Rovers,Sunderland,43,57,517,635,312,428,15,10,30,44,6,2
+2010/11,Birmingham City,Blackpool,54.2,45.8,681,591,458,363,14,17,37,36,4,0
+2010/11,Chelsea,Wolverhampton Wanderers,48.5,51.5,674,688,473,497,15,17,20,26,2,1
+2010/11,Sunderland,Aston Villa,47.7,52.3,552,562,336,350,19,18,42,20,5,2
+2010/11,Tottenham Hotspur,Everton,53.4,46.6,641,566,403,355,27,25,38,32,0,2
+2010/11,West Bromwich Albion,Fulham,49.9,50.1,648,629,440,433,26,16,36,23,4,1
+2010/11,West Ham United,Newcastle United,40.7,59.3,566,731,360,523,33,21,31,22,2,0
+2010/11,Wigan Athletic,Bolton Wanderers,50.8,49.2,622,596,372,356,29,38,23,30,1,3
+2010/11,Liverpool,Blackburn Rovers,57.3,42.7,645,541,411,311,29,21,31,54,0,1
+2010/11,Manchester City,Arsenal,34.7,65.3,552,855,356,664,25,24,17,17,3,2
+2010/11,Stoke City,Manchester United,37.7,62.3,481,708,285,511,16,9,17,52,3,1
+2010/11,Arsenal,West Ham United,65.7,34.3,775,500,546,278,26,26,24,32,3,5
+2010/11,Blackburn Rovers,Chelsea,33.9,66.1,476,753,268,546,18,15,36,27,2,2
+2010/11,Everton,Stoke City,64.4,35.6,673,433,475,254,20,19,32,34,2,1
+2010/11,Fulham,Wigan Athletic,59.1,40.9,799,617,560,388,33,27,19,34,5,2
+2010/11,Manchester United,Tottenham Hotspur,51.3,48.7,682,654,509,459,20,15,27,13,3,2
+2010/11,Wolverhampton Wanderers,Manchester City,52.3,47.7,676,649,462,431,19,22,37,42,4,4
+2010/11,Aston Villa,Birmingham City,48.3,51.7,574,586,385,415,16,19,39,22,3,0
+2010/11,Bolton Wanderers,Liverpool,41.2,58.8,550,690,324,475,24,15,41,42,1,2
+2010/11,Newcastle United,Sunderland,54.4,45.6,623,527,396,337,19,34,22,25,1,5
+2010/11,Blackpool,West Bromwich Albion,65.4,34.6,740,472,550,280,19,15,15,25,2,3
+2010/11,Birmingham City,West Ham United,54,46,638,586,451,382,15,20,12,36,2,1
+2010/11,Blackburn Rovers,Wigan Athletic,35.8,64.2,481,689,252,474,23,25,46,25,4,1
+2010/11,Blackpool,Everton,48.2,51.8,631,650,395,412,25,31,55,27,3,3
+2010/11,Bolton Wanderers,Tottenham Hotspur,43.4,56.6,569,689,326,422,36,25,42,48,2,4
+2010/11,Fulham,Aston Villa,57.1,42.9,758,616,531,395,22,25,37,32,1,2
+2010/11,Manchester United,Wolverhampton Wanderers,51.8,48.2,661,613,475,449,13,18,24,25,4,0
+2010/11,Sunderland,Stoke City,55.8,44.2,638,511,377,287,25,23,69,38,2,1
+2010/11,Arsenal,Newcastle United,57.6,42.4,734,617,512,389,32,18,8,51,4,2
+2010/11,Liverpool,Chelsea,35.3,64.7,516,787,306,567,26,19,43,17,3,3
+2010/11,West Bromwich Albion,Manchester City,39.7,60.3,549,744,347,557,17,18,25,29,3,3
+2010/11,Stoke City,Birmingham City,47,53,552,582,307,364,11,20,29,48,0,3
+2010/11,Tottenham Hotspur,Sunderland,57,43,657,578,426,348,18,22,17,58,2,5
+2010/11,Aston Villa,Blackpool,40.6,59.4,525,720,331,511,17,12,27,35,2,4
+2010/11,Chelsea,Fulham,57.3,42.7,754,598,535,388,18,25,22,29,2,2
+2010/11,Everton,Bolton Wanderers,64.3,35.7,671,477,429,234,15,27,36,62,2,2
+2010/11,Manchester City,Manchester United,46.6,53.4,674,762,477,561,22,24,27,22,0,1
+2010/11,Newcastle United,Blackburn Rovers,64.3,35.7,668,471,488,266,12,21,20,46,2,6
+2010/11,West Ham United,West Bromwich Albion,50.4,49.6,588,572,371,365,28,22,22,22,6,1
+2010/11,Wigan Athletic,Liverpool,53.3,46.7,742,664,517,454,28,40,16,29,2,1
+2010/11,Wolverhampton Wanderers,Arsenal,52,48,679,672,466,440,12,25,25,47,1,2
+2010/11,Aston Villa,Manchester United,40.7,59.3,515,726,304,481,27,7,34,40,0,6
+2010/11,Manchester City,Birmingham City,59.5,40.5,696,516,499,339,11,18,28,35,3,1
+2010/11,Newcastle United,Fulham,54,46,641,573,420,353,10,21,33,45,1,5
+2010/11,Stoke City,Liverpool,40,60,485,646,286,429,19,13,36,39,1,0
+2010/11,Tottenham Hotspur,Blackburn Rovers,56.9,43.1,662,527,417,305,13,26,60,43,1,2
+2010/11,West Ham United,Blackpool,48.5,51.5,591,605,341,368,18,15,39,47,6,2
+2010/11,Wigan Athletic,West Bromwich Albion,60.7,39.3,700,515,444,275,29,41,29,20,1,2
+2010/11,Wolverhampton Wanderers,Bolton Wanderers,55.5,44.5,653,610,414,352,14,21,30,67,2,2
+2010/11,Chelsea,Sunderland,58.3,41.7,679,559,441,326,16,32,19,38,3,2
+2010/11,Everton,Arsenal,48.8,51.2,629,663,413,452,24,19,21,41,5,1
+2010/11,Arsenal,Tottenham Hotspur,60.4,39.6,709,530,513,321,14,16,23,29,5,2
+2010/11,Birmingham City,Chelsea,38.2,61.8,515,713,310,502,16,10,45,13,2,0
+2010/11,Blackpool,Wolverhampton Wanderers,44.2,55.8,624,691,367,440,25,26,61,23,4,2
+2010/11,Bolton Wanderers,Newcastle United,49.3,50.7,569,582,355,364,31,11,32,33,4,2
+2010/11,Liverpool,West Ham United,53.7,46.3,735,649,512,440,26,29,15,21,2,1
+2010/11,Manchester United,Wigan Athletic,67.4,32.6,774,514,566,287,21,24,11,46,1,0
+2010/11,West Bromwich Albion,Stoke City,64.6,35.4,611,418,419,225,17,19,20,29,10,11
+2010/11,Blackburn Rovers,Aston Villa,38.3,61.7,565,724,311,493,18,25,50,30,1,2
+2010/11,Fulham,Manchester City,45.4,54.6,617,748,421,522,21,18,26,44,2,3
+2010/11,Sunderland,Everton,45.3,54.7,622,679,395,459,20,23,44,33,2,5
+2010/11,Aston Villa,Arsenal,40.7,59.3,627,850,392,591,33,28,24,32,3,3
+2010/11,Bolton Wanderers,Blackpool,48.7,51.3,597,639,355,379,29,16,32,61,0,3
+2010/11,Everton,West Bromwich Albion,46.6,53.4,543,626,345,409,30,18,27,20,1,4
+2010/11,Fulham,Birmingham City,59,41,768,580,538,371,22,18,46,37,6,3
+2010/11,Manchester United,Blackburn Rovers,64.9,35.1,887,547,696,368,24,18,16,30,4,1
+2010/11,Stoke City,Manchester City,36.1,63.9,485,751,281,537,16,24,23,47,0,2
+2010/11,West Ham United,Wigan Athletic,41,59,558,693,307,460,22,34,30,37,5,2
+2010/11,Wolverhampton Wanderers,Sunderland,54,46,667,629,416,372,25,22,34,62,5,5
+2010/11,Newcastle United,Chelsea,43,57,603,731,375,504,22,22,36,31,2,1
+2010/11,Tottenham Hotspur,Liverpool,50.4,49.6,651,638,408,405,19,34,29,24,1,2
+2010/11,Arsenal,Fulham,54.4,45.6,737,642,504,416,20,23,34,29,2,7
+2010/11,Birmingham City,Tottenham Hotspur,49.3,50.7,595,647,381,392,23,13,27,47,0,3
+2010/11,Blackburn Rovers,Wolverhampton Wanderers,41.6,58.4,499,604,283,393,16,12,57,36,6,0
+2010/11,Chelsea,Everton,56.4,43.6,734,588,490,366,21,27,27,37,3,1
+2010/11,Manchester City,Bolton Wanderers,59,41,681,503,444,292,18,22,43,17,5,1
+2010/11,Wigan Athletic,Stoke City,64.4,35.6,659,438,472,245,15,19,28,23,0,3
+2010/11,Sunderland,West Ham United,57.4,42.6,718,592,471,342,30,29,24,45,4,2
+2010/11,West Bromwich Albion,Newcastle United,57.6,42.4,658,530,467,334,20,19,17,23,2,0
+2010/11,Liverpool,Aston Villa,48.9,51.1,715,730,514,535,16,23,18,31,3,0
+2010/11,Aston Villa,West Bromwich Albion,43,57,484,580,267,373,24,15,31,23,5,3
+2010/11,Everton,Wigan Athletic,49.8,50.2,605,628,363,373,26,34,23,56,8,2
+2010/11,Fulham,Sunderland,54.5,45.5,655,593,428,363,17,15,48,46,1,5
+2010/11,Newcastle United,Liverpool,44.9,55.1,583,672,381,453,19,28,37,16,2,3
+2010/11,Stoke City,Blackpool,42.5,57.5,463,626,263,386,17,15,29,71,0,2
+2010/11,West Ham United,Manchester City,38.8,61.2,531,721,312,513,16,25,31,37,1,1
+2010/11,Bolton Wanderers,Blackburn Rovers,49.6,50.4,547,549,317,303,18,17,44,44,0,2
+2010/11,Tottenham Hotspur,Chelsea,38.6,61.4,560,736,324,530,25,24,50,14,1,5
+2010/11,Wolverhampton Wanderers,Birmingham City,45.9,54.1,513,570,305,387,10,10,39,30,4,5
+2010/11,Manchester United,Arsenal,46.1,53.9,635,737,430,499,27,20,26,33,3,0
+2010/11,Blackburn Rovers,West Ham United,52,48,576,547,366,341,21,14,33,39,3,6
+2010/11,Sunderland,Bolton Wanderers,47.4,52.6,601,610,346,376,21,24,53,32,3,0
+2010/11,Manchester City,Everton,68.2,31.8,833,515,615,286,26,22,9,37,2,2
+2010/11,Aston Villa,Tottenham Hotspur,57.3,42.7,628,574,426,339,16,13,8,68,1,1
+2010/11,Blackburn Rovers,Stoke City,56.8,43.2,529,473,340,252,16,21,41,45,0,4
+2010/11,Bolton Wanderers,West Bromwich Albion,44.8,55.2,592,654,367,441,22,13,37,21,3,3
+2010/11,Fulham,West Ham United,64.4,35.6,768,520,553,303,15,17,40,44,0,4
+2010/11,Manchester United,Sunderland,56.6,43.4,778,610,595,445,14,17,27,29,1,1
+2010/11,Newcastle United,Manchester City,56.6,43.4,697,586,448,353,28,25,20,43,1,4
+2010/11,Wolverhampton Wanderers,Wigan Athletic,54.6,45.4,636,611,386,332,25,24,15,65,1,3
+2010/11,Arsenal,Chelsea,55.1,44.9,763,631,528,429,29,32,30,18,5,7
+2010/11,Birmingham City,Manchester United,42.7,57.3,576,726,386,533,11,16,18,37,0,1
+2010/11,Manchester City,Aston Villa,49.9,50.1,648,635,474,485,20,17,19,11,2,0
+2010/11,Stoke City,Fulham,48.3,51.7,523,604,318,355,15,22,24,80,2,3
+2010/11,Sunderland,Blackpool,53,47,715,676,479,438,19,27,16,62,6,1
+2010/11,Tottenham Hotspur,Newcastle United,55,45,596,489,381,302,18,18,31,28,5,2
+2010/11,West Bromwich Albion,Blackburn Rovers,62.2,37.8,634,442,430,253,11,13,25,35,4,0
+2010/11,West Ham United,Everton,37.5,62.5,482,693,283,465,15,19,24,32,1,3
+2010/11,Chelsea,Bolton Wanderers,57.8,42.2,639,487,429,310,11,23,15,18,10,3
+2010/11,Liverpool,Wolverhampton Wanderers,56.4,43.6,678,585,476,352,16,20,32,37,5,4
+2010/11,Wigan Athletic,Arsenal,39.3,60.7,616,827,384,605,34,38,28,24,1,0
+2010/11,Birmingham City,Arsenal,50.4,49.6,607,632,412,419,27,13,22,45,6,0
+2010/11,Liverpool,Bolton Wanderers,62.6,37.4,766,542,489,290,17,24,33,42,4,0
+2010/11,Manchester City,Blackpool,52.2,47.8,673,619,459,417,12,31,20,36,6,2
+2010/11,Stoke City,Everton,35.9,64.1,476,667,245,432,27,20,44,43,4,0
+2010/11,Sunderland,Blackburn Rovers,51.8,48.2,630,577,392,366,20,26,43,25,2,1
+2010/11,Tottenham Hotspur,Fulham,55.5,44.5,798,669,591,462,15,17,45,29,2,2
+2010/11,West Bromwich Albion,Manchester United,47.7,52.3,604,627,402,434,16,18,19,34,1,3
+2010/11,West Ham United,Wolverhampton Wanderers,48.1,51.9,549,573,316,343,12,19,63,42,5,0
+2010/11,Chelsea,Aston Villa,60.9,39.1,704,529,473,293,24,31,23,31,0,1
+2010/11,Wigan Athletic,Newcastle United,51.2,48.8,567,557,353,323,22,24,35,30,1,3
+2010/11,Blackpool,Birmingham City,59,41,707,561,478,338,14,15,40,32,1,4
+2010/11,Fulham,West Bromwich Albion,50.8,49.2,699,681,446,444,37,30,40,38,0,2
+2010/11,Manchester United,Stoke City,64.3,35.7,781,510,575,310,14,25,28,28,4,0
+2010/11,Arsenal,Manchester City,61.4,38.6,792,576,584,357,26,23,15,33,3,5
+2010/11,Aston Villa,Sunderland,52.2,47.8,593,575,375,344,15,19,33,48,3,4
+2010/11,Blackburn Rovers,Liverpool,32.9,67.1,503,726,251,525,21,15,51,20,3,2
+2010/11,Bolton Wanderers,Wigan Athletic,52.5,47.5,613,584,381,368,17,13,22,55,0,2
+2010/11,Everton,Tottenham Hotspur,46.5,53.5,545,619,346,399,24,12,39,38,1,2
+2010/11,Newcastle United,West Ham United,51.6,48.4,600,585,394,373,23,23,25,36,3,5
+2010/11,Wolverhampton Wanderers,Chelsea,32.2,67.8,447,752,249,535,22,14,37,19,2,3
+2010/11,Blackpool,Liverpool,46.4,53.6,626,658,389,444,22,32,30,17,3,2
+2010/11,Chelsea,Blackburn Rovers,64.9,35.1,789,529,536,299,22,25,23,48,1,3
+2010/11,Manchester City,Wolverhampton Wanderers,50.4,49.6,618,564,380,375,13,21,56,26,5,3
+2010/11,Stoke City,Bolton Wanderers,36.5,63.5,444,587,204,379,22,18,51,25,3,0
+2010/11,West Bromwich Albion,Blackpool,49.5,50.5,563,582,346,365,22,17,26,48,7,3
+2010/11,West Ham United,Arsenal,30.4,69.6,483,849,263,619,23,26,33,31,2,2
+2010/11,Wigan Athletic,Fulham,47.3,52.7,574,617,375,412,23,19,41,26,2,4
+2010/11,Birmingham City,Aston Villa,52.4,47.6,618,586,404,345,20,19,33,31,1,1
+2010/11,Liverpool,Everton,56.1,43.9,610,504,373,288,20,25,44,44,5,0
+2010/11,Sunderland,Newcastle United,48.4,51.6,495,515,263,296,25,19,38,34,4,4
+2010/11,Tottenham Hotspur,Manchester United,56.4,43.6,648,547,427,341,22,19,19,43,1,2
+2010/11,Arsenal,Wigan Athletic,62.4,37.6,778,536,596,359,18,24,10,33,4,3
+2010/11,Aston Villa,Manchester City,32,68,524,882,281,640,31,19,45,25,1,2
+2010/11,Blackpool,Sunderland,56.8,43.2,667,561,420,328,22,24,37,34,1,6
+2010/11,Everton,West Ham United,60.1,39.9,678,560,443,318,24,23,35,56,1,7
+2010/11,Fulham,Stoke City,62.8,37.2,705,487,498,291,17,21,35,41,5,0
+2010/11,Manchester United,Birmingham City,55.9,44.1,649,535,476,368,11,9,21,21,3,2
+2010/11,Newcastle United,Tottenham Hotspur,35.9,64.1,493,743,303,553,19,16,19,35,1,0
+2010/11,Wolverhampton Wanderers,Liverpool,58.2,41.8,682,567,450,331,21,21,20,61,3,2
+2010/11,Blackburn Rovers,West Bromwich Albion,44.6,55.4,574,645,319,403,28,26,33,39,1,2
+2010/11,Bolton Wanderers,Chelsea,47.9,52.1,680,747,444,500,29,22,28,38,4,2
+2010/11,Blackpool,Manchester United,42.4,57.6,575,731,376,499,10,20,43,33,0,3
+2010/11,Wigan Athletic,Aston Villa,54.1,45.9,657,564,444,361,9,24,21,33,0,2
+2010/11,Liverpool,Fulham,53.5,46.5,753,677,519,452,30,25,32,31,6,0
+2010/11,Arsenal,Everton,58.1,41.9,694,510,467,319,24,21,33,20,1,2
+2010/11,Manchester United,Aston Villa,44.2,55.8,595,694,397,503,14,15,17,24,4,5
+2010/11,Sunderland,Chelsea,35.7,64.3,535,818,316,582,23,24,39,15,2,5
+2010/11,West Bromwich Albion,Wigan Athletic,55.4,44.6,617,549,414,336,18,24,15,37,3,2
+2010/11,Birmingham City,Manchester City,46.7,53.3,610,656,371,441,12,20,38,53,1,2
+2010/11,Blackburn Rovers,Tottenham Hotspur,46.3,53.7,595,675,380,438,20,16,26,50,1,1
+2010/11,Blackpool,West Ham United,57,43,687,599,428,333,26,33,37,61,3,2
+2010/11,Bolton Wanderers,Wolverhampton Wanderers,42.6,57.4,545,652,292,423,23,16,55,42,4,4
+2010/11,Fulham,Newcastle United,49.1,50.9,584,578,366,381,27,20,31,22,6,0
+2010/11,Liverpool,Stoke City,66.7,33.3,725,459,507,245,28,23,21,29,1,2
+2010/11,Aston Villa,Fulham,55.7,44.3,685,588,483,377,22,21,26,32,2,1
+2010/11,Everton,Blackpool,55.5,44.5,616,540,390,313,17,20,33,40,2,2
+2010/11,Manchester City,West Bromwich Albion,52.5,47.5,623,570,439,389,16,18,19,16,3,1
+2010/11,Newcastle United,Arsenal,48.5,51.5,543,585,355,400,16,14,11,34,7,5
+2010/11,Stoke City,Sunderland,43.7,56.3,462,561,241,333,12,21,33,46,2,1
+2010/11,Tottenham Hotspur,Bolton Wanderers,53.4,46.6,627,560,371,324,26,20,57,37,4,0
+2010/11,Wigan Athletic,Blackburn Rovers,46,54,538,547,300,333,29,25,42,16,3,4
+2010/11,Wolverhampton Wanderers,Manchester United,41.7,58.3,560,707,350,487,18,20,38,18,2,3
+2010/11,Chelsea,Liverpool,56.6,43.4,716,573,526,388,16,21,20,25,3,2
+2010/11,West Ham United,Birmingham City,54.8,45.2,594,547,377,313,13,23,30,56,2,5
+2010/11,Arsenal,Wolverhampton Wanderers,50.1,49.9,674,657,476,462,17,13,28,27,2,4
+2010/11,Birmingham City,Stoke City,60.6,39.4,596,464,391,254,16,15,44,53,1,0
+2010/11,Blackburn Rovers,Newcastle United,42.8,57.2,489,576,286,361,21,11,37,21,3,1
+2010/11,Blackpool,Aston Villa,49.6,50.4,630,612,352,348,26,46,28,33,3,3
+2010/11,Liverpool,Wigan Athletic,52.7,47.3,648,612,421,373,35,24,16,33,0,3
+2010/11,Manchester United,Manchester City,49.7,50.3,676,694,479,482,15,21,19,31,2,3
+2010/11,Sunderland,Tottenham Hotspur,53.8,46.2,659,612,455,391,19,28,15,40,2,2
+2010/11,West Bromwich Albion,West Ham United,40.9,59.1,542,672,318,446,16,24,42,23,3,3
+2010/11,Bolton Wanderers,Everton,47.1,52.9,564,615,349,390,25,20,34,35,1,4
+2010/11,Fulham,Chelsea,37.4,62.6,576,837,333,580,32,23,50,21,1,3
+2010/11,Birmingham City,Newcastle United,53.1,46.9,573,505,366,325,15,9,36,37,8,5
+2010/11,West Bromwich Albion,Wolverhampton Wanderers,45,55,563,647,356,456,13,18,26,42,6,2
+2010/11,Blackpool,Tottenham Hotspur,38.5,61.5,517,722,310,514,25,11,42,15,0,3
+2010/11,Arsenal,Stoke City,69.9,30.1,840,448,657,265,21,19,24,27,3,7
+2010/11,Aston Villa,Blackburn Rovers,59.1,40.9,760,575,562,392,15,19,10,30,1,1
+2010/11,Everton,Sunderland,46.6,53.4,592,654,373,442,23,14,46,30,2,4
+2010/11,Newcastle United,Bolton Wanderers,44.9,55.1,530,618,307,381,18,22,26,32,6,2
+2010/11,Wigan Athletic,Manchester United,48,52,612,648,386,433,21,29,24,29,2,1
+2010/11,Wolverhampton Wanderers,Blackpool,58.5,41.5,749,578,519,375,15,20,38,52,3,3
+2010/11,Manchester City,Fulham,50.8,49.2,644,648,430,415,29,25,28,36,2,1
+2010/11,West Ham United,Liverpool,42.2,57.8,612,743,361,506,20,23,48,31,0,1
+2010/11,Stoke City,West Bromwich Albion,40.5,59.5,476,645,279,426,18,25,33,40,4,1
+2010/11,Chelsea,Manchester United,45,55,579,663,353,444,24,26,22,29,1,2
+2010/11,Arsenal,Sunderland,62.6,37.4,806,551,567,338,15,30,23,27,6,5
+2010/11,Birmingham City,West Bromwich Albion,50.1,49.9,656,667,436,452,24,23,37,34,1,2
+2010/11,Bolton Wanderers,Aston Villa,52.6,47.4,587,562,350,320,12,15,39,50,2,3
+2010/11,Fulham,Blackburn Rovers,55.2,44.8,624,542,368,290,21,22,46,47,2,1
+2010/11,Manchester City,Wigan Athletic,50.4,49.6,667,677,463,453,22,34,19,21,1,3
+2010/11,Newcastle United,Everton,59.7,40.3,611,503,401,270,16,21,29,46,6,2
+2010/11,West Ham United,Stoke City,56.8,43.2,684,536,470,340,18,23,35,35,4,1
+2010/11,Liverpool,Manchester United,42.4,57.6,569,699,366,500,24,20,29,27,0,3
+2010/11,Wolverhampton Wanderers,Tottenham Hotspur,53.1,46.9,648,630,442,401,22,21,26,53,0,2
+2010/11,Blackpool,Chelsea,44,56,590,710,371,488,21,17,41,31,0,3
+2010/11,Everton,Birmingham City,59,41,638,536,415,307,13,17,26,49,0,3
+2010/11,Aston Villa,Wolverhampton Wanderers,58.5,41.5,656,527,474,339,14,18,20,44,4,9
+2010/11,Blackburn Rovers,Blackpool,52.5,47.5,541,529,340,317,18,18,17,58,1,3
+2010/11,Everton,Fulham,45.1,54.9,568,664,348,438,22,22,41,51,1,2
+2010/11,Manchester United,Bolton Wanderers,57.5,42.5,689,576,455,331,17,35,28,46,4,0
+2010/11,Stoke City,Newcastle United,39.6,60.4,433,568,233,362,20,20,39,31,5,2
+2010/11,Tottenham Hotspur,West Ham United,59.3,40.7,739,579,501,347,28,27,22,41,1,0
+2010/11,West Bromwich Albion,Arsenal,26.1,73.9,445,877,232,663,16,17,44,17,5,3
+2010/11,Wigan Athletic,Birmingham City,60.7,39.3,659,509,443,291,21,22,29,34,1,1
+2010/11,Chelsea,Manchester City,58.7,41.3,727,557,494,340,27,24,21,33,3,0
+2010/11,Sunderland,Liverpool,52.2,47.8,654,621,430,396,27,32,18,34,1,2
+2010/11,Arsenal,Blackburn Rovers,67.5,32.5,755,474,531,255,12,21,29,44,2,4
+2010/11,Birmingham City,Bolton Wanderers,52.3,47.7,592,564,380,334,9,21,44,45,3,2
+2010/11,Everton,Aston Villa,46.7,53.3,500,539,305,340,18,17,31,31,2,7
+2010/11,Newcastle United,Wolverhampton Wanderers,42.6,57.4,476,570,273,374,14,19,29,30,3,3
+2010/11,Stoke City,Chelsea,35.7,64.3,500,716,259,469,20,17,61,27,0,1
+2010/11,West Bromwich Albion,Liverpool,50.7,49.3,605,588,400,381,19,26,21,29,1,3
+2010/11,West Ham United,Manchester United,34,66,506,771,274,541,21,15,54,39,2,1
+2010/11,Wigan Athletic,Tottenham Hotspur,45.7,54.3,572,639,357,436,17,22,15,31,2,0
+2010/11,Fulham,Blackpool,34.6,65.4,517,778,295,577,24,23,42,34,4,3
+2010/11,Manchester City,Sunderland,50.1,49.9,614,609,412,398,19,23,26,18,3,1
+2010/11,Blackburn Rovers,Birmingham City,47.1,52.9,478,528,291,336,15,15,22,35,0,1
+2010/11,Bolton Wanderers,West Ham United,41.7,58.3,505,596,279,395,18,16,35,29,1,2
+2010/11,Chelsea,Wigan Athletic,52.5,47.5,662,629,432,400,30,23,12,32,0,2
+2010/11,Manchester United,Fulham,47.8,52.2,670,706,472,519,12,20,20,28,3,0
+2010/11,Sunderland,West Bromwich Albion,50.3,49.7,564,578,335,343,21,24,17,56,1,3
+2010/11,Tottenham Hotspur,Stoke City,61,39,665,473,455,284,19,13,44,35,1,3
+2010/11,Wolverhampton Wanderers,Everton,64.4,35.6,615,445,407,216,15,16,24,64,4,3
+2010/11,Aston Villa,Newcastle United,49.7,50.3,602,591,379,388,25,16,19,30,4,3
+2010/11,Blackpool,Arsenal,41.1,58.9,519,723,302,456,28,21,43,39,4,5
+2010/11,Liverpool,Manchester City,53.1,46.9,750,687,527,465,31,27,16,17,5,0
+2010/11,Birmingham City,Sunderland,44.8,55.2,534,601,323,387,22,13,39,21,4,1
+2010/11,Blackpool,Wigan Athletic,49.3,50.7,642,662,416,443,26,30,27,32,2,2
+2010/11,Everton,Blackburn Rovers,54.2,45.8,581,530,359,309,22,19,34,39,1,1
+2010/11,West Bromwich Albion,Chelsea,40.4,59.6,589,780,390,582,13,23,27,9,0,9
+2010/11,West Ham United,Aston Villa,47.1,52.9,574,625,369,414,13,17,32,27,5,3
+2010/11,Arsenal,Liverpool,61.7,38.3,758,522,528,333,15,22,23,32,1,2
+2010/11,Newcastle United,Manchester United,40.6,59.4,510,669,305,470,13,21,25,31,0,2
+2010/11,Chelsea,Birmingham City,57.1,42.9,717,589,548,412,14,19,10,29,2,1
+2010/11,Tottenham Hotspur,Arsenal,45.1,54.9,600,695,356,445,31,21,42,38,2,1
+2010/11,Aston Villa,Stoke City,58.8,41.2,589,459,395,279,22,15,28,25,1,4
+2010/11,Blackpool,Newcastle United,57.1,42.9,665,542,430,328,18,24,43,33,3,1
+2010/11,Chelsea,West Ham United,67.5,32.5,786,483,594,266,19,18,19,31,4,1
+2010/11,Liverpool,Birmingham City,53.5,46.5,677,594,475,411,21,14,24,12,1,2
+2010/11,Manchester United,Everton,59.1,40.9,729,575,526,368,15,14,19,56,2,0
+2010/11,Sunderland,Wigan Athletic,44.1,55.9,528,599,294,394,22,34,19,32,1,0
+2010/11,Tottenham Hotspur,West Bromwich Albion,60.1,39.9,760,559,531,367,21,17,21,32,0,3
+2010/11,Wolverhampton Wanderers,Fulham,42.4,57.6,516,646,318,433,14,17,28,43,3,3
+2010/11,Bolton Wanderers,Arsenal,32.9,67.1,489,782,259,530,26,14,48,30,2,0
+2010/11,Blackburn Rovers,Manchester City,32.8,67.2,440,710,245,506,15,19,33,32,2,3
+2010/11,Stoke City,Wolverhampton Wanderers,35.6,64.4,443,712,265,511,21,11,32,37,0,2
+2010/11,Fulham,Bolton Wanderers,51.9,48.1,635,607,401,378,13,28,27,36,2,0
+2010/11,Blackburn Rovers,Bolton Wanderers,42.1,57.9,485,572,240,335,16,18,58,45,7,3
+2010/11,Blackpool,Stoke City,56.4,43.6,607,499,348,250,19,19,62,49,0,1
+2010/11,Chelsea,Tottenham Hotspur,52.4,47.6,684,672,473,430,35,31,9,23,3,1
+2010/11,Sunderland,Fulham,50.3,49.7,689,682,463,464,20,15,21,46,4,5
+2010/11,West Bromwich Albion,Aston Villa,41,59,480,612,301,431,16,24,25,8,2,4
+2010/11,Wigan Athletic,Everton,50.3,49.7,576,560,387,360,19,16,34,20,1,1
+2010/11,Arsenal,Manchester United,54.9,45.1,685,580,462,376,22,25,28,23,2,4
+2010/11,Birmingham City,Wolverhampton Wanderers,42.9,57.1,459,545,287,360,15,11,31,20,1,3
+2010/11,Liverpool,Newcastle United,46.3,53.7,554,620,367,406,26,7,20,14,4,0
+2010/11,Manchester City,West Ham United,59.8,40.2,757,550,555,372,19,17,21,24,5,2
+2010/11,Aston Villa,Wigan Athletic,48.3,51.7,560,607,371,403,32,20,17,20,2,0
+2010/11,Bolton Wanderers,Sunderland,52.4,47.6,562,532,335,313,30,11,38,43,1,1
+2010/11,Everton,Manchester City,48.6,51.4,553,599,346,380,19,16,31,40,1,1
+2010/11,Newcastle United,Birmingham City,62.6,37.4,657,439,470,279,10,8,29,31,4,4
+2010/11,Tottenham Hotspur,Blackpool,58.6,41.4,740,575,457,331,18,32,46,47,1,1
+2010/11,West Ham United,Blackburn Rovers,62.1,37.9,596,435,350,215,15,23,43,57,6,2
+2010/11,Manchester United,Chelsea,47.4,52.6,573,613,367,406,32,19,26,21,3,3
+2010/11,Stoke City,Arsenal,26.6,73.4,388,773,193,570,23,19,31,23,2,1
+2010/11,Wolverhampton Wanderers,West Bromwich Albion,45.4,54.6,551,644,327,419,30,15,26,22,5,2
+2010/11,Fulham,Liverpool,49.1,50.9,687,684,452,475,17,25,47,31,1,1
+2010/11,Manchester City,Tottenham Hotspur,38.1,61.9,584,810,362,588,26,25,53,33,3,1
+2010/11,Blackburn Rovers,Manchester United,24.5,75.5,398,891,225,719,15,18,31,22,0,1
+2010/11,Blackpool,Bolton Wanderers,50.9,49.1,565,548,347,341,20,20,50,27,7,3
+2010/11,Sunderland,Wolverhampton Wanderers,59.6,40.4,710,530,494,318,17,23,24,42,1,4
+2010/11,West Bromwich Albion,Everton,47.5,52.5,564,586,362,388,18,16,38,20,4,2
+2010/11,Arsenal,Aston Villa,67.7,32.3,834,512,601,290,16,23,13,42,5,3
+2010/11,Birmingham City,Fulham,57.2,42.8,661,555,445,339,7,17,30,63,5,0
+2010/11,Chelsea,Newcastle United,64.2,35.8,685,452,484,264,20,23,20,31,2,3
+2010/11,Liverpool,Tottenham Hotspur,53.5,46.5,670,633,450,403,19,19,16,61,2,0
+2010/11,Wigan Athletic,West Ham United,58.7,41.3,679,534,443,296,17,23,18,35,0,2
+2010/11,Manchester City,Stoke City,56.3,43.7,722,589,544,403,14,22,32,18,0,4
+2010/11,Aston Villa,Liverpool,48.5,51.5,631,659,434,465,23,21,21,11,2,5
+2010/11,Bolton Wanderers,Manchester City,40.5,59.5,520,709,309,472,22,23,22,51,0,1
+2010/11,Everton,Chelsea,36.1,63.9,465,714,278,537,13,17,32,22,2,5
+2010/11,Fulham,Arsenal,32.2,67.8,460,802,272,604,22,14,27,30,4,2
+2010/11,Manchester United,Blackpool,58.5,41.5,745,585,561,386,15,19,20,25,3,1
+2010/11,Newcastle United,West Bromwich Albion,54.6,45.4,593,528,402,343,29,11,13,21,3,5
+2010/11,Stoke City,Wigan Athletic,50.8,49.2,592,591,358,360,31,29,20,40,2,3
+2010/11,Tottenham Hotspur,Birmingham City,67.8,32.2,853,487,622,285,17,35,37,19,2,1
+2010/11,West Ham United,Sunderland,51.2,48.8,657,663,431,424,21,31,17,30,4,0
+2010/11,Wolverhampton Wanderers,Blackburn Rovers,58.3,41.7,572,487,360,266,10,9,26,64,2,2

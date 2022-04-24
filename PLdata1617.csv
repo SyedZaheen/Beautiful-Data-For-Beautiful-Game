@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2016/17,Burnley,Swansea City,47.5,52.5,558,613,353,383,14,19,16,49,3,2
+2016/17,Chelsea,West Ham United,61.7,38.3,770,527,556,350,18,25,17,26,1,1
+2016/17,Crystal Palace,West Bromwich Albion,62.3,37.7,620,476,414,245,28,18,21,23,0,2
+2016/17,Everton,Tottenham Hotspur,42.5,57.5,590,710,361,483,25,18,40,22,5,0
+2016/17,Hull City,Leicester City,49.7,50.3,645,619,449,453,20,14,29,15,1,0
+2016/17,Manchester City,Sunderland,76.9,23.1,864,395,681,189,5,17,26,35,1,2
+2016/17,Middlesbrough,Stoke City,45.6,54.4,538,611,349,420,17,16,20,16,1,2
+2016/17,Southampton,Watford,64.3,35.7,795,522,583,325,13,25,21,36,1,0
+2016/17,Leicester City,Arsenal,39.5,60.5,586,810,362,555,23,20,28,27,1,2
+2016/17,Liverpool,Burnley,63.9,36.1,744,509,558,309,6,26,29,53,3,3
+2016/17,Manchester United,Southampton,43.4,56.6,609,716,408,533,11,25,20,22,2,2
+2016/17,Stoke City,Manchester City,42.5,57.5,571,704,361,493,22,20,25,28,3,1
+2016/17,Sunderland,Middlesbrough,46.9,53.1,633,681,401,476,16,30,12,34,2,0
+2016/17,Swansea City,Hull City,56.6,43.4,800,659,563,460,17,27,17,34,0,5
+2016/17,Tottenham Hotspur,Crystal Palace,56.9,43.1,674,574,440,325,29,28,42,24,2,0
+2016/17,Watford,Chelsea,37.6,62.4,530,767,330,560,25,17,31,18,1,2
+2016/17,West Bromwich Albion,Everton,33.6,66.4,466,766,283,580,23,16,17,17,0,1
+2016/17,West Ham United,AFC Bournemouth,46.8,53.2,554,583,355,410,16,10,17,30,1,1
+2016/17,Chelsea,Burnley,60.1,39.9,813,584,626,410,9,17,17,30,1,2
+2016/17,Crystal Palace,AFC Bournemouth,59.4,40.6,689,514,447,326,19,17,29,52,5,2
+2016/17,Everton,Stoke City,54.9,45.1,697,602,482,395,21,26,30,27,3,1
+2016/17,Hull City,Manchester United,37.9,62.1,593,824,394,615,20,14,51,7,0,1
+2016/17,Leicester City,Swansea City,52.2,47.8,623,583,408,363,15,21,32,37,3,1
+2016/17,Manchester City,West Ham United,67.1,32.9,794,468,587,274,21,19,27,17,3,3
+2016/17,Southampton,Sunderland,63.8,36.2,671,453,480,270,16,13,31,36,4,2
+2016/17,Tottenham Hotspur,Liverpool,49.3,50.7,631,661,419,433,22,20,27,36,2,6
+2016/17,Watford,Arsenal,45.3,54.7,584,724,397,490,14,22,17,33,1,2
+2016/17,West Bromwich Albion,Middlesbrough,41,59,527,707,350,515,16,22,11,38,1,3
+2016/17,Arsenal,Southampton,56.7,43.3,805,640,588,457,13,16,15,31,0,2
+2016/17,AFC Bournemouth,West Bromwich Albion,63.5,36.5,697,463,477,272,15,16,37,25,1,1
+2016/17,Burnley,Hull City,38.8,61.2,578,819,395,625,10,14,33,20,0,3
+2016/17,Liverpool,Leicester City,62.7,37.3,800,525,612,346,17,18,30,13,3,1
+2016/17,Manchester United,Manchester City,39.9,60.1,612,824,376,593,24,23,23,35,3,3
+2016/17,Middlesbrough,Crystal Palace,57.7,42.3,736,606,526,390,24,24,19,29,3,1
+2016/17,Stoke City,Tottenham Hotspur,39.7,60.3,541,700,325,510,23,8,22,32,2,0
+2016/17,Sunderland,Everton,33.5,66.5,452,752,286,571,10,27,16,25,0,1
+2016/17,Swansea City,Chelsea,44.9,55.1,582,697,399,488,19,18,18,21,0,3
+2016/17,West Ham United,Watford,57.9,42.1,672,502,445,325,12,24,29,33,2,1
+2016/17,Chelsea,Liverpool,52.7,47.3,778,691,540,497,18,20,24,26,6,2
+2016/17,Crystal Palace,Stoke City,56.5,43.5,706,562,459,350,26,28,35,22,2,3
+2016/17,Everton,Middlesbrough,52.2,47.8,749,696,544,502,20,22,27,27,4,3
+2016/17,Hull City,Arsenal,39.3,60.7,678,963,508,801,18,17,17,9,3,2
+2016/17,Leicester City,Burnley,59,41,695,552,517,361,12,14,11,41,2,4
+2016/17,Manchester City,AFC Bournemouth,64.2,35.8,769,495,591,320,25,14,13,11,1,2
+2016/17,Southampton,Swansea City,53,47,644,581,442,402,11,14,14,30,5,1
+2016/17,Tottenham Hotspur,Sunderland,73.7,26.3,835,407,613,224,16,26,17,32,1,5
+2016/17,Watford,Manchester United,39.9,60.1,462,630,284,417,19,15,20,39,0,2
+2016/17,West Bromwich Albion,West Ham United,29.6,70.4,426,830,260,622,17,22,17,9,1,1
+2016/17,Arsenal,Chelsea,49.5,50.5,731,738,529,538,18,21,24,20,5,2
+2016/17,AFC Bournemouth,Everton,52.8,47.2,638,581,422,367,18,26,29,20,1,2
+2016/17,Burnley,Watford,43.5,56.5,555,658,349,469,18,15,34,29,5,0
+2016/17,Liverpool,Hull City,74.2,25.8,938,429,763,263,17,19,7,27,0,1
+2016/17,Manchester United,Leicester City,67.3,32.7,912,494,712,336,15,14,31,19,4,1
+2016/17,Middlesbrough,Tottenham Hotspur,41.6,58.4,587,750,391,550,31,15,31,15,0,3
+2016/17,Stoke City,West Bromwich Albion,56.2,43.8,588,509,405,319,19,14,21,21,1,1
+2016/17,Sunderland,Crystal Palace,44.6,55.4,564,658,360,450,15,15,39,31,3,2
+2016/17,Swansea City,Manchester City,41.6,58.4,579,760,391,566,13,11,21,18,1,2
+2016/17,West Ham United,Southampton,45.1,54.9,576,652,370,472,7,19,18,38,5,2
+2016/17,Burnley,Arsenal,32.8,67.2,556,938,351,741,26,16,31,23,4,0
+2016/17,Everton,Crystal Palace,56.6,43.4,624,516,398,297,18,14,36,29,3,1
+2016/17,Hull City,Chelsea,40.9,59.1,595,759,385,554,23,19,25,18,1,0
+2016/17,Leicester City,Southampton,38.1,61.9,564,796,390,627,16,19,26,19,1,2
+2016/17,Manchester United,Stoke City,67.2,32.8,772,469,534,268,22,14,35,44,1,1
+2016/17,Sunderland,West Bromwich Albion,55.9,44.1,631,524,424,326,17,17,32,30,2,1
+2016/17,Swansea City,Liverpool,40.6,59.4,625,804,406,595,22,18,35,17,1,2
+2016/17,Tottenham Hotspur,Manchester City,42.3,57.7,576,740,348,484,23,27,31,24,8,5
+2016/17,Watford,AFC Bournemouth,48,52,546,585,349,382,18,15,25,22,0,2
+2016/17,West Ham United,Middlesbrough,40.3,59.7,544,667,327,482,12,27,32,26,5,2
+2016/17,Arsenal,Swansea City,48.7,51.3,743,724,514,525,17,26,17,21,9,2
+2016/17,AFC Bournemouth,Hull City,49.5,50.5,667,634,459,461,10,24,34,17,0,3
+2016/17,Chelsea,Leicester City,54.9,45.1,768,627,553,449,19,20,27,21,0,1
+2016/17,Crystal Palace,West Ham United,55.2,44.8,619,551,411,351,9,25,12,38,1,1
+2016/17,Liverpool,Manchester United,64.6,35.4,837,593,627,342,22,28,15,37,2,5
+2016/17,Manchester City,Everton,72.6,27.4,878,478,661,255,17,25,13,49,0,6
+2016/17,Middlesbrough,Watford,63.9,36.1,672,467,467,265,21,21,24,30,0,1
+2016/17,Southampton,Burnley,64.6,35.4,750,488,553,307,8,12,19,40,0,1
+2016/17,Stoke City,Sunderland,57.2,42.8,652,531,478,357,17,10,17,15,2,2
+2016/17,West Bromwich Albion,Tottenham Hotspur,28.5,71.5,410,812,228,601,16,11,24,48,1,3
+2016/17,Arsenal,Middlesbrough,74.9,25.1,909,419,706,235,9,20,15,36,5,2
+2016/17,AFC Bournemouth,Tottenham Hotspur,38.4,61.6,566,756,323,543,23,18,37,34,1,3
+2016/17,Burnley,Everton,34.9,65.1,502,764,294,557,13,6,53,27,1,1
+2016/17,Chelsea,Manchester United,43.9,56.1,657,774,447,556,18,21,25,24,2,3
+2016/17,Hull City,Stoke City,48.9,51.1,661,670,447,481,18,15,36,30,1,0
+2016/17,Leicester City,Crystal Palace,44.6,55.4,617,737,403,487,18,17,42,22,1,3
+2016/17,Liverpool,West Bromwich Albion,67.5,32.5,849,493,662,318,16,18,25,25,3,3
+2016/17,Manchester City,Southampton,64.7,35.3,813,549,582,319,19,35,14,35,1,4
+2016/17,Swansea City,Watford,53.8,46.2,660,588,443,385,15,15,36,25,1,4
+2016/17,West Ham United,Sunderland,64.4,35.6,778,480,541,296,13,16,34,33,3,1
+2016/17,Crystal Palace,Liverpool,44.7,55.3,641,737,417,518,27,23,32,29,4,1
+2016/17,Everton,West Ham United,49.3,50.7,587,616,410,418,15,7,20,19,2,1
+2016/17,Manchester United,Burnley,72.2,27.8,859,452,646,244,8,17,25,43,0,2
+2016/17,Middlesbrough,AFC Bournemouth,40.4,59.6,568,726,357,526,22,16,28,14,2,1
+2016/17,Southampton,Chelsea,54.8,45.2,692,622,486,409,23,27,13,33,2,0
+2016/17,Stoke City,Swansea City,45.6,54.4,549,639,364,435,21,14,14,33,2,1
+2016/17,Sunderland,Arsenal,34.2,65.8,465,764,299,591,17,18,23,22,6,1
+2016/17,Tottenham Hotspur,Leicester City,64.1,35.9,724,469,493,275,11,19,38,23,2,1
+2016/17,Watford,Hull City,54.4,45.6,672,585,476,399,13,12,21,37,0,2
+2016/17,West Bromwich Albion,Manchester City,30.1,69.9,431,835,281,675,12,10,17,19,3,3
+2016/17,Arsenal,Tottenham Hotspur,45.7,54.3,644,731,423,522,23,15,17,35,7,1
+2016/17,AFC Bournemouth,Sunderland,69.8,30.2,751,438,537,235,15,18,21,28,1,2
+2016/17,Burnley,Crystal Palace,38.2,61.8,514,725,328,508,23,8,44,13,3,3
+2016/17,Chelsea,Everton,60.1,39.9,886,620,685,463,26,23,14,25,2,1
+2016/17,Hull City,Southampton,33.6,66.4,491,798,319,631,13,7,37,9,1,1
+2016/17,Leicester City,West Bromwich Albion,59.1,40.9,715,559,520,358,14,17,26,35,4,0
+2016/17,Liverpool,Watford,59.6,40.4,766,578,563,378,19,9,16,19,1,2
+2016/17,Manchester City,Middlesbrough,71,29,838,450,632,266,15,17,14,41,5,2
+2016/17,Swansea City,Manchester United,37.2,62.8,609,951,449,762,16,18,15,35,0,1
+2016/17,West Ham United,Stoke City,58.1,41.9,680,526,498,361,14,16,26,17,4,1
+2016/17,Crystal Palace,Manchester City,38.3,61.7,480,662,276,447,26,15,26,39,1,1
+2016/17,Everton,Swansea City,62.7,37.3,697,523,500,308,17,15,16,50,1,4
+2016/17,Manchester United,Arsenal,45.5,54.5,683,758,444,552,23,23,32,31,3,0
+2016/17,Middlesbrough,Chelsea,42.4,57.6,628,802,451,620,16,9,22,20,0,1
+2016/17,Southampton,Liverpool,35.4,64.6,575,883,368,661,25,22,20,10,2,2
+2016/17,Stoke City,AFC Bournemouth,51.1,48.9,558,568,363,353,26,21,11,42,2,3
+2016/17,Sunderland,Hull City,41.3,58.7,561,717,374,515,12,13,37,35,1,1
+2016/17,Tottenham Hotspur,West Ham United,66.9,33.1,801,525,595,294,15,22,20,39,2,6
+2016/17,Watford,Leicester City,45.8,54.2,592,610,353,410,15,17,34,27,1,0
+2016/17,West Bromwich Albion,Burnley,45.5,54.5,574,654,401,482,10,10,28,38,2,3
+2016/17,Arsenal,AFC Bournemouth,51.5,48.5,693,672,466,432,24,17,20,33,1,4
+2016/17,Burnley,Manchester City,33.3,66.7,454,749,266,545,12,13,21,53,4,3
+2016/17,Chelsea,Tottenham Hotspur,45.9,54.1,599,671,386,459,23,22,34,22,3,3
+2016/17,Hull City,West Bromwich Albion,53.3,46.7,644,584,480,405,10,12,31,24,1,0
+2016/17,Leicester City,Middlesbrough,40.7,59.3,504,672,330,487,13,6,22,37,3,1
+2016/17,Liverpool,Sunderland,77.3,22.7,901,411,702,205,19,21,15,48,0,1
+2016/17,Manchester United,West Ham United,68.4,31.6,834,474,611,278,16,16,34,38,4,2
+2016/17,Southampton,Everton,52.9,47.1,679,634,461,415,22,23,20,29,0,2
+2016/17,Swansea City,Crystal Palace,56.5,43.5,585,496,371,289,18,15,33,35,2,0
+2016/17,Watford,Stoke City,49.8,50.2,556,586,356,371,18,17,15,38,1,6
+2016/17,AFC Bournemouth,Liverpool,39.8,60.2,592,766,376,563,20,19,38,31,1,1
+2016/17,Crystal Palace,Southampton,41.6,58.4,560,685,338,458,22,34,36,29,3,1
+2016/17,Everton,Manchester United,45.5,54.5,596,700,380,464,18,24,30,45,3,4
+2016/17,Manchester City,Chelsea,60.7,39.3,741,565,541,364,11,18,17,22,2,1
+2016/17,Middlesbrough,Hull City,60.7,39.3,785,563,601,395,20,17,13,29,3,2
+2016/17,Stoke City,Burnley,55.9,44.1,654,545,448,339,17,17,40,36,3,5
+2016/17,Sunderland,Leicester City,53.5,46.5,635,564,415,358,13,14,31,23,1,3
+2016/17,Tottenham Hotspur,Swansea City,60,40,811,572,575,379,16,23,27,39,3,4
+2016/17,West Bromwich Albion,Watford,40.3,59.7,487,633,298,442,11,11,41,23,1,2
+2016/17,West Ham United,Arsenal,50.5,49.5,667,681,491,483,12,17,28,20,0,2
+2016/17,Arsenal,Stoke City,64.4,35.6,725,472,539,288,14,15,16,29,3,3
+2016/17,Burnley,AFC Bournemouth,30.6,69.4,434,753,242,545,12,7,32,45,5,0
+2016/17,Chelsea,West Bromwich Albion,66.9,33.1,788,465,577,283,14,26,31,18,2,2
+2016/17,Hull City,Crystal Palace,56.9,43.1,620,516,448,340,20,7,22,35,2,0
+2016/17,Leicester City,Manchester City,22.1,77.9,371,903,205,699,14,7,44,27,0,3
+2016/17,Liverpool,West Ham United,67.1,32.9,815,503,611,303,10,11,30,50,5,2
+2016/17,Manchester United,Tottenham Hotspur,40.2,59.8,527,663,288,429,21,22,38,32,1,0
+2016/17,Southampton,Middlesbrough,55.1,44.9,716,610,510,418,11,23,20,28,3,2
+2016/17,Swansea City,Sunderland,61.7,38.3,680,496,477,301,20,16,19,26,1,2
+2016/17,Watford,Everton,47.3,52.7,596,609,357,400,16,22,28,30,3,3
+2016/17,AFC Bournemouth,Leicester City,62.9,37.1,761,508,535,306,19,17,44,27,4,2
+2016/17,Crystal Palace,Manchester United,39.1,60.9,587,836,400,625,19,23,21,29,0,1
+2016/17,Middlesbrough,Liverpool,37.1,62.9,587,859,393,679,19,19,17,18,1,4
+2016/17,Sunderland,Chelsea,33.9,66.1,494,815,314,619,14,16,36,18,1,3
+2016/17,West Bromwich Albion,Swansea City,39.5,60.5,575,731,350,520,18,25,50,27,3,1
+2016/17,West Ham United,Burnley,58.4,41.6,610,453,440,312,7,11,29,17,0,3
+2016/17,Everton,Arsenal,41.5,58.5,575,737,358,530,23,19,29,24,1,2
+2016/17,Manchester City,Watford,63.4,36.6,707,491,501,287,20,11,34,22,3,3
+2016/17,Stoke City,Southampton,28.3,71.7,416,767,227,560,16,19,45,17,1,2
+2016/17,Tottenham Hotspur,Hull City,63.4,36.6,862,554,670,383,6,15,26,14,2,4
+2016/17,AFC Bournemouth,Southampton,46.9,53.1,692,721,454,519,21,25,36,22,0,2
+2016/17,Crystal Palace,Chelsea,53.5,46.5,660,631,476,418,12,23,20,35,1,2
+2016/17,Everton,Liverpool,32.3,67.7,488,827,285,607,16,20,29,30,1,1
+2016/17,Manchester City,Arsenal,60.6,39.4,773,565,594,388,19,15,20,27,4,1
+2016/17,Middlesbrough,Swansea City,43.1,56.9,618,724,409,523,17,17,51,9,0,3
+2016/17,Stoke City,Leicester City,64.9,35.1,782,500,573,311,9,16,21,34,3,0
+2016/17,Sunderland,Watford,42.6,57.4,489,567,275,364,17,13,44,17,2,2
+2016/17,Tottenham Hotspur,Burnley,60.2,39.8,740,522,482,325,16,22,52,36,0,2
+2016/17,West Bromwich Albion,Manchester United,42.1,57.9,582,760,401,574,13,15,23,44,3,2
+2016/17,West Ham United,Hull City,56.3,43.7,624,513,419,322,7,20,38,27,1,9
+2016/17,Arsenal,West Bromwich Albion,75.6,24.4,989,440,813,246,15,16,23,30,0,4
+2016/17,Burnley,Middlesbrough,45.6,54.4,496,595,321,396,10,11,14,25,3,4
+2016/17,Chelsea,AFC Bournemouth,44.4,55.6,657,742,474,591,12,10,13,12,1,1
+2016/17,Hull City,Manchester City,32.7,67.3,504,857,320,683,14,14,26,33,2,1
+2016/17,Leicester City,Everton,42,58,573,744,393,549,19,14,17,35,3,3
+2016/17,Liverpool,Stoke City,63.8,36.2,831,575,625,352,26,25,22,36,0,2
+2016/17,Manchester United,Sunderland,62.2,37.8,793,524,607,365,8,11,25,31,4,2
+2016/17,Southampton,Tottenham Hotspur,34.3,65.7,530,825,319,622,28,29,23,18,2,0
+2016/17,Swansea City,West Ham United,56.2,43.8,706,604,515,408,17,20,17,37,2,1
+2016/17,Watford,Crystal Palace,56.1,43.9,563,503,355,292,14,21,29,45,0,1
+2016/17,Arsenal,Crystal Palace,64.1,35.9,837,561,637,351,25,20,36,26,2,3
+2016/17,Burnley,Sunderland,45.8,54.2,518,626,344,418,21,12,10,39,3,2
+2016/17,Chelsea,Stoke City,59.6,40.4,647,477,473,322,12,17,21,31,2,2
+2016/17,Hull City,Everton,43.4,56.6,613,738,405,525,22,23,22,35,4,0
+2016/17,Leicester City,West Ham United,39.7,60.3,520,682,311,481,15,10,41,21,3,2
+2016/17,Liverpool,Manchester City,43,57,652,790,437,575,23,23,28,33,2,2
+2016/17,Manchester United,Middlesbrough,65.5,34.5,831,537,610,332,7,12,20,49,5,0
+2016/17,Southampton,West Bromwich Albion,67.8,32.2,800,484,572,278,22,22,29,28,1,1
+2016/17,Swansea City,AFC Bournemouth,45.1,54.9,648,753,451,571,14,16,21,19,1,2
+2016/17,Watford,Tottenham Hotspur,33.8,66.2,474,779,293,578,19,22,28,17,5,3
+2016/17,AFC Bournemouth,Arsenal,39.6,60.4,583,762,376,571,12,17,42,11,2,3
+2016/17,Crystal Palace,Swansea City,47.1,52.9,617,689,411,477,17,12,22,48,1,1
+2016/17,Everton,Southampton,54,46,715,645,487,403,23,24,31,34,4,2
+2016/17,Manchester City,Burnley,55,45,649,534,450,357,9,15,45,19,3,3
+2016/17,Middlesbrough,Leicester City,62.4,37.6,762,534,530,331,18,22,25,36,3,0
+2016/17,Stoke City,Watford,54,46,629,542,399,352,7,16,42,29,3,0
+2016/17,Sunderland,Liverpool,29.3,70.7,473,906,290,698,21,9,27,28,3,3
+2016/17,Tottenham Hotspur,Chelsea,45.5,54.5,633,731,440,526,24,19,26,21,2,4
+2016/17,West Bromwich Albion,Hull City,41,59,543,715,346,516,18,14,35,40,1,0
+2016/17,West Ham United,Manchester United,36.2,63.8,569,883,396,713,13,18,18,25,0,5
+2016/17,Burnley,Southampton,40.9,59.1,509,657,292,405,12,13,47,41,0,2
+2016/17,Everton,Manchester City,29.2,70.8,455,866,270,672,21,12,25,23,4,4
+2016/17,Hull City,AFC Bournemouth,39.2,60.8,551,752,356,572,13,8,27,26,3,3
+2016/17,Leicester City,Chelsea,35.2,64.8,503,836,341,640,13,6,17,38,2,1
+2016/17,Manchester United,Liverpool,55.9,44.1,726,621,487,389,25,28,32,49,4,2
+2016/17,Sunderland,Stoke City,51.2,48.8,661,630,438,424,17,13,21,36,5,1
+2016/17,Swansea City,Arsenal,43.2,56.8,631,766,446,605,12,17,19,20,2,0
+2016/17,Tottenham Hotspur,West Bromwich Albion,72.9,27.1,876,429,670,248,22,13,20,24,1,1
+2016/17,Watford,Middlesbrough,46,54,541,629,355,431,8,18,17,42,2,3
+2016/17,West Ham United,Crystal Palace,44.1,55.9,540,612,342,438,19,17,28,21,1,1
+2016/17,Arsenal,Burnley,69.8,30.2,795,431,578,237,11,26,37,33,2,0
+2016/17,AFC Bournemouth,Watford,62.9,37.1,731,496,526,319,9,10,28,47,3,2
+2016/17,Chelsea,Hull City,52.8,47.2,740,708,559,512,10,19,18,28,1,1
+2016/17,Crystal Palace,Everton,44,56,574,698,371,476,18,14,36,40,1,1
+2016/17,Liverpool,Swansea City,73.6,26.4,966,508,785,288,30,11,11,44,2,1
+2016/17,Manchester City,Tottenham Hotspur,54.6,45.4,698,622,473,399,22,19,21,31,3,5
+2016/17,Middlesbrough,West Ham United,61.5,38.5,722,541,529,338,19,18,16,49,2,0
+2016/17,Southampton,Leicester City,60.1,39.9,719,554,500,337,12,17,21,38,3,1
+2016/17,Stoke City,Manchester United,34.9,65.1,531,815,331,591,16,14,42,34,0,6
+2016/17,West Bromwich Albion,Sunderland,44.4,55.6,553,641,355,451,18,17,20,30,2,1
+2016/17,Arsenal,Watford,73.5,26.5,820,439,598,207,20,24,18,40,2,1
+2016/17,AFC Bournemouth,Crystal Palace,65.1,34.9,655,412,453,233,14,17,21,23,1,0
+2016/17,Burnley,Leicester City,59.9,40.1,659,502,422,286,16,12,38,53,1,4
+2016/17,Manchester United,Hull City,67.1,32.9,852,525,634,314,18,16,22,35,6,1
+2016/17,Middlesbrough,West Bromwich Albion,61.7,38.3,687,520,482,288,22,15,35,28,0,2
+2016/17,Sunderland,Tottenham Hotspur,28.4,71.6,417,762,226,557,24,11,54,21,2,3
+2016/17,Swansea City,Southampton,43.1,56.9,609,731,421,553,15,18,28,17,1,1
+2016/17,West Ham United,Manchester City,29.7,70.3,444,816,281,673,13,13,24,12,6,3
+2016/17,Liverpool,Chelsea,62.4,37.6,835,602,638,386,15,23,21,38,5,3
+2016/17,Stoke City,Everton,47.1,52.9,615,668,422,485,14,8,23,26,1,3
+2016/17,Chelsea,Arsenal,41.7,58.3,631,779,410,561,19,25,26,22,4,3
+2016/17,Crystal Palace,Sunderland,65.7,34.3,702,468,502,278,13,18,6,58,1,1
+2016/17,Everton,AFC Bournemouth,45.7,54.3,675,754,477,555,22,21,33,21,4,0
+2016/17,Hull City,Liverpool,27.8,72.2,467,851,255,636,12,13,68,13,2,1
+2016/17,Leicester City,Manchester United,32.4,67.6,489,855,292,644,14,17,17,52,1,2
+2016/17,Manchester City,Swansea City,68.8,31.2,908,485,704,323,17,25,29,20,4,0
+2016/17,Southampton,West Ham United,55.2,44.8,669,560,474,390,16,13,18,28,2,3
+2016/17,Tottenham Hotspur,Middlesbrough,65.2,34.8,816,530,583,315,20,31,24,47,5,1
+2016/17,Watford,Burnley,60.4,39.6,713,519,520,338,14,24,24,25,2,4
+2016/17,West Bromwich Albion,Stoke City,37.7,62.3,530,718,316,523,16,17,37,11,3,2
+2016/17,Arsenal,Hull City,49.1,50.9,665,664,483,479,21,15,26,18,4,0
+2016/17,AFC Bournemouth,Manchester City,37.7,62.3,555,816,362,598,16,20,26,32,2,2
+2016/17,Burnley,Chelsea,28.3,71.7,479,937,291,729,10,14,44,25,3,0
+2016/17,Liverpool,Tottenham Hotspur,50.9,49.1,652,641,425,421,17,20,16,35,2,1
+2016/17,Manchester United,Watford,57.9,42.1,808,617,587,426,28,17,32,18,5,0
+2016/17,Middlesbrough,Everton,45.9,54.1,675,772,470,562,26,24,18,28,0,2
+2016/17,Stoke City,Crystal Palace,57.5,42.5,657,536,451,327,24,19,33,17,3,2
+2016/17,Sunderland,Southampton,46.2,53.8,646,709,448,524,15,23,25,22,1,2
+2016/17,Swansea City,Leicester City,49,51,692,677,478,505,20,18,42,23,2,2
+2016/17,West Ham United,West Bromwich Albion,65.2,34.8,727,479,532,282,12,18,20,38,3,1
+2016/17,Chelsea,Swansea City,65.6,34.4,905,555,734,382,11,13,10,23,1,0
+2016/17,Crystal Palace,Middlesbrough,45.6,54.4,562,626,347,430,13,24,21,30,2,0
+2016/17,Everton,Sunderland,63.6,36.4,735,482,512,285,16,16,33,35,1,0
+2016/17,Hull City,Burnley,66.8,33.2,667,409,477,240,9,9,45,32,0,6
+2016/17,Leicester City,Liverpool,30.7,69.3,506,872,277,620,31,20,31,37,3,2
+2016/17,Manchester City,Manchester United,69.2,30.8,851,477,643,288,19,21,10,26,2,1
+2016/17,Southampton,Arsenal,47,53,634,682,433,504,10,16,24,23,2,1
+2016/17,Tottenham Hotspur,Stoke City,64.3,35.7,782,503,588,317,11,20,25,18,1,2
+2016/17,Watford,West Ham United,35.6,64.4,437,675,258,463,13,14,22,31,2,2
+2016/17,West Bromwich Albion,AFC Bournemouth,32.1,67.9,487,837,297,649,15,17,22,25,4,0
+2016/17,Leicester City,Hull City,49.5,50.5,598,632,396,410,22,16,21,45,1,0
+2016/17,Liverpool,Arsenal,53,47,637,605,456,405,16,15,24,38,5,3
+2016/17,Manchester United,AFC Bournemouth,68.6,31.4,802,492,620,294,13,14,14,49,3,0
+2016/17,Stoke City,Middlesbrough,54.8,45.2,650,571,435,369,16,23,17,27,1,4
+2016/17,Sunderland,Manchester City,29.2,70.8,461,901,287,718,25,15,15,21,4,3
+2016/17,Swansea City,Burnley,71.3,28.7,809,450,580,248,8,27,21,64,1,1
+2016/17,Tottenham Hotspur,Everton,51.5,48.5,677,631,462,440,15,22,19,13,2,4
+2016/17,Watford,Southampton,37.8,62.2,483,684,258,446,22,12,38,49,2,2
+2016/17,West Bromwich Albion,Crystal Palace,51.4,48.6,576,547,370,341,13,21,34,31,0,1
+2016/17,West Ham United,Chelsea,51.8,48.2,744,714,554,530,18,15,7,29,1,1
+2016/17,Arsenal,Leicester City,68.9,31.1,874,503,692,317,10,16,16,39,8,6
+2016/17,AFC Bournemouth,West Ham United,51.4,48.6,580,554,358,340,18,13,31,28,4,2
+2016/17,Burnley,Liverpool,19.6,80.4,380,1032,210,848,13,18,34,8,3,0
+2016/17,Chelsea,Watford,47.1,52.9,662,713,456,522,32,12,14,17,4,2
+2016/17,Crystal Palace,Tottenham Hotspur,31.1,68.9,478,810,264,593,24,24,26,26,1,0
+2016/17,Everton,West Bromwich Albion,62.8,37.2,780,524,605,352,11,20,19,21,1,2
+2016/17,Hull City,Swansea City,49.8,50.2,559,566,376,377,13,14,23,30,7,3
+2016/17,Manchester City,Stoke City,65.3,34.7,839,531,621,331,21,20,27,25,1,1
+2016/17,Middlesbrough,Sunderland,48.9,51.1,577,609,397,416,13,15,32,23,1,6
+2016/17,Southampton,Manchester United,52.8,47.2,647,616,484,450,12,9,11,32,0,3
+2016/17,AFC Bournemouth,Swansea City,47.8,52.2,655,677,449,476,17,18,30,12,2,1
+2016/17,Crystal Palace,Watford,43,57,496,577,284,394,18,15,43,28,1,1
+2016/17,Everton,Hull City,51.5,48.5,689,614,469,425,19,22,33,15,4,0
+2016/17,Manchester City,Liverpool,59.5,40.5,795,594,563,383,25,29,18,29,6,2
+2016/17,Middlesbrough,Manchester United,63.9,36.1,727,507,555,326,16,15,11,39,0,1
+2016/17,Stoke City,Chelsea,36.2,63.8,479,740,290,522,21,23,17,29,3,2
+2016/17,Sunderland,Burnley,44,56,487,589,297,384,15,9,51,37,0,1
+2016/17,Tottenham Hotspur,Southampton,50.5,49.5,647,660,456,443,13,21,24,29,2,7
+2016/17,West Bromwich Albion,Arsenal,23.3,76.7,390,915,221,752,14,10,23,19,2,1
+2016/17,West Ham United,Leicester City,58.6,41.4,710,530,478,354,20,23,22,28,2,0
+2016/17,Arsenal,Manchester City,44.4,55.6,611,715,405,506,24,25,21,23,5,6
+2016/17,Burnley,Tottenham Hotspur,39,61,547,792,361,573,24,12,27,37,5,1
+2016/17,Chelsea,Crystal Palace,72.9,27.1,814,450,608,229,20,16,15,47,4,2
+2016/17,Hull City,West Ham United,45.7,54.3,569,689,385,454,19,14,24,30,2,1
+2016/17,Leicester City,Stoke City,48.3,51.7,614,664,394,418,20,11,28,40,1,4
+2016/17,Liverpool,Everton,51.4,48.6,676,648,472,429,23,25,26,17,1,1
+2016/17,Manchester United,West Bromwich Albion,74.8,25.2,964,450,761,261,15,18,12,46,3,3
+2016/17,Southampton,AFC Bournemouth,61.3,38.7,729,528,554,347,9,14,21,31,4,1
+2016/17,Swansea City,Middlesbrough,55.7,44.3,617,552,420,358,7,19,14,35,1,0
+2016/17,Watford,Sunderland,56.7,43.3,612,498,387,302,19,9,37,34,1,0
+2016/17,Arsenal,West Ham United,65.8,34.2,858,545,680,347,18,18,10,28,2,3
+2016/17,Burnley,Stoke City,48.1,51.9,580,610,372,400,10,10,41,40,4,3
+2016/17,Hull City,Middlesbrough,47.8,52.2,608,622,400,433,6,17,42,16,1,1
+2016/17,Leicester City,Sunderland,54.7,45.3,612,528,400,328,11,18,34,27,1,3
+2016/17,Manchester United,Everton,61.6,38.4,802,567,576,370,23,19,25,53,3,3
+2016/17,Swansea City,Tottenham Hotspur,28.2,71.8,444,830,246,642,18,20,30,20,3,4
+2016/17,Watford,West Bromwich Albion,55.6,44.4,636,513,441,335,20,12,40,11,1,0
+2016/17,Chelsea,Manchester City,39.3,60.7,581,818,399,616,17,11,24,21,1,0
+2016/17,Liverpool,AFC Bournemouth,66.1,33.9,810,514,588,302,22,22,20,34,2,0
+2016/17,Southampton,Crystal Palace,61.5,38.5,614,457,401,252,11,17,22,29,1,1
+2016/17,AFC Bournemouth,Chelsea,51.1,48.9,729,716,540,524,24,19,12,24,0,1
+2016/17,Crystal Palace,Arsenal,27.8,72.2,455,829,233,628,22,20,37,18,5,2
+2016/17,Everton,Leicester City,60.1,39.9,801,578,594,382,18,18,26,31,2,2
+2016/17,Manchester City,Hull City,67.4,32.6,918,532,713,340,22,21,23,26,1,2
+2016/17,Middlesbrough,Burnley,57.3,42.7,635,503,451,340,12,16,25,22,2,2
+2016/17,Stoke City,Liverpool,44.3,55.7,593,679,380,486,20,23,25,26,7,2
+2016/17,Sunderland,Manchester United,29.7,70.3,426,763,237,582,16,11,24,34,2,2
+2016/17,Tottenham Hotspur,Watford,58.7,41.3,693,535,501,343,23,14,25,15,1,1
+2016/17,West Bromwich Albion,Southampton,41.9,58.1,586,748,383,549,11,21,15,34,1,0
+2016/17,West Ham United,Swansea City,46.3,53.7,556,618,361,413,25,10,40,14,2,0
+2016/17,Crystal Palace,Leicester City,57.9,42.1,661,511,420,311,19,24,24,32,0,2
+2016/17,Everton,Burnley,63.2,36.8,764,507,529,301,18,25,45,24,3,0
+2016/17,Manchester United,Chelsea,46.2,53.8,611,671,416,479,28,23,24,8,1,1
+2016/17,Middlesbrough,Arsenal,35.2,64.8,514,786,308,584,18,19,20,31,3,0
+2016/17,Southampton,Manchester City,41.1,58.9,615,809,434,628,21,13,17,15,3,0
+2016/17,Stoke City,Hull City,44.9,55.1,559,627,359,436,14,18,25,18,4,3
+2016/17,Sunderland,West Ham United,47.6,52.4,545,584,367,416,17,12,21,30,2,0
+2016/17,Tottenham Hotspur,AFC Bournemouth,68.8,31.2,834,476,655,297,13,18,14,27,3,2
+2016/17,Watford,Swansea City,53,47,634,586,446,381,16,20,23,21,4,2
+2016/17,West Bromwich Albion,Liverpool,36.3,63.7,505,789,311,566,15,21,20,34,6,2
+2016/17,Arsenal,Sunderland,62.5,37.5,744,508,543,336,9,15,17,32,2,3
+2016/17,AFC Bournemouth,Middlesbrough,68.1,31.9,790,457,601,276,22,20,5,31,2,2
+2016/17,Burnley,Manchester United,45.7,54.3,590,704,385,471,32,18,10,33,3,1
+2016/17,Chelsea,Southampton,47.8,52.2,649,705,477,509,15,10,25,19,0,2
+2016/17,Hull City,Watford,34.2,65.8,460,749,300,573,17,15,31,12,2,2
+2016/17,Leicester City,Tottenham Hotspur,37.3,62.7,519,781,321,561,24,17,16,28,4,2
+2016/17,Liverpool,Crystal Palace,72.3,27.7,851,459,626,234,23,28,21,34,0,3
+2016/17,Manchester City,West Bromwich Albion,70.8,29.2,870,456,686,282,24,11,10,17,2,1
+2016/17,Swansea City,Stoke City,45.4,54.6,565,649,365,455,23,15,22,21,1,1
+2016/17,West Ham United,Everton,40.6,59.4,534,695,346,524,17,20,19,24,1,2
+2016/17,Crystal Palace,Burnley,63.5,36.5,697,484,463,273,13,21,22,51,2,1
+2016/17,Everton,Chelsea,49.5,50.5,600,636,423,426,21,12,26,29,2,1
+2016/17,Manchester United,Swansea City,55.4,44.6,693,604,519,425,13,11,20,30,1,2
+2016/17,Middlesbrough,Manchester City,31.9,68.1,443,748,256,540,15,10,46,20,1,1
+2016/17,Southampton,Hull City,51.9,48.1,640,602,431,399,19,18,27,26,2,1
+2016/17,Stoke City,West Ham United,57.1,42.9,688,604,507,374,19,17,24,38,2,4
+2016/17,Sunderland,AFC Bournemouth,40.9,59.1,541,717,338,501,27,15,20,34,4,1
+2016/17,Tottenham Hotspur,Arsenal,51.2,48.8,633,609,416,405,14,21,30,25,2,5
+2016/17,Watford,Liverpool,40,60,556,757,357,537,20,12,30,23,6,0
+2016/17,West Bromwich Albion,Leicester City,54.8,45.2,587,514,392,323,16,17,27,30,1,1
+2016/17,Arsenal,Manchester United,50,50,705,707,524,530,19,22,24,16,2,4
+2016/17,AFC Bournemouth,Stoke City,57.8,42.2,697,538,514,358,13,13,34,15,1,2
+2016/17,Burnley,West Bromwich Albion,55.1,44.9,570,503,383,306,11,14,31,42,3,1
+2016/17,Chelsea,Middlesbrough,57.1,42.9,775,620,619,466,14,13,10,24,0,2
+2016/17,Hull City,Sunderland,59.5,40.5,640,502,451,317,13,16,18,27,0,4
+2016/17,Leicester City,Watford,41.9,58.1,541,709,333,487,24,12,29,45,5,4
+2016/17,Liverpool,Southampton,64.9,35.1,814,520,599,318,13,22,20,33,1,3
+2016/17,Manchester City,Crystal Palace,69.2,30.8,816,443,611,266,16,17,26,19,2,0
+2016/17,Swansea City,Everton,37.6,62.4,543,756,341,568,19,11,50,24,5,13
+2016/17,West Ham United,Tottenham Hotspur,32.4,67.6,483,744,272,571,14,17,44,12,3,0
+2016/17,AFC Bournemouth,Burnley,54.9,45.1,675,561,488,397,11,21,25,14,3,5
+2016/17,Crystal Palace,Hull City,29.7,70.3,384,659,200,487,19,13,38,16,3,1
+2016/17,Everton,Watford,62.1,37.9,768,537,538,317,12,16,53,46,2,1
+2016/17,Manchester City,Leicester City,65.8,34.2,740,453,541,276,15,17,29,21,3,3
+2016/17,Middlesbrough,Southampton,41.8,58.2,531,693,367,522,11,12,14,22,2,0
+2016/17,Stoke City,Arsenal,33.2,66.8,472,802,287,607,21,16,20,24,3,2
+2016/17,Sunderland,Swansea City,52.8,47.2,621,571,441,400,21,17,18,25,2,1
+2016/17,Tottenham Hotspur,Manchester United,60,40,724,564,530,356,18,17,16,33,2,1
+2016/17,West Bromwich Albion,Chelsea,32.4,67.6,436,746,262,571,18,7,28,24,3,1
+2016/17,West Ham United,Liverpool,33.3,66.7,462,765,289,594,14,16,21,13,3,3
+2016/17,Arsenal,Everton,49.5,50.5,621,603,438,428,18,10,30,20,0,1
+2016/17,Burnley,West Ham United,44.7,55.3,563,660,396,489,12,13,20,24,0,3
+2016/17,Chelsea,Sunderland,70.5,29.5,813,440,643,269,16,17,4,35,0,1
+2016/17,Hull City,Tottenham Hotspur,34.7,65.3,474,802,310,600,19,14,23,15,2,0
+2016/17,Leicester City,AFC Bournemouth,48.6,51.4,629,649,412,446,26,20,10,28,5,1
+2016/17,Liverpool,Middlesbrough,73.8,26.2,929,434,752,260,14,15,18,30,1,0
+2016/17,Manchester United,Crystal Palace,58.8,41.2,727,537,542,360,25,14,34,5,0,1
+2016/17,Southampton,Stoke City,61,39,686,510,512,319,11,16,21,29,3,2
+2016/17,Swansea City,West Bromwich Albion,65.3,34.7,795,500,589,316,17,18,17,24,1,0
+2016/17,Watford,Manchester City,32.9,67.1,440,789,297,620,20,19,6,13,0,2
+2016/17,Accrington Stanley,Bradford City,44,56,117,117,13,4,4,13,1,4,1,0
+2016/17,Barnet,Millwall,49,51,113,96,5,4,5,3,2,4,11,9

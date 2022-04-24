@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2012/13,Arsenal,Sunderland,70.1,29.9,899,474,703,294,16,28,7,34,2,1
+2012/13,Fulham,Norwich City,59.8,40.2,734,527,568,376,11,16,28,24,2,1
+2012/13,Newcastle United,Tottenham Hotspur,51.9,48.1,603,568,405,373,18,17,35,31,3,2
+2012/13,Queens Park Rangers,Swansea City,49.9,50.1,610,632,423,434,19,19,15,43,0,2
+2012/13,Reading,Stoke City,52.6,47.4,520,467,299,264,13,17,57,43,1,3
+2012/13,West Bromwich Albion,Liverpool,40.5,59.5,508,711,349,523,19,15,10,29,2,4
+2012/13,West Ham United,Aston Villa,34.2,65.8,480,759,277,566,18,24,37,37,0,2
+2012/13,Manchester City,Southampton,64.1,35.9,884,569,689,374,19,26,16,31,2,1
+2012/13,Wigan Athletic,Chelsea,52,48,643,639,473,456,23,17,6,29,0,2
+2012/13,Everton,Manchester United,30.8,69.2,485,850,275,646,19,15,42,33,0,1
+2012/13,Chelsea,Reading,71.6,28.4,856,419,651,234,13,10,28,38,0,2
+2012/13,Aston Villa,Everton,39.2,60.8,496,699,321,507,18,14,22,31,2,3
+2012/13,Chelsea,Newcastle United,52.5,47.5,667,641,513,451,17,18,22,27,1,3
+2012/13,Manchester United,Fulham,59.9,40.1,804,608,614,409,25,24,20,34,1,0
+2012/13,Norwich City,Queens Park Rangers,55.1,44.9,542,503,360,290,22,11,23,50,2,5
+2012/13,Southampton,Wigan Athletic,49.2,50.8,653,668,451,484,12,27,21,28,0,2
+2012/13,Swansea City,West Ham United,62.2,37.8,808,523,629,376,20,28,35,18,4,2
+2012/13,Tottenham Hotspur,West Bromwich Albion,59,41,689,533,487,343,22,17,28,22,2,3
+2012/13,Liverpool,Manchester City,48.7,51.3,658,694,462,484,18,26,20,41,0,1
+2012/13,Stoke City,Arsenal,33.3,66.7,457,747,240,517,28,28,42,31,2,1
+2012/13,Manchester City,Queens Park Rangers,59.9,40.1,832,605,634,421,19,22,31,29,3,0
+2012/13,Swansea City,Sunderland,63.8,36.2,815,507,622,354,21,31,28,19,1,1
+2012/13,Tottenham Hotspur,Norwich City,61.6,38.4,708,506,510,308,20,17,40,32,4,0
+2012/13,West Bromwich Albion,Everton,44.3,55.7,529,639,366,451,10,21,22,41,5,1
+2012/13,West Ham United,Fulham,45.1,54.9,659,757,453,554,26,21,33,18,1,2
+2012/13,Wigan Athletic,Stoke City,68.7,31.3,715,422,540,228,13,20,24,20,1,5
+2012/13,Liverpool,Arsenal,53,47,757,719,544,491,25,32,17,36,3,1
+2012/13,Newcastle United,Aston Villa,51.7,48.3,615,566,389,364,11,29,31,25,3,0
+2012/13,Southampton,Manchester United,45.1,54.9,680,782,487,587,21,16,27,33,2,2
+2012/13,Arsenal,Southampton,50,50,778,758,567,574,21,27,19,29,4,7
+2012/13,Aston Villa,Swansea City,42.1,57.9,552,694,327,474,18,19,24,61,2,1
+2012/13,Fulham,West Bromwich Albion,63,37,847,533,638,373,14,18,14,23,3,1
+2012/13,Manchester United,Wigan Athletic,52.2,47.8,627,562,424,388,20,19,20,25,1,0
+2012/13,Norwich City,West Ham United,48.9,51.1,561,573,365,373,15,16,33,42,3,3
+2012/13,Queens Park Rangers,Chelsea,52.7,47.3,669,602,451,401,33,22,43,19,3,1
+2012/13,Stoke City,Manchester City,33.8,66.2,494,781,287,585,22,20,32,24,2,1
+2012/13,Sunderland,Liverpool,34.1,65.9,496,809,306,611,25,27,20,19,1,1
+2012/13,Reading,Tottenham Hotspur,42.3,57.7,527,679,314,479,18,21,20,44,1,1
+2012/13,Everton,Newcastle United,58.3,41.7,631,510,406,294,17,22,40,56,3,3
+2012/13,Chelsea,Stoke City,59.7,40.3,652,524,466,306,18,20,16,43,2,2
+2012/13,Southampton,Aston Villa,60.4,39.6,734,525,492,314,25,20,39,36,5,3
+2012/13,Swansea City,Everton,48.5,51.5,583,611,393,414,16,11,33,31,1,3
+2012/13,West Bromwich Albion,Reading,52.9,47.1,631,599,440,382,11,14,27,33,1,1
+2012/13,West Ham United,Sunderland,61.3,38.7,681,505,454,291,23,28,29,48,1,1
+2012/13,Wigan Athletic,Fulham,63.6,36.4,750,509,581,320,16,9,17,34,4,0
+2012/13,Liverpool,Manchester United,52,48,657,636,459,420,23,29,19,44,0,1
+2012/13,Manchester City,Arsenal,41.2,58.8,637,869,433,638,38,23,22,27,1,1
+2012/13,Newcastle United,Norwich City,52.8,47.2,642,553,430,368,17,15,45,33,3,1
+2012/13,Tottenham Hotspur,Queens Park Rangers,43.3,56.7,580,655,336,459,19,18,57,31,2,3
+2012/13,Arsenal,Chelsea,51.4,48.6,690,664,470,459,30,26,19,28,4,3
+2012/13,Everton,Southampton,52.4,47.6,723,652,482,441,16,26,25,33,6,2
+2012/13,Fulham,Manchester City,28.9,71.1,466,888,276,726,15,13,28,16,1,2
+2012/13,Manchester United,Tottenham Hotspur,74.1,25.9,897,483,701,243,24,28,20,73,2,2
+2012/13,Norwich City,Liverpool,32.9,67.1,475,901,320,700,21,11,17,30,2,5
+2012/13,Reading,Newcastle United,47.4,52.6,579,663,348,409,21,22,30,80,3,1
+2012/13,Stoke City,Swansea City,39,61,517,737,313,519,24,20,29,47,0,1
+2012/13,Sunderland,Wigan Athletic,49.8,50.2,578,559,382,404,16,21,22,27,2,0
+2012/13,Aston Villa,West Bromwich Albion,57.4,42.6,634,547,422,322,19,26,16,54,3,3
+2012/13,Queens Park Rangers,West Ham United,50.5,49.5,610,584,355,334,19,21,73,51,1,1
+2012/13,Chelsea,Norwich City,68.9,31.1,899,495,731,317,11,17,15,37,2,1
+2012/13,Manchester City,Sunderland,60.5,39.5,739,536,529,339,15,17,29,30,2,3
+2012/13,Swansea City,Reading,71.5,28.5,803,440,600,224,16,19,36,43,2,5
+2012/13,West Bromwich Albion,Queens Park Rangers,44.9,55.1,555,666,382,463,22,17,23,25,3,4
+2012/13,West Ham United,Arsenal,31.3,68.7,456,803,266,606,15,21,49,27,1,1
+2012/13,Wigan Athletic,Everton,46.1,53.9,529,583,340,401,16,8,41,20,2,1
+2012/13,Liverpool,Stoke City,62.9,37.1,733,500,525,296,13,25,32,42,0,2
+2012/13,Newcastle United,Manchester United,45.5,54.5,638,729,422,529,11,32,23,53,0,2
+2012/13,Southampton,Fulham,41.9,58.1,573,735,365,521,22,12,43,40,4,0
+2012/13,Tottenham Hotspur,Aston Villa,55.9,44.1,687,550,455,360,18,17,46,27,1,3
+2012/13,Fulham,Aston Villa,50.7,49.3,678,652,455,451,8,18,36,40,2,2
+2012/13,Liverpool,Reading,56.8,43.2,729,584,497,366,22,22,35,22,3,3
+2012/13,Manchester United,Stoke City,64,36,803,485,625,336,11,17,39,15,3,0
+2012/13,Norwich City,Arsenal,28,72,436,862,244,669,26,14,31,23,4,4
+2012/13,Swansea City,Wigan Athletic,47.6,52.4,620,648,427,486,14,14,15,27,1,4
+2012/13,Tottenham Hotspur,Chelsea,42.2,57.8,587,709,344,493,21,20,44,37,1,5
+2012/13,West Bromwich Albion,Manchester City,43.9,56.1,507,636,353,451,17,10,22,32,0,1
+2012/13,West Ham United,Southampton,38.7,61.3,475,667,283,472,24,18,43,28,3,6
+2012/13,Queens Park Rangers,Everton,57,43,664,522,431,329,15,19,29,31,4,3
+2012/13,Sunderland,Newcastle United,65.5,34.5,689,474,451,241,26,24,23,59,3,0
+2012/13,Arsenal,Queens Park Rangers,66.5,33.5,809,508,599,294,21,21,14,32,1,7
+2012/13,Aston Villa,Norwich City,41.5,58.5,524,655,330,452,16,13,45,28,2,8
+2012/13,Manchester City,Swansea City,53.7,46.3,775,710,599,503,21,17,20,25,2,5
+2012/13,Reading,Fulham,34.1,65.9,480,811,288,612,11,15,30,43,1,0
+2012/13,Stoke City,Sunderland,52.2,47.8,593,560,390,359,14,22,17,38,2,0
+2012/13,Wigan Athletic,West Ham United,54.4,45.6,616,532,424,334,15,19,42,22,3,1
+2012/13,Chelsea,Manchester United,48.7,51.3,618,665,421,457,21,26,13,45,1,4
+2012/13,Everton,Liverpool,56.2,43.8,625,534,399,314,20,23,15,53,3,3
+2012/13,Newcastle United,West Bromwich Albion,50.4,49.6,623,611,403,404,19,23,35,35,3,7
+2012/13,Southampton,Tottenham Hotspur,52.3,47.7,659,661,473,448,19,15,14,61,3,5
+2012/13,Fulham,Everton,40.9,59.1,569,723,343,492,26,21,38,15,0,1
+2012/13,Manchester United,Arsenal,47.7,52.3,704,758,532,596,22,10,26,29,5,1
+2012/13,Norwich City,Stoke City,43.6,56.4,558,685,348,471,21,13,43,37,2,2
+2012/13,Sunderland,Aston Villa,55.6,44.4,611,551,409,336,20,20,26,60,5,2
+2012/13,Swansea City,Chelsea,52.2,47.8,667,611,481,442,19,22,32,21,3,2
+2012/13,Tottenham Hotspur,Wigan Athletic,51.1,48.9,627,593,401,406,16,16,40,29,3,3
+2012/13,West Ham United,Manchester City,35,65,479,770,283,570,23,9,50,30,2,3
+2012/13,Liverpool,Newcastle United,65.3,34.7,746,512,522,276,27,26,13,58,1,1
+2012/13,Queens Park Rangers,Reading,56.1,43.9,594,533,356,279,25,15,41,44,3,4
+2012/13,West Bromwich Albion,Southampton,43.5,56.5,588,701,381,501,21,23,31,21,3,3
+2012/13,Arsenal,Fulham,56.4,43.6,750,636,557,439,23,14,18,37,1,5
+2012/13,Aston Villa,Manchester United,30.5,69.5,491,875,283,670,17,14,47,37,0,3
+2012/13,Everton,Sunderland,62.6,37.4,739,528,537,326,16,18,27,45,1,2
+2012/13,Reading,Norwich City,49.3,50.7,536,551,316,348,11,20,31,49,4,3
+2012/13,Southampton,Swansea City,48.4,51.6,643,685,449,489,19,15,17,54,2,2
+2012/13,Stoke City,Queens Park Rangers,45.1,54.9,516,640,340,425,19,11,23,45,2,1
+2012/13,Wigan Athletic,West Bromwich Albion,65.9,34.1,749,478,553,277,21,21,19,34,1,3
+2012/13,Chelsea,Liverpool,43.1,56.9,607,723,386,507,35,31,24,15,1,7
+2012/13,Manchester City,Tottenham Hotspur,61.9,38.1,678,482,482,277,17,19,22,38,8,0
+2012/13,Newcastle United,West Ham United,49.8,50.2,597,626,366,385,21,24,33,67,1,1
+2012/13,Arsenal,Tottenham Hotspur,65.8,34.2,763,488,584,298,15,18,23,46,4,2
+2012/13,Liverpool,Wigan Athletic,48.9,51.1,627,639,418,447,23,20,13,25,1,2
+2012/13,Manchester City,Aston Villa,66.6,33.4,810,479,621,298,15,26,17,32,1,4
+2012/13,Newcastle United,Swansea City,52,48,673,650,439,406,18,23,30,60,2,2
+2012/13,Norwich City,Manchester United,37.7,62.3,547,776,354,581,11,17,41,30,3,1
+2012/13,Queens Park Rangers,Southampton,46.8,53.2,651,711,406,467,32,28,40,27,1,1
+2012/13,Reading,Everton,39.6,60.4,448,619,247,402,14,14,33,36,2,4
+2012/13,West Bromwich Albion,Chelsea,35.3,64.7,521,811,342,608,23,13,41,18,2,1
+2012/13,Fulham,Sunderland,49.3,50.7,661,678,480,499,15,12,32,27,4,2
+2012/13,West Ham United,Stoke City,58,42,669,541,430,327,14,16,46,66,1,3
+2012/13,Aston Villa,Arsenal,37.4,62.6,538,804,346,596,15,19,20,27,3,3
+2012/13,Everton,Norwich City,57.9,42.1,613,483,443,312,10,13,34,32,3,9
+2012/13,Manchester United,Queens Park Rangers,62.5,37.5,832,588,651,386,22,22,18,31,2,2
+2012/13,Stoke City,Fulham,40.3,59.7,539,710,323,489,19,17,38,47,2,2
+2012/13,Sunderland,West Bromwich Albion,49,51,622,652,428,469,17,20,16,32,2,1
+2012/13,Wigan Athletic,Reading,66.7,33.3,718,452,484,226,20,15,36,42,5,1
+2012/13,Chelsea,Manchester City,42.3,57.7,617,731,381,519,24,31,42,34,3,1
+2012/13,Southampton,Newcastle United,49.1,50.9,582,596,339,332,31,28,49,42,2,6
+2012/13,Swansea City,Liverpool,49.5,50.5,759,750,522,533,29,15,32,23,0,3
+2012/13,Tottenham Hotspur,West Ham United,59.4,40.6,670,484,453,306,10,17,42,27,1,2
+2012/13,Aston Villa,Reading,55.2,44.8,641,556,372,292,22,11,71,63,2,3
+2012/13,Sunderland,Queens Park Rangers,50.2,49.8,664,642,444,430,21,23,25,26,3,1
+2012/13,Chelsea,Fulham,59.7,40.3,773,623,582,405,14,26,8,55,4,2
+2012/13,Everton,Arsenal,42.6,57.4,610,774,383,526,30,23,30,38,6,0
+2012/13,Manchester United,West Ham United,66.1,33.9,847,501,646,305,12,14,53,32,2,1
+2012/13,Southampton,Norwich City,57.8,42.2,721,575,498,361,26,17,30,34,2,3
+2012/13,Stoke City,Newcastle United,52.2,47.8,605,586,366,344,24,25,30,62,3,0
+2012/13,Swansea City,West Bromwich Albion,64.7,35.3,869,521,679,366,16,21,32,22,6,2
+2012/13,Tottenham Hotspur,Liverpool,35,65,538,765,307,556,37,18,55,13,0,1
+2012/13,Wigan Athletic,Manchester City,45.6,54.4,593,682,411,502,20,21,18,25,1,1
+2012/13,Arsenal,Swansea City,52.5,47.5,780,725,608,561,14,22,14,22,0,6
+2012/13,Fulham,Tottenham Hotspur,45.8,54.2,641,755,459,553,20,22,14,46,2,2
+2012/13,Liverpool,Southampton,63.9,36.1,774,544,555,302,19,34,20,37,3,0
+2012/13,Manchester City,Everton,59.2,40.8,740,552,546,380,15,12,31,34,1,0
+2012/13,Queens Park Rangers,Aston Villa,54.5,45.5,682,606,447,389,20,21,38,47,9,4
+2012/13,Reading,Manchester United,41.7,58.3,584,778,397,586,19,19,16,41,0,2
+2012/13,West Bromwich Albion,Stoke City,57.2,42.8,659,537,452,333,17,22,36,34,4,2
+2012/13,West Ham United,Chelsea,42.2,57.8,562,690,338,494,23,15,43,38,3,3
+2012/13,Norwich City,Sunderland,49.6,50.4,620,633,441,440,14,15,39,24,3,4
+2012/13,Newcastle United,Wigan Athletic,50.2,49.8,643,631,471,457,16,17,28,15,2,1
+2012/13,Arsenal,West Bromwich Albion,59,41,701,524,494,331,24,21,17,30,6,5
+2012/13,Aston Villa,Stoke City,56.3,43.7,670,547,460,351,20,12,53,31,3,3
+2012/13,Southampton,Reading,65.1,34.9,686,446,465,231,22,15,31,41,2,4
+2012/13,Sunderland,Chelsea,45.3,54.7,549,668,352,456,19,26,25,45,0,2
+2012/13,Swansea City,Norwich City,66.8,33.2,840,493,661,320,11,18,33,26,1,1
+2012/13,Wigan Athletic,Queens Park Rangers,56.7,43.3,641,542,409,323,31,25,18,40,4,3
+2012/13,Everton,Tottenham Hotspur,49.6,50.4,603,626,398,403,22,22,27,48,4,0
+2012/13,Manchester City,Manchester United,56.2,43.8,698,575,481,372,16,28,20,37,4,4
+2012/13,West Ham United,Liverpool,38.6,61.4,557,754,308,535,27,22,37,39,5,1
+2012/13,Fulham,Newcastle United,45.3,54.7,635,714,401,475,25,19,43,41,0,1
+2012/13,Sunderland,Reading,49.3,50.7,611,589,384,386,21,19,60,26,3,2
+2012/13,Liverpool,Aston Villa,72.1,27.9,780,422,564,211,11,25,13,53,3,0
+2012/13,Manchester United,Sunderland,61.5,38.5,727,500,520,307,15,23,42,20,2,1
+2012/13,Newcastle United,Manchester City,53.7,46.3,630,596,405,357,20,27,33,54,0,5
+2012/13,Norwich City,Wigan Athletic,48.2,51.8,616,668,417,453,20,19,18,25,1,6
+2012/13,Queens Park Rangers,Fulham,44.9,55.1,575,675,404,486,17,9,38,23,2,2
+2012/13,Stoke City,Everton,48.7,51.3,530,550,328,338,14,25,26,41,1,1
+2012/13,Tottenham Hotspur,Swansea City,49.9,50.1,691,664,476,481,19,19,33,19,1,5
+2012/13,West Bromwich Albion,West Ham United,55.3,44.7,623,531,394,323,12,18,39,53,2,0
+2012/13,Reading,Arsenal,32.9,67.1,525,911,339,718,12,16,26,17,5,3
+2012/13,Liverpool,Fulham,55.6,44.4,740,622,553,431,24,19,18,21,2,0
+2012/13,Manchester City,Reading,73.3,26.7,867,409,677,235,8,15,24,36,0,1
+2012/13,Newcastle United,Queens Park Rangers,58.6,41.4,643,528,411,303,11,20,36,48,2,6
+2012/13,Southampton,Sunderland,57.6,42.4,660,526,444,330,10,16,20,46,2,2
+2012/13,Tottenham Hotspur,Stoke City,63.2,36.8,682,484,433,254,24,25,44,54,1,2
+2012/13,West Bromwich Albion,Norwich City,49.6,50.4,584,598,393,408,15,15,29,28,2,0
+2012/13,West Ham United,Everton,37.7,62.3,458,653,270,452,11,14,40,37,3,6
+2012/13,Wigan Athletic,Arsenal,50.4,49.6,679,685,487,480,25,16,11,21,5,1
+2012/13,Chelsea,Aston Villa,56.6,43.4,737,613,559,420,14,19,18,27,3,5
+2012/13,Swansea City,Manchester United,40.3,59.7,586,752,390,574,16,14,44,18,3,0
+2012/13,Aston Villa,Tottenham Hotspur,40.9,59.1,569,707,343,486,17,14,48,18,4,1
+2012/13,Everton,Wigan Athletic,47.3,52.7,612,662,398,465,22,11,18,35,2,1
+2012/13,Fulham,Southampton,50.6,49.4,635,647,430,400,19,17,34,43,2,3
+2012/13,Manchester United,Newcastle United,60.7,39.3,666,493,467,297,10,20,42,32,3,0
+2012/13,Norwich City,Chelsea,36.9,63.1,548,828,358,635,20,17,22,31,4,1
+2012/13,Queens Park Rangers,West Bromwich Albion,49.8,50.2,596,552,329,348,18,26,35,36,2,3
+2012/13,Reading,Swansea City,28,72,391,827,220,631,23,12,25,51,2,1
+2012/13,Stoke City,Liverpool,37.6,62.4,482,718,284,496,26,21,17,40,1,4
+2012/13,Sunderland,Manchester City,33,67,461,770,273,579,21,13,20,31,1,1
+2012/13,Arsenal,Newcastle United,44.2,55.8,604,711,411,519,24,18,26,20,2,1
+2012/13,Aston Villa,Wigan Athletic,45.9,54.1,621,692,425,518,16,16,26,28,2,2
+2012/13,Fulham,Swansea City,59.4,40.6,719,558,500,327,13,18,16,58,1,0
+2012/13,Manchester United,West Bromwich Albion,58,42,719,542,492,348,17,15,49,33,1,0
+2012/13,Norwich City,Manchester City,46.4,53.6,580,672,390,466,20,19,29,31,3,1
+2012/13,Reading,West Ham United,33.8,66.2,423,621,214,417,18,23,52,21,5,3
+2012/13,Stoke City,Southampton,54.9,45.1,591,539,348,284,14,21,34,68,2,4
+2012/13,Sunderland,Tottenham Hotspur,44.7,55.3,576,685,359,448,23,18,22,51,2,1
+2012/13,Everton,Chelsea,48,52,586,622,349,411,14,16,41,49,5,4
+2012/13,Queens Park Rangers,Liverpool,33.5,66.5,529,820,302,614,27,26,28,13,3,0
+2012/13,Manchester City,Stoke City,61.6,38.4,750,523,567,346,13,22,22,39,0,1
+2012/13,Southampton,Arsenal,44.1,55.9,652,766,413,538,24,27,30,31,4,3
+2012/13,Swansea City,Aston Villa,69.5,30.5,804,508,587,252,16,18,28,93,2,2
+2012/13,Tottenham Hotspur,Reading,68,32,814,455,611,281,13,16,32,31,2,4
+2012/13,West Bromwich Albion,Fulham,44.7,55.3,592,723,380,504,17,26,23,40,2,2
+2012/13,West Ham United,Norwich City,50.5,49.5,602,597,384,388,13,14,49,42,1,5
+2012/13,Wigan Athletic,Manchester United,52.8,47.2,687,627,517,449,20,21,19,17,2,4
+2012/13,Chelsea,Queens Park Rangers,63.9,36.1,741,500,529,297,10,19,21,26,1,4
+2012/13,Liverpool,Sunderland,66.2,33.8,825,479,620,303,18,19,25,32,7,0
+2012/13,Newcastle United,Everton,50.5,49.5,591,568,378,355,23,15,49,42,1,5
+2012/13,Aston Villa,Southampton,51,49,599,615,354,340,20,15,40,58,3,1
+2012/13,Everton,Swansea City,55.3,44.7,712,619,513,424,11,17,25,50,3,1
+2012/13,Fulham,Wigan Athletic,49.2,50.8,663,643,443,466,13,23,26,28,2,0
+2012/13,Norwich City,Newcastle United,54.7,45.3,673,603,455,378,20,17,25,74,4,0
+2012/13,Queens Park Rangers,Tottenham Hotspur,38.1,61.9,559,803,353,585,31,26,20,31,2,1
+2012/13,Reading,West Bromwich Albion,57.5,42.5,658,543,447,339,9,22,42,54,2,2
+2012/13,Stoke City,Chelsea,43.4,56.6,509,630,319,428,14,14,31,42,3,1
+2012/13,Sunderland,West Ham United,48,52,590,630,384,414,24,18,32,41,5,2
+2012/13,Arsenal,Manchester City,40,60,572,766,375,585,13,16,21,27,3,2
+2012/13,Manchester United,Liverpool,46,54,615,689,404,487,25,31,28,28,1,1
+2012/13,Chelsea,Southampton,58.6,41.4,773,610,593,400,13,21,23,44,3,3
+2012/13,Liverpool,Norwich City,67.7,32.3,875,481,694,318,12,21,20,28,2,1
+2012/13,Manchester City,Fulham,45.5,54.5,646,731,468,549,27,19,22,14,2,1
+2012/13,Newcastle United,Reading,55.6,44.4,674,583,445,369,14,19,48,43,4,1
+2012/13,Swansea City,Stoke City,56.1,43.9,726,561,515,402,14,12,48,22,2,0
+2012/13,West Bromwich Albion,Aston Villa,57.4,42.6,580,503,374,264,17,16,27,44,2,3
+2012/13,West Ham United,Queens Park Rangers,69.6,30.4,696,461,458,204,13,30,13,70,2,5
+2012/13,Wigan Athletic,Sunderland,70.4,29.6,794,446,623,257,12,18,5,36,2,1
+2012/13,Chelsea,Arsenal,50.3,49.7,643,647,415,394,38,24,30,30,5,5
+2012/13,Tottenham Hotspur,Manchester United,51,49,624,620,384,390,19,16,31,40,1,7
+2012/13,Southampton,Everton,53.4,46.6,696,608,450,387,21,20,40,26,1,3
+2012/13,Arsenal,West Ham United,69.1,30.9,814,484,618,271,16,14,26,42,2,5
+2012/13,Aston Villa,Newcastle United,51.7,48.3,606,569,359,327,17,20,70,65,2,2
+2012/13,Queens Park Rangers,Manchester City,31.3,68.7,497,793,269,603,20,16,46,12,1,1
+2012/13,Stoke City,Wigan Athletic,36.9,63.1,467,713,299,530,13,8,18,19,1,4
+2012/13,Sunderland,Swansea City,36.1,63.9,538,841,341,628,22,15,22,35,1,1
+2012/13,Arsenal,Liverpool,61.8,38.2,825,599,599,373,23,28,19,40,1,3
+2012/13,Everton,West Bromwich Albion,55.9,44.1,687,563,492,377,16,25,23,30,2,6
+2012/13,Fulham,West Ham United,44,56,586,644,313,377,37,23,73,48,2,2
+2012/13,Manchester United,Southampton,42.7,57.3,617,718,398,536,17,21,53,13,3,1
+2012/13,Norwich City,Tottenham Hotspur,41.6,58.4,522,678,324,445,28,14,34,53,3,0
+2012/13,Reading,Chelsea,32.4,67.6,450,762,271,596,16,14,50,28,4,5
+2012/13,Arsenal,Stoke City,65.4,34.6,833,500,620,321,10,12,28,35,2,2
+2012/13,Everton,Aston Villa,68.3,31.7,646,460,426,204,18,18,29,92,5,5
+2012/13,Fulham,Manchester United,44.8,55.2,575,675,360,437,21,20,35,59,2,7
+2012/13,Newcastle United,Chelsea,45.8,54.2,645,688,392,472,21,15,56,40,3,0
+2012/13,Queens Park Rangers,Norwich City,49.7,50.3,595,564,332,342,25,24,46,36,2,1
+2012/13,Reading,Sunderland,48.6,51.4,551,547,332,352,12,24,42,41,1,3
+2012/13,West Ham United,Swansea City,35.9,64.1,523,789,302,560,14,21,62,44,2,4
+2012/13,Wigan Athletic,Southampton,45.4,54.6,636,742,386,471,24,23,31,30,3,2
+2012/13,Manchester City,Liverpool,45.7,54.3,619,709,419,511,22,19,29,18,0,2
+2012/13,West Bromwich Albion,Tottenham Hotspur,30.3,69.7,438,830,263,610,20,11,30,29,6,2
+2012/13,Chelsea,Wigan Athletic,53,47,677,619,472,415,14,21,16,21,2,3
+2012/13,Norwich City,Fulham,43.1,56.9,579,726,407,541,14,24,21,33,2,0
+2012/13,Southampton,Manchester City,44.3,55.7,670,741,410,506,24,20,54,38,6,3
+2012/13,Stoke City,Reading,58.1,41.9,617,539,411,311,19,11,28,56,0,2
+2012/13,Sunderland,Arsenal,38.7,61.3,540,803,336,605,14,19,10,50,5,1
+2012/13,Swansea City,Queens Park Rangers,62.5,37.5,797,537,599,354,17,17,23,17,3,0
+2012/13,Tottenham Hotspur,Newcastle United,54.3,45.7,673,591,426,350,28,15,56,45,4,2
+2012/13,Aston Villa,West Ham United,48.2,51.8,614,601,361,366,32,25,54,33,5,3
+2012/13,Manchester United,Everton,47,53,659,692,434,490,20,22,42,22,4,1
+2012/13,Liverpool,West Bromwich Albion,58.5,41.5,741,589,529,377,19,24,24,32,4,1
+2012/13,Liverpool,Swansea City,54.3,45.7,730,643,555,459,14,16,8,35,1,3
+2012/13,Arsenal,Aston Villa,63.9,36.1,821,556,599,339,19,17,20,49,3,3
+2012/13,Fulham,Stoke City,60.7,39.3,726,513,513,322,13,21,41,28,1,2
+2012/13,Norwich City,Everton,44.8,55.2,588,709,397,502,17,19,26,45,2,2
+2012/13,Queens Park Rangers,Manchester United,48.4,51.6,633,660,405,440,23,23,27,35,1,2
+2012/13,Reading,Wigan Athletic,29.9,70.1,433,849,270,660,23,11,20,33,1,1
+2012/13,West Bromwich Albion,Sunderland,58.9,41.1,677,545,487,317,22,12,28,40,0,3
+2012/13,Manchester City,Chelsea,47,53,627,666,416,461,20,17,48,25,2,1
+2012/13,Newcastle United,Southampton,41.4,58.6,543,683,308,449,22,27,45,40,5,3
+2012/13,West Ham United,Tottenham Hotspur,38.3,61.7,505,712,282,468,25,17,38,52,2,2
+2012/13,Chelsea,West Bromwich Albion,52.9,47.1,658,585,470,419,18,18,21,20,2,1
+2012/13,Everton,Reading,60,40,677,490,432,270,16,19,51,33,1,4
+2012/13,Manchester United,Norwich City,65,35,838,512,665,361,11,21,18,17,3,2
+2012/13,Southampton,Queens Park Rangers,67,33,800,502,562,275,22,14,25,45,3,1
+2012/13,Stoke City,West Ham United,52.1,47.9,538,553,331,305,25,21,31,61,2,3
+2012/13,Sunderland,Fulham,49.5,50.5,614,650,406,439,21,19,16,45,3,1
+2012/13,Swansea City,Newcastle United,63.1,36.9,798,525,567,317,23,14,51,29,1,1
+2012/13,Wigan Athletic,Liverpool,52.1,47.9,723,682,523,480,20,25,11,30,0,4
+2012/13,Tottenham Hotspur,Arsenal,39.5,60.5,517,697,328,504,21,14,35,19,5,2
+2012/13,Aston Villa,Manchester City,47.2,52.8,631,670,416,475,16,24,29,32,3,1
+2012/13,Norwich City,Southampton,40.9,59.1,497,660,280,413,21,23,27,42,5,2
+2012/13,Queens Park Rangers,Sunderland,49.7,50.3,592,580,351,349,31,20,51,42,0,2
+2012/13,Reading,Aston Villa,41.5,58.5,491,684,285,454,9,18,27,63,2,1
+2012/13,West Bromwich Albion,Swansea City,44.2,55.8,613,776,451,572,19,15,11,35,1,4
+2012/13,Liverpool,Tottenham Hotspur,46.5,53.5,611,679,397,452,27,33,28,24,6,0
+2012/13,Newcastle United,Stoke City,56.2,43.8,623,521,399,313,19,21,42,31,1,3
+2012/13,Aston Villa,Queens Park Rangers,60.1,39.9,653,494,467,313,14,22,23,29,3,2
+2012/13,Everton,Manchester City,40.6,59.4,508,636,270,435,20,10,29,36,3,0
+2012/13,Manchester United,Reading,56.8,43.2,667,536,461,338,20,22,45,32,0,1
+2012/13,Southampton,Liverpool,47.9,52.1,620,642,386,435,15,21,27,36,0,6
+2012/13,Stoke City,West Bromwich Albion,48.5,51.5,529,565,342,376,18,9,21,41,2,2
+2012/13,Swansea City,Arsenal,56.9,43.1,804,629,618,454,16,13,28,8,3,1
+2012/13,Chelsea,West Ham United,63.8,36.2,737,494,539,282,13,17,31,44,1,0
+2012/13,Sunderland,Norwich City,65.1,34.9,646,456,451,231,16,16,30,45,3,1
+2012/13,Tottenham Hotspur,Fulham,59.5,40.5,729,570,503,344,13,20,36,40,1,4
+2012/13,Wigan Athletic,Newcastle United,49.8,50.2,618,653,417,427,21,21,21,29,1,6
+2012/13,Arsenal,Reading,70.1,29.9,860,461,673,276,11,19,14,39,3,1
+2012/13,Everton,Stoke City,54,46,619,553,397,330,15,26,43,37,1,2
+2012/13,Manchester City,Newcastle United,63.6,36.4,733,505,544,303,14,16,23,47,6,3
+2012/13,Southampton,Chelsea,50.8,49.2,671,639,438,426,20,19,33,30,3,3
+2012/13,Sunderland,Manchester United,38.6,61.4,527,754,330,541,23,21,15,52,1,3
+2012/13,Swansea City,Tottenham Hotspur,62.7,37.3,874,606,639,377,30,24,23,50,4,0
+2012/13,West Ham United,West Bromwich Albion,39.5,60.5,519,643,291,471,13,17,64,17,3,2
+2012/13,Wigan Athletic,Norwich City,52.8,47.2,599,540,391,345,20,18,49,28,4,4
+2012/13,Aston Villa,Liverpool,46.5,53.5,678,745,452,538,27,21,19,29,3,6
+2012/13,Fulham,Queens Park Rangers,48.3,51.7,605,633,404,432,17,16,41,15,6,4
+2012/13,Norwich City,Swansea City,34.7,65.3,499,795,294,571,24,18,32,40,0,1
+2012/13,Reading,Southampton,39.4,60.6,563,787,312,520,28,22,20,50,1,6
+2012/13,Stoke City,Aston Villa,45.6,54.4,529,606,333,406,15,22,22,39,2,3
+2012/13,West Bromwich Albion,Arsenal,51.9,48.1,607,608,442,419,15,15,14,41,6,1
+2012/13,Chelsea,Sunderland,61.7,38.3,726,513,514,319,20,23,27,26,3,1
+2012/13,Liverpool,West Ham United,65,35,811,541,597,315,18,29,18,47,4,0
+2012/13,Newcastle United,Fulham,49.6,50.4,622,634,404,432,20,20,24,46,4,0
+2012/13,Queens Park Rangers,Wigan Athletic,32.1,67.9,491,774,264,589,29,21,23,26,3,2
+2012/13,Tottenham Hotspur,Everton,61.9,38.1,791,541,516,309,19,34,44,44,2,2
+2012/13,Manchester United,Manchester City,45,55,572,654,345,438,29,23,27,42,3,1
+2012/13,Arsenal,Norwich City,67.9,32.1,809,484,616,287,25,19,15,38,3,4
+2012/13,Aston Villa,Fulham,48.7,51.3,641,665,439,475,19,15,17,40,5,2
+2012/13,Everton,Queens Park Rangers,60.2,39.8,613,511,399,276,26,24,12,52,2,6
+2012/13,Reading,Liverpool,39.9,60.1,518,729,307,503,16,19,21,35,2,6
+2012/13,Southampton,West Ham United,61.2,38.8,659,481,429,268,23,14,39,43,3,4
+2012/13,Newcastle United,Sunderland,65.8,34.2,622,409,375,186,17,22,37,39,4,2
+2012/13,Stoke City,Manchester United,42.2,57.8,507,672,343,472,21,19,17,38,0,2
+2012/13,Arsenal,Everton,56.8,43.2,747,614,507,389,19,33,18,35,1,2
+2012/13,Fulham,Chelsea,52.8,47.2,681,623,469,415,23,24,17,21,3,0
+2012/13,Manchester City,Wigan Athletic,50.4,49.6,668,641,461,456,15,21,13,12,6,2
+2012/13,West Ham United,Manchester United,33.5,66.5,498,794,292,598,15,20,28,35,2,1
+2012/13,Fulham,Arsenal,28.8,71.2,480,945,285,768,17,14,19,24,8,3
+2012/13,Norwich City,Reading,45.5,54.5,548,587,349,422,13,14,22,25,5,2
+2012/13,Queens Park Rangers,Stoke City,48.9,51.1,488,482,267,269,21,25,35,20,4,2
+2012/13,Sunderland,Everton,36.4,63.6,442,625,248,429,20,21,33,25,1,3
+2012/13,Swansea City,Southampton,54.7,45.3,728,640,502,426,23,22,30,25,3,0
+2012/13,West Bromwich Albion,Newcastle United,57.2,42.8,573,506,363,284,14,28,22,60,6,1
+2012/13,West Ham United,Wigan Athletic,36.6,63.4,483,669,268,480,14,19,45,17,4,2
+2012/13,Liverpool,Chelsea,57,43,710,592,499,385,18,24,24,22,1,1
+2012/13,Tottenham Hotspur,Manchester City,45.3,54.7,615,679,394,488,24,20,30,31,4,2
+2012/13,Manchester United,Aston Villa,51.9,48.1,740,693,553,528,25,23,15,20,4,0
+2012/13,Everton,Fulham,53.9,46.1,625,562,420,364,23,14,21,34,4,4
+2012/13,Manchester City,West Ham United,62,38,766,525,554,315,19,25,41,28,3,2
+2012/13,Newcastle United,Liverpool,53.2,46.8,788,710,565,504,21,31,30,24,2,5
+2012/13,Southampton,West Bromwich Albion,61.7,38.3,678,468,450,272,14,16,24,31,2,4
+2012/13,Stoke City,Norwich City,47.5,52.5,507,563,337,373,14,14,19,49,4,1
+2012/13,Wigan Athletic,Tottenham Hotspur,39,61,515,712,325,525,22,15,31,30,1,5
+2012/13,Arsenal,Manchester United,51.8,48.2,678,662,499,464,18,15,19,43,1,1
+2012/13,Chelsea,Swansea City,51.8,48.2,730,708,536,497,16,15,16,39,3,1
+2012/13,Reading,Queens Park Rangers,46.1,53.9,521,603,311,387,14,12,32,33,1,2
+2012/13,Aston Villa,Sunderland,55.5,44.5,672,582,474,376,18,22,18,38,2,1
+2012/13,Fulham,Reading,49,51,620,646,409,437,18,13,25,27,2,3
+2012/13,Norwich City,Aston Villa,53.7,46.3,571,531,386,342,11,15,20,49,2,1
+2012/13,Queens Park Rangers,Arsenal,41.2,58.8,608,811,399,582,23,22,31,25,5,5
+2012/13,Swansea City,Manchester City,38.1,61.9,555,792,388,640,17,8,22,17,2,2
+2012/13,Tottenham Hotspur,Southampton,49.5,50.5,630,616,393,407,18,21,43,30,5,2
+2012/13,West Bromwich Albion,Wigan Athletic,47.9,52.1,567,642,393,426,20,16,21,29,0,1
+2012/13,West Ham United,Newcastle United,45.8,54.2,452,529,272,342,16,16,31,47,6,4
+2012/13,Liverpool,Everton,54.8,45.2,682,596,451,366,23,33,19,31,3,1
+2012/13,Manchester United,Chelsea,48.7,51.3,575,579,393,414,15,16,32,18,5,2
+2012/13,Sunderland,Stoke City,47.6,52.4,532,551,331,367,17,17,23,23,0,3
+2012/13,Manchester City,West Bromwich Albion,53.6,46.4,658,585,438,378,15,12,39,26,0,1
+2012/13,Wigan Athletic,Swansea City,53.3,46.7,689,626,488,427,19,24,13,28,1,1
+2012/13,Chelsea,Tottenham Hotspur,44.1,55.9,545,675,335,437,29,21,22,44,3,3
+2012/13,Aston Villa,Chelsea,43.2,56.8,600,691,371,500,19,12,32,30,4,2
+2012/13,Everton,West Ham United,64.7,35.3,702,430,493,264,11,18,24,31,3,0
+2012/13,Fulham,Liverpool,48.4,51.6,703,735,513,544,14,23,26,24,3,2
+2012/13,Manchester United,Swansea City,52.1,47.9,694,667,557,507,11,7,20,29,2,0
+2012/13,Norwich City,West Bromwich Albion,48.1,51.9,588,628,409,451,16,17,13,36,2,2
+2012/13,Queens Park Rangers,Newcastle United,56.2,43.8,648,556,445,360,22,24,18,27,7,4
+2012/13,Stoke City,Tottenham Hotspur,32.7,67.3,431,746,231,516,25,11,31,53,0,4
+2012/13,Sunderland,Southampton,36,64,500,759,274,510,24,14,47,32,1,1
+2012/13,Arsenal,Wigan Athletic,47.5,52.5,646,724,452,513,24,13,14,18,2,5
+2012/13,Reading,Manchester City,38.7,61.3,540,780,361,597,12,12,26,21,1,2
+2012/13,Chelsea,Everton,43.5,56.5,601,734,387,524,23,22,17,29,1,1
+2012/13,Liverpool,Queens Park Rangers,66.4,33.6,826,532,607,311,14,24,10,42,2,1
+2012/13,Manchester City,Norwich City,60.3,39.7,667,505,497,317,17,14,25,24,2,2
+2012/13,Newcastle United,Arsenal,50.7,49.3,656,645,467,458,20,32,24,18,2,2
+2012/13,Southampton,Stoke City,63,37,710,482,522,296,20,17,31,35,3,2
+2012/13,Swansea City,Fulham,64.4,35.6,859,573,654,367,20,18,5,44,5,1
+2012/13,Tottenham Hotspur,Sunderland,68.2,31.8,728,448,467,222,18,24,37,43,4,2
+2012/13,West Bromwich Albion,Manchester United,35.4,64.6,477,779,321,601,19,15,15,20,4,2
+2012/13,West Ham United,Reading,48.4,51.6,565,551,352,369,17,15,32,26,5,0
+2012/13,Wigan Athletic,Aston Villa,54,46,683,625,512,432,25,15,22,13,2,4

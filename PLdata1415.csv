@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2014/15,Arsenal,Crystal Palace,76.9,23.1,975,444,730,222,26,33,30,40,0,1
+2014/15,Leicester City,Everton,36.5,63.5,531,784,344,605,13,19,37,28,1,1
+2014/15,Manchester United,Swansea City,59.6,40.4,752,569,558,383,13,19,12,35,1,1
+2014/15,Queens Park Rangers,Hull City,51,49,598,600,383,382,14,17,40,56,0,2
+2014/15,Stoke City,Aston Villa,63.1,36.9,749,503,517,289,27,19,43,26,1,1
+2014/15,West Bromwich Albion,Sunderland,57.8,42.2,628,543,439,323,18,29,15,42,0,3
+2014/15,West Ham United,Tottenham Hotspur,46.6,53.4,628,650,414,482,17,19,35,27,1,0
+2014/15,Liverpool,Southampton,56.1,43.9,849,662,601,450,16,35,50,14,2,2
+2014/15,Newcastle United,Manchester City,44.2,55.8,669,772,460,593,23,29,21,32,1,5
+2014/15,Burnley,Chelsea,38.6,61.4,589,862,413,668,12,19,21,29,3,1
+2014/15,Aston Villa,Newcastle United,40.4,59.6,524,708,348,535,17,12,29,23,4,0
+2014/15,Chelsea,Leicester City,63.3,36.7,777,498,530,295,23,28,42,26,2,2
+2014/15,Crystal Palace,West Ham United,45.9,54.1,596,676,378,454,29,23,23,36,1,3
+2014/15,Everton,Arsenal,45.8,54.2,627,725,445,527,19,15,33,28,2,0
+2014/15,Southampton,West Bromwich Albion,57.6,42.4,694,557,507,368,22,19,13,17,1,1
+2014/15,Swansea City,Burnley,55.4,44.6,757,637,558,445,16,19,39,23,3,1
+2014/15,Hull City,Stoke City,42.7,57.3,576,722,378,501,19,16,39,47,0,2
+2014/15,Sunderland,Manchester United,44.7,55.3,618,719,431,544,17,23,22,24,1,1
+2014/15,Tottenham Hotspur,Queens Park Rangers,65.5,34.5,879,549,686,347,24,24,15,22,1,4
+2014/15,Manchester City,Liverpool,52.9,47.1,746,686,586,508,16,17,25,20,1,1
+2014/15,Burnley,Manchester United,36,64,519,761,313,553,19,21,35,30,2,1
+2014/15,Everton,Chelsea,61.5,38.5,793,542,551,355,16,30,22,31,8,1
+2014/15,Manchester City,Stoke City,72.2,27.8,850,458,668,240,14,24,14,36,1,2
+2014/15,Newcastle United,Crystal Palace,64.3,35.7,693,477,477,268,18,20,15,48,0,2
+2014/15,Queens Park Rangers,Sunderland,39.7,60.3,530,720,328,510,23,21,32,25,1,2
+2014/15,Swansea City,West Bromwich Albion,55.9,44.1,770,610,573,441,16,21,29,8,2,1
+2014/15,West Ham United,Southampton,36.4,63.6,533,776,337,576,24,24,37,25,2,2
+2014/15,Aston Villa,Hull City,44.8,55.2,604,737,449,543,12,13,25,37,1,2
+2014/15,Leicester City,Arsenal,31.7,68.3,518,911,307,690,27,18,32,31,3,3
+2014/15,Tottenham Hotspur,Liverpool,60.4,39.6,773,581,559,370,17,28,16,45,3,1
+2014/15,Arsenal,Manchester City,45.4,54.6,727,801,462,560,31,37,26,29,2,2
+2014/15,Chelsea,Swansea City,55.3,44.7,768,668,573,455,17,18,11,40,0,3
+2014/15,Crystal Palace,Burnley,44.8,55.2,558,608,327,407,21,12,41,32,0,1
+2014/15,Liverpool,Aston Villa,74.7,25.3,923,424,741,243,12,13,25,45,3,1
+2014/15,Southampton,Newcastle United,50.3,49.7,731,756,552,544,29,14,19,16,3,0
+2014/15,Stoke City,Leicester City,59,41,684,551,440,327,14,22,21,47,3,0
+2014/15,Sunderland,Tottenham Hotspur,38,62,562,807,350,593,29,30,22,18,1,1
+2014/15,West Bromwich Albion,Everton,45.5,54.5,623,757,431,550,20,14,10,43,1,3
+2014/15,Manchester United,Queens Park Rangers,68.5,31.5,976,515,825,364,18,11,12,21,0,2
+2014/15,Hull City,West Ham United,40.9,59.1,579,703,332,478,34,16,50,25,1,1
+2014/15,Aston Villa,Arsenal,29.1,70.9,476,995,314,815,13,14,16,17,1,2
+2014/15,Burnley,Sunderland,44.3,55.7,557,680,370,482,19,11,20,37,2,1
+2014/15,Newcastle United,Hull City,63,37,779,550,577,342,14,16,19,52,1,5
+2014/15,Queens Park Rangers,Stoke City,52.5,47.5,628,572,404,375,19,29,33,38,0,1
+2014/15,Swansea City,Southampton,44,56,604,698,418,529,6,16,42,13,0,2
+2014/15,West Ham United,Liverpool,37.6,62.4,480,669,276,469,15,18,34,37,1,0
+2014/15,Everton,Crystal Palace,75.4,24.6,959,435,760,234,18,19,35,37,2,1
+2014/15,Leicester City,Manchester United,42.6,57.4,600,762,389,528,16,18,33,44,4,4
+2014/15,Manchester City,Chelsea,58.5,41.5,761,611,562,409,32,21,15,38,1,1
+2014/15,Tottenham Hotspur,West Bromwich Albion,61.8,38.2,722,512,512,320,13,17,26,35,0,2
+2014/15,Arsenal,Tottenham Hotspur,68.6,31.4,849,490,618,279,17,23,11,44,3,2
+2014/15,Chelsea,Aston Villa,62.5,37.5,857,559,701,416,5,10,23,27,5,0
+2014/15,Crystal Palace,Leicester City,39.6,60.4,492,651,290,457,16,20,28,33,1,0
+2014/15,Hull City,Manchester City,40.3,59.7,618,870,434,664,20,11,29,22,0,2
+2014/15,Liverpool,Everton,46.4,53.6,627,703,418,499,27,20,24,22,2,2
+2014/15,Manchester United,West Ham United,57.4,42.6,709,546,504,351,20,10,51,24,2,4
+2014/15,Southampton,Queens Park Rangers,55.4,44.6,675,590,483,401,20,13,16,35,4,1
+2014/15,Sunderland,Swansea City,49.5,50.5,552,585,377,394,16,18,13,33,2,2
+2014/15,West Bromwich Albion,Burnley,62.7,37.3,817,538,619,359,10,8,25,49,2,2
+2014/15,Stoke City,Newcastle United,44.1,55.9,567,641,344,422,22,21,39,22,4,0
+2014/15,Aston Villa,Manchester City,32.2,67.8,574,965,363,777,24,16,37,6,1,3
+2014/15,Hull City,Crystal Palace,59.1,40.9,743,549,519,351,21,20,51,26,1,2
+2014/15,Leicester City,Burnley,53.5,46.5,674,587,426,367,14,22,41,39,1,1
+2014/15,Liverpool,West Bromwich Albion,54.3,45.7,690,574,452,371,16,28,33,26,3,2
+2014/15,Sunderland,Stoke City,39.5,60.5,482,652,285,458,28,20,18,25,3,2
+2014/15,Swansea City,Newcastle United,62.9,37.1,823,529,627,347,14,25,26,12,3,3
+2014/15,Chelsea,Arsenal,47,53,648,744,441,505,29,25,29,29,3,0
+2014/15,Manchester United,Everton,48.7,51.3,646,664,442,475,15,13,31,32,1,3
+2014/15,Tottenham Hotspur,Southampton,46.2,53.8,599,665,360,438,20,33,33,33,6,2
+2014/15,West Ham United,Queens Park Rangers,48.7,51.3,627,661,402,431,23,23,32,49,4,2
+2014/15,Arsenal,Hull City,65.8,34.2,919,568,698,375,21,27,5,38,2,2
+2014/15,Burnley,West Ham United,46.5,53.5,605,678,360,426,13,17,32,60,2,1
+2014/15,Crystal Palace,Chelsea,28.5,71.5,465,934,288,757,15,17,23,25,2,0
+2014/15,Everton,Aston Villa,60.7,39.3,835,578,647,398,13,13,33,24,2,1
+2014/15,Manchester City,Tottenham Hotspur,61.7,38.3,812,587,618,377,20,19,17,18,3,2
+2014/15,Newcastle United,Leicester City,50.5,49.5,609,594,379,374,21,19,27,37,2,1
+2014/15,Southampton,Sunderland,52.6,47.4,662,614,472,428,20,10,32,25,3,0
+2014/15,Queens Park Rangers,Liverpool,43.5,56.5,569,685,336,454,22,26,27,58,1,2
+2014/15,Stoke City,Swansea City,43,57,570,693,358,483,23,25,24,27,4,1
+2014/15,West Bromwich Albion,Manchester United,37.3,62.7,558,790,359,574,13,19,55,28,0,1
+2014/15,Liverpool,Hull City,65.9,34.1,773,506,535,288,21,24,19,47,1,1
+2014/15,Southampton,Stoke City,61.2,38.8,752,534,561,351,21,21,13,19,1,3
+2014/15,Sunderland,Arsenal,42.9,57.1,608,755,401,539,21,31,19,25,2,0
+2014/15,Swansea City,Leicester City,49.5,50.5,718,735,543,554,15,17,23,19,1,1
+2014/15,West Bromwich Albion,Crystal Palace,68.8,31.2,760,457,560,258,14,20,28,35,1,4
+2014/15,West Ham United,Manchester City,30.5,69.5,441,763,239,560,16,17,32,36,3,2
+2014/15,Burnley,Everton,38.1,61.9,563,841,358,627,18,18,24,43,2,3
+2014/15,Manchester United,Chelsea,51.7,48.3,646,610,439,425,16,21,25,26,0,2
+2014/15,Tottenham Hotspur,Newcastle United,66.9,33.1,791,530,556,277,26,29,17,41,1,2
+2014/15,Queens Park Rangers,Aston Villa,35.2,64.8,521,809,320,575,19,12,39,34,2,5
+2014/15,Arsenal,Burnley,67.6,32.4,876,535,630,319,10,21,17,59,2,4
+2014/15,Chelsea,Queens Park Rangers,64.5,35.5,793,532,576,316,27,34,23,40,2,0
+2014/15,Everton,Swansea City,66.7,33.3,794,496,606,306,16,20,14,36,0,1
+2014/15,Hull City,Southampton,47.2,52.8,672,712,473,544,13,29,26,23,1,1
+2014/15,Leicester City,West Bromwich Albion,55.8,44.2,708,596,449,372,22,22,19,56,4,6
+2014/15,Newcastle United,Liverpool,35.5,64.5,529,793,307,583,27,29,33,25,0,7
+2014/15,Stoke City,West Ham United,59.5,40.5,670,504,425,307,17,34,22,42,0,2
+2014/15,Aston Villa,Tottenham Hotspur,40.1,59.9,512,703,339,510,10,19,38,35,1,1
+2014/15,Manchester City,Manchester United,52,48,680,660,482,456,19,24,17,29,3,3
+2014/15,Crystal Palace,Sunderland,53.5,46.5,651,615,412,376,15,40,18,48,0,3
+2014/15,Burnley,Hull City,47.2,52.8,537,601,336,384,12,16,32,52,2,2
+2014/15,Liverpool,Chelsea,58.4,41.6,749,586,524,378,16,22,29,45,6,1
+2014/15,Manchester United,Crystal Palace,71.4,28.6,870,445,667,260,16,26,29,31,1,3
+2014/15,Queens Park Rangers,Manchester City,41.4,58.6,595,722,352,507,21,14,51,36,3,0
+2014/15,Southampton,Leicester City,64.4,35.6,797,537,579,325,16,19,20,42,6,2
+2014/15,West Ham United,Aston Villa,57.9,42.1,666,543,431,335,13,16,40,54,5,1
+2014/15,Sunderland,Everton,41.8,58.2,551,742,373,538,18,10,13,37,2,1
+2014/15,Swansea City,Arsenal,48.1,51.9,629,646,435,462,15,16,35,19,4,0
+2014/15,Tottenham Hotspur,Stoke City,60.3,39.7,651,506,429,280,27,25,27,36,1,2
+2014/15,West Bromwich Albion,Newcastle United,57.9,42.1,735,605,524,373,25,25,28,33,1,1
+2014/15,Arsenal,Manchester United,61.4,38.6,695,531,490,317,19,27,10,45,1,4
+2014/15,Chelsea,West Bromwich Albion,73.7,26.3,905,436,744,270,9,17,10,31,5,2
+2014/15,Everton,West Ham United,56.3,43.7,692,541,485,340,13,17,62,15,3,1
+2014/15,Leicester City,Sunderland,39.9,60.1,453,591,260,396,18,17,39,20,0,5
+2014/15,Manchester City,Swansea City,59.4,40.6,862,688,665,453,16,25,14,34,0,2
+2014/15,Newcastle United,Queens Park Rangers,54,46,600,547,354,319,13,25,27,64,3,3
+2014/15,Stoke City,Burnley,72.7,27.3,818,455,565,230,9,18,20,70,2,0
+2014/15,Crystal Palace,Liverpool,36.4,63.6,470,730,291,527,17,10,25,45,2,1
+2014/15,Hull City,Tottenham Hotspur,27.3,72.7,436,818,220,613,20,14,48,14,4,1
+2014/15,Aston Villa,Southampton,35.9,64.1,486,742,299,531,13,10,44,19,1,2
+2014/15,Burnley,Aston Villa,46.6,53.4,646,701,433,502,19,14,25,38,1,2
+2014/15,Liverpool,Stoke City,47.7,52.3,651,691,444,483,21,17,36,34,0,1
+2014/15,Manchester United,Hull City,76.4,23.6,970,415,807,247,14,18,16,33,5,2
+2014/15,Queens Park Rangers,Leicester City,59,41,641,514,390,268,22,15,60,50,3,6
+2014/15,Sunderland,Chelsea,34,66,518,798,307,617,22,25,21,17,3,2
+2014/15,Swansea City,Crystal Palace,64.3,35.7,775,510,538,302,16,24,27,31,0,1
+2014/15,West Bromwich Albion,Arsenal,48.4,51.6,647,727,474,507,15,10,24,35,4,1
+2014/15,West Ham United,Newcastle United,47.5,52.5,577,615,367,414,19,21,44,28,4,2
+2014/15,Southampton,Manchester City,52.1,47.9,660,636,468,441,15,19,12,31,5,0
+2014/15,Tottenham Hotspur,Everton,38.6,61.4,582,808,384,603,23,22,25,16,2,4
+2014/15,Burnley,Newcastle United,42.2,57.8,527,658,324,444,18,18,39,33,2,2
+2014/15,Crystal Palace,Aston Villa,46.2,53.8,602,654,341,427,15,40,30,54,3,2
+2014/15,Leicester City,Liverpool,46.6,53.4,594,679,366,435,17,29,26,56,0,6
+2014/15,Manchester United,Stoke City,64,36,827,539,631,351,18,25,19,28,1,0
+2014/15,Swansea City,Queens Park Rangers,59,41,737,545,510,370,13,20,24,31,6,0
+2014/15,West Bromwich Albion,West Ham United,57.6,42.4,693,576,487,362,10,18,20,65,0,3
+2014/15,Arsenal,Southampton,58.6,41.4,785,597,539,382,24,22,16,40,2,1
+2014/15,Chelsea,Tottenham Hotspur,38.7,61.3,593,811,380,604,17,31,18,23,3,2
+2014/15,Everton,Hull City,57.5,42.5,745,577,526,384,16,28,31,29,1,0
+2014/15,Sunderland,Manchester City,35.5,64.5,572,941,417,762,17,21,10,21,1,1
+2014/15,Hull City,West Bromwich Albion,49.3,50.7,672,687,481,515,17,16,21,29,2,1
+2014/15,Liverpool,Sunderland,53.2,46.8,685,636,457,412,24,18,32,38,1,2
+2014/15,Manchester City,Everton,51.3,48.7,709,687,485,467,22,16,27,38,2,4
+2014/15,Newcastle United,Chelsea,33.5,66.5,542,848,314,627,23,25,51,31,1,4
+2014/15,Queens Park Rangers,Burnley,51,49,631,596,403,378,13,18,68,41,2,2
+2014/15,Stoke City,Arsenal,42.5,57.5,516,653,332,453,20,14,25,10,3,3
+2014/15,Tottenham Hotspur,Crystal Palace,67.6,32.4,839,505,605,274,29,31,43,22,1,4
+2014/15,Aston Villa,Leicester City,64.8,35.2,770,484,547,284,12,22,44,24,6,1
+2014/15,West Ham United,Swansea City,55.8,44.2,627,545,405,333,9,22,29,52,3,1
+2014/15,Southampton,Manchester United,51.9,48.1,703,670,510,478,28,27,10,33,4,1
+2014/15,Arsenal,Newcastle United,51.3,48.7,710,646,467,437,26,23,25,24,3,1
+2014/15,Burnley,Southampton,40.2,59.8,550,685,330,485,12,16,39,16,2,2
+2014/15,Chelsea,Hull City,59.6,40.4,731,572,538,358,18,28,19,44,0,1
+2014/15,Crystal Palace,Stoke City,43.9,56.1,530,649,316,412,25,21,31,44,1,0
+2014/15,Leicester City,Manchester City,42.7,57.3,569,723,358,515,15,15,15,46,2,9
+2014/15,Sunderland,West Ham United,56.9,43.1,640,543,444,335,14,11,26,32,2,1
+2014/15,West Bromwich Albion,Aston Villa,48.6,51.4,622,644,397,439,19,27,22,33,1,2
+2014/15,Manchester United,Liverpool,54.7,45.3,721,637,514,416,35,18,20,21,1,2
+2014/15,Swansea City,Tottenham Hotspur,53.5,46.5,724,643,471,422,26,26,35,33,5,0
+2014/15,Everton,Queens Park Rangers,53.5,46.5,671,610,464,391,31,21,35,22,4,4
+2014/15,Aston Villa,Manchester United,35.3,64.7,496,751,329,588,9,10,32,9,2,2
+2014/15,Hull City,Swansea City,56.6,43.4,685,613,484,369,20,16,12,67,3,4
+2014/15,Manchester City,Crystal Palace,72.5,27.5,921,459,740,273,18,21,30,20,3,1
+2014/15,Queens Park Rangers,West Bromwich Albion,43.4,56.6,565,643,337,434,9,13,64,30,4,1
+2014/15,Southampton,Everton,43.8,56.2,581,704,373,481,38,15,27,21,4,2
+2014/15,Tottenham Hotspur,Burnley,65.2,34.8,813,517,613,316,21,12,25,31,2,6
+2014/15,West Ham United,Leicester City,47.8,52.2,593,602,347,382,16,18,52,42,3,1
+2014/15,Liverpool,Arsenal,63.5,36.5,835,570,610,345,32,25,23,21,0,1
+2014/15,Newcastle United,Sunderland,51.8,48.2,606,584,400,381,15,29,16,21,1,4
+2014/15,Stoke City,Chelsea,50.9,49.1,673,695,441,451,17,37,20,38,1,2
+2014/15,Arsenal,Queens Park Rangers,55.9,44.1,750,607,539,422,15,26,19,20,3,0
+2014/15,Burnley,Liverpool,47.6,52.4,683,752,451,529,15,27,29,56,0,4
+2014/15,Chelsea,West Ham United,64.7,35.3,792,508,577,300,21,15,19,31,1,2
+2014/15,Crystal Palace,Southampton,42.9,57.1,569,738,374,520,13,23,20,47,2,2
+2014/15,Everton,Stoke City,61.9,38.1,756,564,548,333,14,20,22,53,3,3
+2014/15,Leicester City,Tottenham Hotspur,49.6,50.4,645,681,419,457,21,20,30,44,0,3
+2014/15,Manchester United,Newcastle United,61.9,38.1,741,524,570,346,18,13,23,23,4,1
+2014/15,Sunderland,Hull City,47.6,52.4,622,719,446,500,17,14,19,41,4,2
+2014/15,Swansea City,Aston Villa,43.4,56.6,616,773,462,602,9,20,26,22,3,2
+2014/15,West Bromwich Albion,Manchester City,47.9,52.1,660,712,459,513,16,21,17,25,4,4
+2014/15,Aston Villa,Sunderland,48.1,51.9,674,714,466,510,23,11,43,27,0,4
+2014/15,Hull City,Leicester City,62,38,818,595,577,367,23,25,34,46,2,1
+2014/15,Manchester City,Burnley,62.3,37.7,760,569,567,348,21,12,28,45,3,3
+2014/15,Newcastle United,Everton,53,47,636,608,456,415,20,13,16,43,2,2
+2014/15,Queens Park Rangers,Crystal Palace,53.9,46.1,619,586,380,339,29,19,31,63,1,0
+2014/15,Southampton,Chelsea,39.3,60.7,581,792,380,568,24,15,41,13,1,3
+2014/15,Stoke City,West Bromwich Albion,50.6,49.4,602,591,403,396,14,14,35,16,4,4
+2014/15,Tottenham Hotspur,Manchester United,48.4,51.6,614,629,374,397,26,27,27,35,1,6
+2014/15,West Ham United,Arsenal,57.8,42.2,621,547,385,295,18,25,37,54,2,1
+2014/15,Liverpool,Swansea City,43.5,56.5,658,803,473,612,21,9,21,20,2,1
+2014/15,Aston Villa,Crystal Palace,69.2,30.8,784,462,601,271,25,22,14,37,1,3
+2014/15,Hull City,Everton,44.5,55.5,554,640,331,424,30,12,44,31,2,1
+2014/15,Liverpool,Leicester City,58.8,41.2,687,541,481,332,22,19,37,21,2,1
+2014/15,Manchester City,Sunderland,63.8,36.2,853,554,655,373,15,20,23,16,1,3
+2014/15,Newcastle United,Burnley,51.5,48.5,640,609,408,392,18,25,47,47,2,4
+2014/15,Queens Park Rangers,Swansea City,41.4,58.6,572,767,365,512,18,12,28,43,3,3
+2014/15,Southampton,Arsenal,41.5,58.5,579,771,395,557,21,14,35,11,1,1
+2014/15,Stoke City,Manchester United,34.1,65.9,447,726,250,507,24,12,25,48,2,2
+2014/15,Tottenham Hotspur,Chelsea,46.2,53.8,655,715,425,499,30,29,33,14,1,0
+2014/15,West Ham United,West Bromwich Albion,45.8,54.2,623,660,398,487,18,17,41,27,6,0
+2014/15,Burnley,Queens Park Rangers,44.8,55.2,517,621,314,392,15,15,27,44,1,2
+2014/15,Chelsea,Newcastle United,63,37,812,547,602,343,24,26,29,20,7,0
+2014/15,Crystal Palace,Tottenham Hotspur,41.6,58.4,607,745,371,535,30,18,38,31,4,1
+2014/15,Everton,Manchester City,38.2,61.8,551,741,330,542,16,26,37,25,3,1
+2014/15,Leicester City,Aston Villa,37.6,62.4,533,762,308,527,21,20,36,37,2,6
+2014/15,Sunderland,Liverpool,47.4,52.6,631,702,447,508,13,26,14,28,2,0
+2014/15,Swansea City,West Ham United,60.8,39.2,822,582,628,388,13,18,35,25,2,1
+2014/15,West Bromwich Albion,Hull City,51.5,48.5,665,644,494,455,16,15,20,39,2,2
+2014/15,Arsenal,Stoke City,53.8,46.2,713,621,496,427,22,25,21,22,4,2
+2014/15,Manchester United,Southampton,60.5,39.5,770,556,568,372,18,13,26,32,2,2
+2014/15,Aston Villa,Liverpool,48.5,51.5,628,685,421,465,20,21,15,42,1,5
+2014/15,Burnley,Crystal Palace,50.8,49.2,601,600,376,361,26,9,46,64,0,1
+2014/15,Leicester City,Stoke City,43.2,56.8,542,703,336,465,27,17,35,43,0,3
+2014/15,Newcastle United,Southampton,58,42,786,634,543,406,24,37,17,33,1,3
+2014/15,Queens Park Rangers,Manchester United,38.3,61.7,580,815,358,595,20,19,41,41,1,2
+2014/15,Swansea City,Chelsea,45.4,54.6,675,750,496,596,21,12,29,10,0,3
+2014/15,Tottenham Hotspur,Sunderland,64.8,35.2,764,515,567,311,21,13,16,42,3,4
+2014/15,Manchester City,Arsenal,64.7,35.3,858,645,634,360,28,22,12,50,2,0
+2014/15,West Ham United,Hull City,54.1,45.9,739,649,502,430,18,20,30,53,1,2
+2014/15,Everton,West Bromwich Albion,68.8,31.2,869,500,643,301,12,25,30,53,4,3
+2014/15,Chelsea,Manchester City,42.8,57.2,616,773,416,544,29,27,21,19,2,3
+2014/15,Crystal Palace,Everton,54.1,45.9,676,634,441,390,21,24,28,50,0,3
+2014/15,Hull City,Newcastle United,52.7,47.3,685,689,488,449,26,19,17,39,4,0
+2014/15,Liverpool,West Ham United,66.1,33.9,779,483,542,268,26,23,44,25,1,1
+2014/15,Manchester United,Leicester City,71.4,28.6,891,451,679,261,14,27,43,20,3,1
+2014/15,Stoke City,Queens Park Rangers,51.5,48.5,587,547,368,352,22,23,29,36,5,2
+2014/15,Sunderland,Burnley,49.7,50.3,629,644,425,420,16,21,34,36,3,3
+2014/15,West Bromwich Albion,Tottenham Hotspur,37.2,62.8,531,815,346,615,27,16,12,31,2,1
+2014/15,Arsenal,Aston Villa,48,52,706,719,508,549,16,18,25,18,3,0
+2014/15,Southampton,Swansea City,63.2,36.8,841,607,648,402,13,13,6,45,0,3
+2014/15,Aston Villa,Chelsea,51,49,698,668,500,501,13,16,30,35,2,4
+2014/15,Everton,Liverpool,45.6,54.4,667,741,461,552,26,20,29,22,5,2
+2014/15,Leicester City,Crystal Palace,62.2,37.8,717,550,486,295,17,24,17,68,0,4
+2014/15,Manchester City,Hull City,73.6,26.4,892,452,690,253,11,20,17,55,3,1
+2014/15,Queens Park Rangers,Southampton,45.9,54.1,608,671,382,451,20,21,42,39,2,3
+2014/15,Swansea City,Sunderland,59.6,40.4,716,535,526,369,16,15,13,24,1,2
+2014/15,Tottenham Hotspur,Arsenal,56,44,722,619,482,386,21,20,30,39,6,3
+2014/15,Burnley,West Bromwich Albion,56,44,709,567,461,360,16,12,62,41,3,2
+2014/15,Newcastle United,Stoke City,41.9,58.1,539,646,318,440,12,20,43,26,2,1
+2014/15,West Ham United,Manchester United,41.2,58.8,520,647,285,414,18,20,49,48,3,2
+2014/15,Arsenal,Leicester City,57.1,42.9,767,604,564,405,15,22,36,12,1,2
+2014/15,Hull City,Aston Villa,37.8,62.2,503,671,303,496,14,14,49,18,1,1
+2014/15,Liverpool,Tottenham Hotspur,49.4,50.6,599,603,406,411,16,24,21,22,1,1
+2014/15,Sunderland,Queens Park Rangers,52.7,47.3,692,659,465,435,18,28,11,36,2,2
+2014/15,Chelsea,Everton,56.1,43.9,709,609,505,417,11,24,12,47,2,1
+2014/15,Crystal Palace,Newcastle United,53.5,46.5,647,586,417,369,27,18,30,38,6,0
+2014/15,Manchester United,Burnley,57.3,42.7,729,569,511,369,15,19,48,35,2,0
+2014/15,Southampton,West Ham United,66.8,33.2,705,449,519,257,13,17,13,34,3,0
+2014/15,Stoke City,Manchester City,50.9,49.1,665,646,454,451,11,22,22,25,3,4
+2014/15,West Bromwich Albion,Swansea City,35.6,64.4,484,738,299,552,21,12,28,24,0,1
+2014/15,Aston Villa,Stoke City,52.2,47.8,558,558,393,365,11,11,22,45,1,5
+2014/15,Chelsea,Burnley,61,39,815,590,585,371,28,22,44,36,3,2
+2014/15,Crystal Palace,Arsenal,52.9,47.1,636,655,366,365,21,21,20,76,3,3
+2014/15,Hull City,Queens Park Rangers,54.3,45.7,586,526,388,324,18,12,42,32,8,3
+2014/15,Manchester City,Newcastle United,56.9,43.1,785,640,604,448,28,21,22,17,1,2
+2014/15,Sunderland,West Bromwich Albion,61.9,38.1,662,491,456,278,15,21,25,40,3,2
+2014/15,Swansea City,Manchester United,36,64,522,789,333,585,12,10,32,25,3,1
+2014/15,Everton,Leicester City,58,42,760,583,546,388,21,20,35,19,1,1
+2014/15,Southampton,Liverpool,59.7,40.3,736,569,543,377,16,18,4,36,1,2
+2014/15,Tottenham Hotspur,West Ham United,64.8,35.2,758,514,519,268,28,24,24,48,2,4
+2014/15,Burnley,Swansea City,46.5,53.5,567,637,356,423,18,20,30,33,2,2
+2014/15,Manchester United,Sunderland,73.4,26.6,830,416,625,235,16,22,9,33,1,2
+2014/15,Newcastle United,Aston Villa,49.5,50.5,595,571,354,365,16,17,43,35,0,3
+2014/15,Stoke City,Hull City,57.9,42.1,667,499,476,357,10,24,23,21,1,0
+2014/15,West Bromwich Albion,Southampton,35.7,64.3,487,716,302,541,13,20,28,11,2,2
+2014/15,West Ham United,Crystal Palace,66.4,33.6,631,436,428,215,15,23,29,54,0,6
+2014/15,Arsenal,Everton,47.2,52.8,633,658,398,444,27,14,45,21,2,1
+2014/15,Liverpool,Manchester City,48,52,673,707,481,524,24,22,26,15,3,6
+2014/15,Aston Villa,West Bromwich Albion,58.2,41.8,701,534,506,348,14,15,46,28,3,2
+2014/15,Hull City,Sunderland,41.5,58.5,518,665,317,475,17,14,29,29,2,1
+2014/15,Southampton,Crystal Palace,62.2,37.8,752,550,491,297,25,23,29,47,0,2
+2014/15,Liverpool,Burnley,63.1,36.9,891,580,677,387,9,27,31,31,0,1
+2014/15,Manchester City,Leicester City,69.5,30.5,906,513,700,311,18,18,23,32,4,3
+2014/15,Newcastle United,Manchester United,32.4,67.6,467,789,257,554,30,15,24,38,1,6
+2014/15,Queens Park Rangers,Arsenal,43.2,56.8,620,811,386,520,18,20,22,69,5,2
+2014/15,Stoke City,Everton,43.7,56.3,602,709,365,472,26,16,35,31,0,1
+2014/15,Tottenham Hotspur,Swansea City,61,39,839,622,631,408,20,16,21,42,2,6
+2014/15,West Ham United,Chelsea,44.9,55.1,564,649,331,429,15,16,49,68,4,1
+2014/15,Queens Park Rangers,Tottenham Hotspur,37.5,62.5,498,714,266,454,27,24,39,47,3,3
+2014/15,Arsenal,West Ham United,67.9,32.1,797,502,590,272,16,18,16,52,3,3
+2014/15,Burnley,Manchester City,29.8,70.2,516,911,290,686,13,23,58,28,2,0
+2014/15,Crystal Palace,Queens Park Rangers,43.5,56.5,529,623,282,382,22,18,46,35,5,0
+2014/15,Leicester City,Hull City,51.3,48.7,611,580,395,385,22,17,33,35,0,4
+2014/15,Sunderland,Aston Villa,40.4,59.6,553,749,368,556,30,17,11,17,2,0
+2014/15,West Bromwich Albion,Stoke City,43.2,56.8,507,591,287,386,17,28,33,33,1,3
+2014/15,Chelsea,Southampton,60.9,39.1,825,656,605,393,14,32,21,47,2,4
+2014/15,Everton,Newcastle United,54.1,45.9,729,622,486,400,22,25,57,27,1,2
+2014/15,Manchester United,Tottenham Hotspur,51.6,48.4,711,681,508,476,32,20,25,21,5,4
+2014/15,Swansea City,Liverpool,46.3,53.7,702,772,483,566,19,27,15,25,1,0
+2014/15,Aston Villa,Swansea City,42.6,57.4,539,691,360,494,17,14,15,21,1,7
+2014/15,Manchester City,West Bromwich Albion,77.6,22.4,963,386,761,221,13,19,12,32,2,3
+2014/15,Newcastle United,Arsenal,50.9,49.1,690,706,450,441,26,32,21,36,3,4
+2014/15,Southampton,Burnley,60.2,39.8,725,541,554,360,10,12,16,33,1,0
+2014/15,Stoke City,Crystal Palace,56.9,43.1,621,522,426,331,16,15,21,35,3,4
+2014/15,Tottenham Hotspur,Leicester City,65.8,34.2,826,536,573,284,24,32,36,32,1,3
+2014/15,West Ham United,Sunderland,53.9,46.1,610,542,365,330,10,22,46,46,1,1
+2014/15,Hull City,Chelsea,42.9,57.1,597,751,407,542,26,21,25,36,5,1
+2014/15,Liverpool,Manchester United,41.7,58.3,602,774,407,569,13,28,21,28,0,3
+2014/15,Queens Park Rangers,Everton,52.3,47.7,677,654,413,391,22,21,40,71,4,5
+2014/15,Arsenal,Liverpool,48.6,51.4,694,722,479,509,24,25,19,22,4,3
+2014/15,Chelsea,Stoke City,60.5,39.5,829,584,635,415,10,18,21,30,2,1
+2014/15,Everton,Southampton,45.1,54.9,604,681,381,455,15,23,46,25,0,2
+2014/15,Leicester City,West Ham United,49.6,50.4,574,605,358,370,14,16,36,56,3,1
+2014/15,Manchester United,Aston Villa,76.4,23.6,920,412,736,234,16,16,19,35,0,2
+2014/15,Swansea City,Hull City,58.4,41.6,794,611,630,433,17,16,28,17,2,1
+2014/15,West Bromwich Albion,Queens Park Rangers,55,45,665,587,455,388,13,16,12,50,3,3
+2014/15,Burnley,Tottenham Hotspur,40,60,541,750,330,537,20,18,31,32,4,3
+2014/15,Sunderland,Newcastle United,53.2,46.8,579,549,346,309,27,20,22,34,2,1
+2014/15,Crystal Palace,Manchester City,25.9,74.1,448,887,238,667,24,23,34,14,2,0
+2014/15,Aston Villa,Queens Park Rangers,63.8,36.2,684,496,464,259,15,27,20,64,4,2
+2014/15,Burnley,Arsenal,31.8,68.2,529,917,307,688,15,15,46,36,3,2
+2014/15,Southampton,Hull City,54,46,742,648,550,463,19,20,27,24,2,0
+2014/15,Sunderland,Crystal Palace,53.7,46.3,615,569,405,355,28,17,18,22,2,2
+2014/15,Swansea City,Everton,50.9,49.1,625,607,449,440,18,14,18,24,2,1
+2014/15,Tottenham Hotspur,Aston Villa,57,43,695,553,468,363,19,32,17,20,5,2
+2014/15,West Bromwich Albion,Leicester City,45.9,54.1,511,577,316,355,16,23,33,26,0,3
+2014/15,West Ham United,Stoke City,35.3,64.7,439,632,235,428,15,8,59,23,2,4
+2014/15,Manchester United,Manchester City,58.6,41.4,764,568,546,385,15,22,34,25,3,3
+2014/15,Queens Park Rangers,Chelsea,39.9,60.1,527,706,304,470,25,17,45,50,4,3
+2014/15,Liverpool,Newcastle United,61.8,38.2,759,549,550,329,23,21,23,26,3,2
+2014/15,Chelsea,Manchester United,29.6,70.4,456,882,283,664,29,21,31,24,2,3
+2014/15,Crystal Palace,West Bromwich Albion,68.1,31.9,705,453,460,221,21,24,29,49,1,2
+2014/15,Everton,Burnley,65.6,34.4,706,447,506,263,14,8,38,36,1,0
+2014/15,Leicester City,Swansea City,41.1,58.9,572,752,355,534,32,14,18,45,0,3
+2014/15,Stoke City,Southampton,48.3,51.7,614,653,412,447,14,25,20,29,3,2
+2014/15,Manchester City,West Ham United,66.8,33.2,850,511,675,336,16,15,20,27,5,4
+2014/15,Newcastle United,Tottenham Hotspur,38.9,61.1,563,780,327,544,44,21,14,20,1,5
+2014/15,Burnley,Leicester City,59.9,40.1,656,486,406,273,9,19,64,45,1,2
+2014/15,Crystal Palace,Hull City,46.5,53.5,565,616,351,401,18,17,32,33,5,0
+2014/15,Manchester City,Aston Villa,44.9,55.1,595,690,428,519,9,13,21,12,1,6
+2014/15,Newcastle United,Swansea City,48.2,51.8,635,683,410,460,31,20,24,40,0,3
+2014/15,Queens Park Rangers,West Ham United,53.8,46.2,522,514,305,269,14,20,39,71,3,4
+2014/15,Southampton,Tottenham Hotspur,36.2,63.8,532,789,325,603,15,20,24,32,5,2
+2014/15,Stoke City,Sunderland,60.5,39.5,646,504,415,274,19,18,20,35,2,1
+2014/15,West Bromwich Albion,Liverpool,26.8,73.2,441,877,236,673,33,10,38,21,1,1
+2014/15,Arsenal,Chelsea,57,43,772,627,568,447,16,24,20,40,4,3
+2014/15,Everton,Manchester United,34.9,65.1,506,795,307,576,23,14,22,22,1,2
+2014/15,Hull City,Liverpool,31.2,68.8,467,799,260,591,30,28,22,20,1,0
+2014/15,Leicester City,Chelsea,37.1,62.9,540,836,349,609,23,8,34,35,4,3
+2014/15,Aston Villa,Everton,50.4,49.6,624,607,441,429,18,14,22,24,0,3
+2014/15,Leicester City,Newcastle United,47.9,52.1,538,571,301,341,29,19,29,36,3,1
+2014/15,Liverpool,Queens Park Rangers,62.1,37.9,690,482,475,284,24,21,31,22,3,3
+2014/15,Manchester United,West Bromwich Albion,79.7,20.3,928,360,720,185,15,13,12,39,3,0
+2014/15,Sunderland,Southampton,43.7,56.3,578,673,374,481,19,20,26,12,3,3
+2014/15,Swansea City,Stoke City,47.4,52.6,625,641,413,472,12,22,21,25,1,0
+2014/15,West Ham United,Burnley,60.2,39.8,658,524,454,307,5,10,29,43,2,2
+2014/15,Chelsea,Crystal Palace,61.7,38.3,767,546,556,322,24,26,38,27,1,2
+2014/15,Tottenham Hotspur,Manchester City,55,45,728,622,488,399,20,16,33,26,2,1
+2014/15,Hull City,Arsenal,32.3,67.7,476,863,315,685,13,17,21,27,4,1
+2014/15,Aston Villa,West Ham United,58.2,41.8,674,518,475,336,10,19,32,43,1,3
+2014/15,Crystal Palace,Manchester United,37.5,62.5,462,682,267,477,9,26,18,48,4,1
+2014/15,Everton,Sunderland,73,27,801,428,595,230,15,25,18,41,2,1
+2014/15,Hull City,Burnley,54.5,45.5,631,589,440,379,16,13,24,52,1,1
+2014/15,Leicester City,Southampton,30.8,69.2,487,789,255,585,21,18,36,15,0,1
+2014/15,Newcastle United,West Bromwich Albion,60.7,39.3,672,523,440,292,24,28,15,42,0,2
+2014/15,Stoke City,Tottenham Hotspur,45,55,546,646,337,431,15,11,41,36,5,1
+2014/15,Chelsea,Liverpool,47.8,52.2,606,668,433,468,24,18,13,24,1,3
+2014/15,Manchester City,Queens Park Rangers,59.5,40.5,687,519,492,333,15,17,31,17,1,5
+2014/15,Arsenal,Swansea City,67.9,32.1,962,555,762,359,16,24,9,18,1,1
+2014/15,Burnley,Stoke City,45.7,54.3,591,683,368,445,11,24,28,44,1,3
+2014/15,Liverpool,Crystal Palace,66.3,33.7,793,510,586,291,20,20,29,26,1,3
+2014/15,Queens Park Rangers,Newcastle United,47.5,52.5,560,622,315,338,34,30,39,40,1,1
+2014/15,Southampton,Aston Villa,35.6,64.4,460,719,295,547,10,7,29,25,3,1
+2014/15,Sunderland,Leicester City,50.6,49.4,542,524,304,290,23,21,37,33,2,0
+2014/15,Tottenham Hotspur,Hull City,55.7,44.3,706,586,524,401,18,19,34,18,0,5
+2014/15,West Ham United,Everton,45.3,54.7,575,660,364,446,15,23,28,39,2,2
+2014/15,Manchester United,Arsenal,57.4,42.6,772,639,560,414,37,17,26,22,8,2
+2014/15,Swansea City,Manchester City,47.1,52.9,683,732,463,530,20,23,18,14,0,2
+2014/15,West Bromwich Albion,Chelsea,40.5,59.5,580,779,422,623,19,16,23,13,1,1
+2014/15,Arsenal,Sunderland,75.1,24.9,1008,466,798,273,12,20,8,41,0,1
+2014/15,Arsenal,West Bromwich Albion,63.7,36.3,808,526,637,359,15,20,13,14,1,3
+2014/15,Aston Villa,Burnley,63.3,36.7,745,486,530,319,9,16,32,32,1,1
+2014/15,Chelsea,Sunderland,64.6,35.4,803,508,617,342,9,16,9,23,1,1
+2014/15,Crystal Palace,Swansea City,47.4,52.6,566,616,342,389,20,23,23,33,2,0
+2014/15,Everton,Tottenham Hotspur,40.4,59.6,588,826,409,624,15,15,20,21,2,4
+2014/15,Hull City,Manchester United,40.9,59.1,518,699,336,525,17,17,9,39,6,0
+2014/15,Leicester City,Queens Park Rangers,45.7,54.3,565,628,350,422,16,18,25,25,3,1
+2014/15,Manchester City,Southampton,54.5,45.5,670,602,475,393,16,21,29,16,0,7
+2014/15,Newcastle United,West Ham United,40.8,59.2,538,687,323,486,25,17,15,31,1,3
+2014/15,Stoke City,Liverpool,45.5,54.5,637,689,431,514,18,20,23,17,1,1

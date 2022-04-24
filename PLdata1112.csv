@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2011/12,Blackburn Rovers,Wolverhampton Wanderers,52,48,548,504,330,298,13,24,33,25,0,1
+2011/12,Fulham,Aston Villa,54.1,45.9,584,546,419,352,9,11,25,43,5,4
+2011/12,Liverpool,Sunderland,60.1,39.9,663,496,480,316,18,16,17,32,1,2
+2011/12,Newcastle United,Arsenal,37.8,62.2,523,762,320,548,23,22,31,27,3,1
+2011/12,Queens Park Rangers,Bolton Wanderers,45.2,54.8,546,633,332,418,16,23,45,38,2,1
+2011/12,Wigan Athletic,Norwich City,49.5,50.5,595,578,363,378,16,24,48,19,0,5
+2011/12,Stoke City,Chelsea,34.4,65.6,457,686,228,454,32,16,40,26,1,5
+2011/12,West Bromwich Albion,Manchester United,40.8,59.2,522,679,346,496,14,14,29,30,1,0
+2011/12,Manchester City,Swansea City,42.4,57.6,630,781,424,580,19,20,18,27,4,1
+2011/12,Arsenal,Liverpool,49.8,50.2,697,691,469,477,18,31,35,22,0,6
+2011/12,Aston Villa,Blackburn Rovers,51.6,48.4,598,578,407,382,19,17,26,30,1,4
+2011/12,Chelsea,West Bromwich Albion,65.7,34.3,801,506,582,300,27,21,15,25,1,6
+2011/12,Everton,Queens Park Rangers,51.8,48.2,634,603,433,422,21,25,14,38,4,1
+2011/12,Sunderland,Newcastle United,50,50,481,484,269,275,24,22,25,38,0,2
+2011/12,Swansea City,Wigan Athletic,64,36,728,473,545,305,9,20,13,37,2,1
+2011/12,Bolton Wanderers,Manchester City,43.5,56.5,527,706,349,480,19,10,29,40,2,4
+2011/12,Norwich City,Stoke City,46.9,53.1,509,571,326,381,17,8,32,44,3,0
+2011/12,Wolverhampton Wanderers,Fulham,53.5,46.5,659,577,472,394,10,11,20,34,3,1
+2011/12,Manchester United,Tottenham Hotspur,53,47,683,638,442,412,16,22,27,26,1,2
+2011/12,Aston Villa,Wolverhampton Wanderers,45.9,54.1,543,617,346,412,17,13,23,39,2,1
+2011/12,Blackburn Rovers,Everton,41.2,58.8,465,578,252,372,16,13,40,43,3,4
+2011/12,Chelsea,Norwich City,69.6,30.4,715,407,522,216,10,22,22,30,2,6
+2011/12,Liverpool,Bolton Wanderers,58.8,41.2,705,561,492,335,25,18,25,44,3,0
+2011/12,Swansea City,Sunderland,62,38,716,528,506,295,15,26,23,41,1,0
+2011/12,Wigan Athletic,Queens Park Rangers,55.2,44.8,619,536,428,349,20,17,25,25,1,0
+2011/12,Manchester United,Arsenal,56.3,43.7,729,598,533,408,31,15,21,23,7,0
+2011/12,Newcastle United,Fulham,46.4,53.6,609,664,385,442,35,18,36,28,4,3
+2011/12,Tottenham Hotspur,Manchester City,41.5,58.5,605,793,400,594,18,12,27,24,1,3
+2011/12,West Bromwich Albion,Stoke City,58.9,41.1,624,485,423,289,22,18,17,45,4,0
+2011/12,Arsenal,Swansea City,56.5,43.5,711,556,504,379,20,16,27,22,1,2
+2011/12,Bolton Wanderers,Manchester United,42.2,57.8,575,753,382,548,16,15,14,37,0,5
+2011/12,Everton,Aston Villa,54.2,45.8,606,523,393,342,14,21,23,32,0,6
+2011/12,Manchester City,Wigan Athletic,57.9,42.1,754,557,562,398,19,18,17,9,2,0
+2011/12,Stoke City,Liverpool,27.4,72.6,419,761,209,548,19,17,70,15,5,1
+2011/12,Sunderland,Chelsea,40.1,59.9,567,774,362,558,26,18,24,35,3,3
+2011/12,Wolverhampton Wanderers,Tottenham Hotspur,43.4,56.6,626,733,394,507,27,26,27,30,2,1
+2011/12,Fulham,Blackburn Rovers,58.3,41.7,692,582,441,336,21,29,28,51,2,0
+2011/12,Norwich City,West Bromwich Albion,51.8,48.2,647,607,404,393,26,11,25,37,0,3
+2011/12,Queens Park Rangers,Newcastle United,58.1,41.9,662,548,446,311,33,21,34,37,3,0
+2011/12,Aston Villa,Newcastle United,41.1,58.9,526,670,309,436,20,24,38,35,2,2
+2011/12,Blackburn Rovers,Arsenal,31.2,68.8,449,766,252,547,21,19,42,9,2,1
+2011/12,Bolton Wanderers,Norwich City,59.3,40.7,664,514,446,296,14,18,37,50,0,7
+2011/12,Everton,Wigan Athletic,47.2,52.8,594,612,372,438,17,22,18,23,3,2
+2011/12,Swansea City,West Bromwich Albion,53.7,46.3,736,654,560,476,22,20,19,15,0,2
+2011/12,Wolverhampton Wanderers,Queens Park Rangers,50.4,49.6,493,523,320,322,10,14,24,46,1,5
+2011/12,Fulham,Manchester City,35.8,64.2,526,809,330,619,20,18,28,26,2,2
+2011/12,Manchester United,Chelsea,56.6,43.4,728,609,530,392,28,25,20,11,2,0
+2011/12,Sunderland,Stoke City,56.7,43.3,621,517,436,318,18,14,39,41,1,0
+2011/12,Tottenham Hotspur,Liverpool,62.3,37.7,793,529,614,369,18,21,23,17,3,4
+2011/12,Arsenal,Bolton Wanderers,62.9,37.1,784,532,603,344,13,20,14,20,2,3
+2011/12,Chelsea,Swansea City,49.6,50.4,670,659,502,495,20,19,17,16,3,4
+2011/12,Liverpool,Wolverhampton Wanderers,47.9,52.1,573,573,352,397,15,14,49,18,5,2
+2011/12,Manchester City,Everton,62.7,37.3,761,541,567,322,23,22,14,38,2,1
+2011/12,Newcastle United,Blackburn Rovers,63.8,36.2,658,424,458,256,14,18,34,33,1,1
+2011/12,Stoke City,Manchester United,41.7,58.3,505,664,301,447,15,18,43,40,1,3
+2011/12,West Bromwich Albion,Fulham,43.1,56.9,582,724,388,537,29,24,13,17,6,2
+2011/12,Wigan Athletic,Tottenham Hotspur,36.1,63.9,499,815,342,610,25,17,17,19,1,2
+2011/12,Queens Park Rangers,Aston Villa,59.2,40.8,617,493,405,266,27,18,30,35,3,2
+2011/12,Norwich City,Sunderland,42.7,57.3,622,777,413,570,19,14,53,20,0,1
+2011/12,Aston Villa,Wigan Athletic,38.8,61.2,474,627,272,436,30,11,30,21,4,1
+2011/12,Blackburn Rovers,Manchester City,33.2,66.8,461,777,300,612,19,15,20,28,1,1
+2011/12,Everton,Liverpool,36,64,465,676,268,494,14,19,35,22,2,1
+2011/12,Manchester United,Norwich City,67.5,32.5,829,494,645,311,5,17,31,36,6,1
+2011/12,Sunderland,West Bromwich Albion,51.9,48.1,639,607,436,402,21,18,23,29,3,3
+2011/12,Wolverhampton Wanderers,Newcastle United,54.1,45.9,525,516,331,295,13,11,14,49,2,8
+2011/12,Bolton Wanderers,Chelsea,40.9,59.1,607,781,422,614,16,14,17,27,2,1
+2011/12,Fulham,Queens Park Rangers,48.9,51.1,625,645,432,446,14,11,28,25,1,3
+2011/12,Swansea City,Stoke City,59.1,40.9,634,493,442,280,18,21,35,39,2,2
+2011/12,Tottenham Hotspur,Arsenal,38.3,61.7,553,718,302,503,30,22,44,24,6,2
+2011/12,Chelsea,Everton,69.2,30.8,933,517,772,335,24,19,13,33,2,8
+2011/12,Liverpool,Manchester United,55.8,44.2,649,571,420,342,27,23,16,47,3,1
+2011/12,Manchester City,Aston Villa,64.1,35.9,831,531,663,361,12,20,20,15,2,1
+2011/12,Norwich City,Swansea City,39.8,60.2,573,789,381,598,25,11,30,26,1,2
+2011/12,Queens Park Rangers,Blackburn Rovers,49.5,50.5,567,544,316,317,32,24,40,39,3,1
+2011/12,Stoke City,Fulham,48.2,51.8,519,528,311,349,12,14,43,40,1,1
+2011/12,Wigan Athletic,Bolton Wanderers,54.1,45.9,669,606,446,372,22,33,14,27,5,0
+2011/12,Arsenal,Sunderland,62.7,37.3,772,525,564,331,19,25,22,31,2,5
+2011/12,Newcastle United,Tottenham Hotspur,55,45,656,577,450,373,20,24,14,44,4,3
+2011/12,West Bromwich Albion,Wolverhampton Wanderers,42,58,492,607,311,401,11,14,27,32,9,1
+2011/12,Aston Villa,West Bromwich Albion,38.5,61.5,486,653,286,458,27,17,34,15,0,5
+2011/12,Bolton Wanderers,Sunderland,51.9,48.1,599,545,358,311,25,16,50,33,1,4
+2011/12,Liverpool,Norwich City,55.4,44.6,751,633,497,406,19,25,19,39,9,0
+2011/12,Newcastle United,Wigan Athletic,53.8,46.2,620,571,428,373,13,28,16,23,1,3
+2011/12,Wolverhampton Wanderers,Swansea City,47.6,52.4,609,669,384,442,9,21,29,51,1,1
+2011/12,Arsenal,Stoke City,66.5,33.5,785,464,606,303,12,19,19,36,2,2
+2011/12,Blackburn Rovers,Tottenham Hotspur,44.5,55.5,542,640,346,433,17,13,31,42,0,4
+2011/12,Fulham,Everton,53.3,46.7,682,623,470,409,24,19,23,37,0,1
+2011/12,Manchester United,Manchester City,49,51,618,658,415,455,15,19,18,36,1,1
+2011/12,Queens Park Rangers,Chelsea,41.7,58.3,519,644,328,453,27,12,36,25,6,0
+2011/12,Chelsea,Arsenal,52.1,47.9,691,679,499,456,33,30,17,24,5,2
+2011/12,Everton,Manchester United,52.4,47.6,640,633,449,415,23,18,11,34,3,4
+2011/12,Manchester City,Wolverhampton Wanderers,50.5,49.5,627,623,445,447,14,13,17,32,1,1
+2011/12,Norwich City,Blackburn Rovers,49,51,617,669,415,446,22,17,37,43,1,1
+2011/12,Sunderland,Aston Villa,50,50,570,581,357,366,20,23,26,30,1,3
+2011/12,Swansea City,Bolton Wanderers,69.5,30.5,829,446,672,289,12,12,14,14,6,1
+2011/12,West Bromwich Albion,Liverpool,42.3,57.7,549,721,369,513,13,19,23,28,3,8
+2011/12,Wigan Athletic,Fulham,54.1,45.9,668,601,491,429,13,19,11,32,3,1
+2011/12,Tottenham Hotspur,Queens Park Rangers,55.8,44.2,674,577,477,364,23,19,29,25,3,3
+2011/12,Stoke City,Newcastle United,56.4,43.6,578,478,343,265,13,33,52,34,2,3
+2011/12,Arsenal,West Bromwich Albion,66.7,33.3,839,506,651,326,19,19,12,27,1,6
+2011/12,Aston Villa,Norwich City,47.2,52.8,558,581,335,374,20,16,38,26,5,1
+2011/12,Blackburn Rovers,Chelsea,37.7,62.3,498,739,323,549,15,18,19,40,3,3
+2011/12,Liverpool,Swansea City,52.3,47.7,727,695,512,471,13,19,8,45,2,4
+2011/12,Manchester United,Sunderland,57.3,42.7,680,543,483,364,7,24,38,34,4,2
+2011/12,Newcastle United,Everton,43.7,56.3,529,631,328,431,21,20,23,36,5,4
+2011/12,Queens Park Rangers,Manchester City,53.1,46.9,634,594,434,393,16,14,31,39,2,2
+2011/12,Bolton Wanderers,Stoke City,61.5,38.5,660,504,430,266,26,15,37,48,0,3
+2011/12,Fulham,Tottenham Hotspur,53.9,46.1,717,673,505,451,19,19,21,52,1,1
+2011/12,Wolverhampton Wanderers,Wigan Athletic,48.4,51.6,623,672,387,401,31,26,33,28,3,7
+2011/12,Everton,Wolverhampton Wanderers,47.8,52.2,550,604,368,433,9,14,27,43,1,4
+2011/12,Manchester City,Newcastle United,64.4,35.6,804,501,605,320,23,17,23,14,6,1
+2011/12,Norwich City,Arsenal,42.6,57.4,604,741,400,554,24,22,30,11,1,3
+2011/12,Stoke City,Queens Park Rangers,42.5,57.5,409,505,194,287,21,15,58,61,2,3
+2011/12,Sunderland,Fulham,51.9,48.1,674,657,492,464,14,13,14,34,5,4
+2011/12,Swansea City,Manchester United,50,50,777,788,563,583,19,30,17,27,1,3
+2011/12,West Bromwich Albion,Bolton Wanderers,53.8,46.2,693,638,492,421,20,19,28,21,2,0
+2011/12,Wigan Athletic,Blackburn Rovers,58.5,41.5,587,463,410,289,22,18,14,34,2,0
+2011/12,Chelsea,Liverpool,57.5,42.5,746,591,535,394,23,31,21,29,1,2
+2011/12,Tottenham Hotspur,Aston Villa,70.3,29.7,813,432,618,251,13,16,18,35,2,1
+2011/12,Arsenal,Fulham,55.6,44.4,772,657,551,452,28,21,13,29,3,2
+2011/12,Bolton Wanderers,Everton,45.4,54.6,565,649,355,433,28,14,47,30,4,3
+2011/12,Chelsea,Wolverhampton Wanderers,52,48,664,626,482,446,15,14,18,35,1,0
+2011/12,Manchester United,Newcastle United,59.8,40.2,682,488,425,286,29,22,42,33,4,2
+2011/12,Norwich City,Queens Park Rangers,44.1,55.9,495,569,290,370,16,13,44,37,2,1
+2011/12,Stoke City,Blackburn Rovers,42.2,57.8,512,613,282,407,18,29,59,32,2,3
+2011/12,Sunderland,Wigan Athletic,52.9,47.1,621,591,431,389,30,18,7,39,2,1
+2011/12,West Bromwich Albion,Tottenham Hotspur,43.8,56.2,555,708,368,483,24,21,22,28,1,4
+2011/12,Liverpool,Manchester City,51.3,48.7,708,710,502,489,24,20,21,36,2,2
+2011/12,Swansea City,Aston Villa,63,37,754,508,566,324,17,25,29,28,0,3
+2011/12,Aston Villa,Manchester United,43.8,56.2,536,693,355,473,16,8,29,47,2,3
+2011/12,Blackburn Rovers,Swansea City,31.6,68.4,505,876,323,694,27,22,22,22,1,0
+2011/12,Manchester City,Norwich City,68.8,31.2,883,481,692,300,12,14,22,40,4,1
+2011/12,Newcastle United,Chelsea,52.7,47.3,623,616,422,395,26,27,13,33,2,2
+2011/12,Queens Park Rangers,West Bromwich Albion,48.4,51.6,615,609,375,408,22,18,41,26,3,1
+2011/12,Tottenham Hotspur,Bolton Wanderers,58.9,41.1,734,556,542,379,14,20,15,26,4,2
+2011/12,Wigan Athletic,Arsenal,34.6,65.4,494,830,336,679,21,12,16,8,2,3
+2011/12,Everton,Stoke City,67.4,32.6,680,430,489,238,7,17,25,64,2,2
+2011/12,Wolverhampton Wanderers,Sunderland,54.9,45.1,698,647,476,412,9,27,24,42,3,2
+2011/12,Fulham,Liverpool,45.4,54.6,635,717,443,519,22,15,38,15,2,3
+2011/12,Arsenal,Everton,61.6,38.4,741,522,546,323,16,20,18,25,6,9
+2011/12,Bolton Wanderers,Aston Villa,54.4,45.6,615,544,367,299,22,27,47,40,2,6
+2011/12,Liverpool,Queens Park Rangers,61.9,38.1,738,532,530,329,6,22,20,60,3,0
+2011/12,Manchester United,Wolverhampton Wanderers,51,49,699,669,489,465,18,16,46,23,4,2
+2011/12,Norwich City,Newcastle United,52.5,47.5,623,610,421,387,18,12,44,49,1,0
+2011/12,Swansea City,Fulham,56.6,43.4,724,575,544,415,16,17,16,14,2,0
+2011/12,West Bromwich Albion,Wigan Athletic,50.9,49.1,663,650,442,457,21,26,7,41,3,2
+2011/12,Stoke City,Tottenham Hotspur,35.9,64.1,474,691,254,471,13,12,48,40,0,3
+2011/12,Sunderland,Blackburn Rovers,67.6,32.4,771,504,543,271,18,19,24,71,2,1
+2011/12,Chelsea,Manchester City,49.7,50.3,640,667,463,481,16,17,5,28,0,3
+2011/12,Blackburn Rovers,West Bromwich Albion,44.3,55.7,551,627,355,440,13,12,37,27,6,4
+2011/12,Everton,Norwich City,61.7,38.3,669,463,449,288,5,12,30,29,2,2
+2011/12,Fulham,Bolton Wanderers,51.2,48.8,656,667,440,418,24,22,24,40,7,3
+2011/12,Newcastle United,Swansea City,49.3,50.7,629,668,429,467,26,29,7,42,1,3
+2011/12,Wigan Athletic,Chelsea,50.8,49.2,690,667,495,469,15,16,30,24,0,1
+2011/12,Wolverhampton Wanderers,Stoke City,54.6,45.4,584,536,380,307,16,13,34,69,4,2
+2011/12,Aston Villa,Liverpool,47.9,52.1,651,706,472,514,21,19,16,15,1,7
+2011/12,Manchester City,Arsenal,47,53,637,692,416,467,33,24,21,20,2,3
+2011/12,Queens Park Rangers,Manchester United,47.3,52.7,613,682,377,432,24,23,30,54,2,3
+2011/12,Tottenham Hotspur,Sunderland,60.3,39.7,800,581,562,367,22,33,27,19,6,3
+2011/12,Blackburn Rovers,Bolton Wanderers,47.4,52.6,582,645,344,382,18,22,42,51,2,1
+2011/12,Wolverhampton Wanderers,Norwich City,54.4,45.6,715,617,485,402,13,20,43,51,7,5
+2011/12,Aston Villa,Arsenal,38.2,61.8,530,724,303,510,31,22,26,25,3,0
+2011/12,Everton,Swansea City,45.6,54.4,583,664,398,485,16,16,23,31,3,1
+2011/12,Fulham,Manchester United,43.5,56.5,587,733,421,547,20,23,20,24,0,2
+2011/12,Manchester City,Stoke City,76,24,1092,450,924,282,15,16,14,30,1,1
+2011/12,Newcastle United,West Bromwich Albion,54.9,45.1,667,574,445,375,8,24,21,26,3,4
+2011/12,Queens Park Rangers,Sunderland,57.2,42.8,653,572,398,294,21,27,54,43,1,4
+2011/12,Wigan Athletic,Liverpool,44.7,55.3,588,662,359,442,31,20,37,20,0,1
+2011/12,Tottenham Hotspur,Chelsea,54.8,45.2,692,582,457,386,13,27,25,39,3,4
+2011/12,Bolton Wanderers,Newcastle United,54.2,45.8,568,538,374,320,22,19,22,39,4,6
+2011/12,Chelsea,Fulham,52.5,47.5,713,680,513,473,23,21,10,29,1,0
+2011/12,Liverpool,Blackburn Rovers,64.6,35.4,776,536,549,309,17,16,5,54,5,0
+2011/12,Manchester United,Wigan Athletic,59.5,40.5,687,524,499,353,24,19,13,26,2,1
+2011/12,Stoke City,Aston Villa,39.1,60.9,451,630,239,404,17,23,41,57,1,1
+2011/12,Sunderland,Everton,48.3,51.7,578,588,376,393,16,14,24,38,5,3
+2011/12,West Bromwich Albion,Manchester City,27.4,72.6,426,853,238,671,21,11,38,19,2,2
+2011/12,Arsenal,Wolverhampton Wanderers,73.3,26.7,856,437,657,246,12,17,12,50,2,2
+2011/12,Norwich City,Tottenham Hotspur,40.4,59.6,601,836,399,599,20,21,27,25,2,3
+2011/12,Swansea City,Queens Park Rangers,55.8,44.2,702,580,494,380,14,27,35,25,3,1
+2011/12,Liverpool,Newcastle United,51.4,48.6,671,648,484,485,19,16,8,27,4,2
+2011/12,Arsenal,Queens Park Rangers,59.2,40.8,696,520,499,336,18,17,28,31,6,5
+2011/12,Bolton Wanderers,Wolverhampton Wanderers,51.4,48.6,582,552,349,327,21,7,52,50,1,7
+2011/12,Chelsea,Aston Villa,62,38,724,535,515,317,12,21,12,55,0,1
+2011/12,Manchester United,Blackburn Rovers,62.9,37.1,755,579,490,310,33,34,15,74,2,2
+2011/12,Norwich City,Fulham,51.4,48.6,648,657,474,463,19,17,20,36,5,3
+2011/12,Stoke City,Wigan Athletic,49,51,523,557,311,351,20,21,29,53,3,2
+2011/12,Swansea City,Tottenham Hotspur,55.8,44.2,737,677,568,453,26,22,12,31,2,4
+2011/12,Sunderland,Manchester City,31.2,68.8,513,872,293,665,20,20,50,11,0,2
+2011/12,West Bromwich Albion,Everton,51,49,640,621,454,416,12,15,32,27,3,2
+2011/12,Aston Villa,Swansea City,50.4,49.6,661,690,438,468,24,15,19,65,1,1
+2011/12,Blackburn Rovers,Stoke City,56.4,43.6,632,563,421,320,17,18,29,81,1,1
+2011/12,Fulham,Arsenal,52.8,47.2,734,680,519,457,20,25,33,33,4,4
+2011/12,Queens Park Rangers,Norwich City,39.4,60.6,482,661,302,470,12,8,35,47,1,1
+2011/12,Wolverhampton Wanderers,Chelsea,35.3,64.7,482,778,315,589,15,18,19,24,1,2
+2011/12,Manchester City,Liverpool,36,64,539,778,331,593,19,18,44,5,0,1
+2011/12,Tottenham Hotspur,West Bromwich Albion,68.2,31.8,850,482,632,296,14,20,22,40,6,3
+2011/12,Wigan Athletic,Sunderland,63.4,36.6,738,485,567,312,12,15,9,21,0,2
+2011/12,Everton,Bolton Wanderers,48.8,51.2,561,579,331,360,17,16,39,47,3,1
+2011/12,Newcastle United,Manchester United,39.7,60.3,522,703,326,482,19,33,24,24,1,5
+2011/12,Tottenham Hotspur,Everton,62.1,37.9,835,568,620,361,11,18,51,35,1,0
+2011/12,Aston Villa,Everton,52.6,47.4,682,594,460,412,17,11,47,40,2,0
+2011/12,Blackburn Rovers,Fulham,39.6,60.4,535,669,340,492,21,8,39,8,3,1
+2011/12,Chelsea,Sunderland,60.2,39.8,757,538,550,350,17,21,28,20,2,0
+2011/12,Liverpool,Stoke City,68.7,31.3,822,499,623,283,16,22,15,71,3,0
+2011/12,Manchester United,Bolton Wanderers,62.8,37.2,746,515,536,317,25,21,28,29,2,0
+2011/12,Tottenham Hotspur,Wolverhampton Wanderers,68.4,31.6,824,483,575,258,10,28,20,48,3,1
+2011/12,West Bromwich Albion,Norwich City,54.7,45.3,708,609,481,417,16,24,20,42,1,0
+2011/12,Newcastle United,Queens Park Rangers,60.8,39.2,726,551,555,351,15,23,10,42,1,6
+2011/12,Swansea City,Arsenal,55.3,44.7,744,657,527,428,26,19,24,24,4,4
+2011/12,Wigan Athletic,Manchester City,46,54,630,727,425,504,23,25,18,30,3,5
+2011/12,Bolton Wanderers,Liverpool,38.9,61.1,529,708,319,503,18,21,34,16,0,5
+2011/12,Everton,Blackburn Rovers,46.1,53.9,543,604,347,418,10,12,34,36,1,1
+2011/12,Fulham,Newcastle United,44.3,55.7,565,658,361,443,24,22,34,14,8,4
+2011/12,Norwich City,Chelsea,41.8,58.2,596,768,399,558,18,18,44,16,5,6
+2011/12,Queens Park Rangers,Wigan Athletic,40.3,59.7,488,619,288,433,21,23,24,26,1,1
+2011/12,Stoke City,West Bromwich Albion,48.3,51.7,556,558,305,342,19,18,61,40,0,2
+2011/12,Sunderland,Swansea City,30.9,69.1,489,885,288,677,28,15,22,23,1,0
+2011/12,Wolverhampton Wanderers,Aston Villa,49.7,50.3,617,642,392,413,8,24,30,66,0,1
+2011/12,Arsenal,Manchester United,48.6,51.4,635,669,420,437,30,24,24,32,0,4
+2011/12,Manchester City,Tottenham Hotspur,53.3,46.7,716,654,512,452,23,23,19,28,1,2
+2011/12,Everton,Manchester City,32.4,67.6,515,849,282,608,26,29,38,17,2,5
+2011/12,Manchester United,Stoke City,75,25,1008,424,836,265,15,12,24,39,1,0
+2011/12,Swansea City,Chelsea,46.2,53.8,647,700,443,491,28,24,34,9,3,0
+2011/12,Tottenham Hotspur,Wigan Athletic,62.3,37.7,877,556,692,409,13,17,11,16,2,1
+2011/12,Wolverhampton Wanderers,Liverpool,47.3,52.7,682,771,492,557,21,20,23,27,0,3
+2011/12,Aston Villa,Queens Park Rangers,68.5,31.5,861,498,637,283,12,13,24,56,4,3
+2011/12,Blackburn Rovers,Newcastle United,58.5,41.5,572,463,377,275,14,15,20,38,4,6
+2011/12,Bolton Wanderers,Arsenal,35.3,64.7,516,804,302,577,22,25,22,28,4,4
+2011/12,Fulham,West Bromwich Albion,62.3,37.7,865,598,653,385,17,18,24,46,1,2
+2011/12,Sunderland,Norwich City,49.1,50.9,602,638,395,412,26,19,35,47,3,1
+2011/12,Arsenal,Blackburn Rovers,68.4,31.6,742,434,590,264,14,16,7,37,3,1
+2011/12,Manchester City,Fulham,46.9,53.1,696,738,507,572,18,20,18,16,1,1
+2011/12,Norwich City,Bolton Wanderers,52.3,47.7,621,574,423,370,11,11,31,24,3,2
+2011/12,Queens Park Rangers,Wolverhampton Wanderers,39,61,518,699,302,492,19,19,36,32,0,2
+2011/12,Stoke City,Sunderland,48.9,51.1,585,590,359,367,20,26,66,38,0,2
+2011/12,West Bromwich Albion,Swansea City,36.6,63.4,573,843,348,634,17,23,22,39,2,2
+2011/12,Wigan Athletic,Everton,52.3,47.7,629,603,447,404,17,15,18,33,2,7
+2011/12,Chelsea,Manchester United,44.2,55.8,572,650,346,440,8,29,33,31,0,4
+2011/12,Newcastle United,Aston Villa,51,49,681,687,435,425,24,39,22,41,2,3
+2011/12,Liverpool,Tottenham Hotspur,52,48,691,678,492,467,24,16,14,32,1,0
+2011/12,Blackburn Rovers,Queens Park Rangers,41.9,58.1,608,736,379,518,24,17,51,25,0,2
+2011/12,Bolton Wanderers,Wigan Athletic,43,57,453,561,262,371,19,5,27,31,1,6
+2011/12,Everton,Chelsea,33.1,66.9,485,757,281,570,21,10,39,22,6,1
+2011/12,Fulham,Stoke City,53.2,46.8,624,596,446,384,14,14,35,51,2,3
+2011/12,Manchester United,Liverpool,54.9,45.1,781,653,593,480,23,21,28,18,0,3
+2011/12,Sunderland,Arsenal,30.6,69.4,485,873,290,679,21,24,34,15,2,1
+2011/12,Swansea City,Norwich City,55.3,44.7,725,615,509,401,13,17,26,47,1,0
+2011/12,Tottenham Hotspur,Newcastle United,65.4,34.6,875,514,676,347,17,20,20,13,5,0
+2011/12,Aston Villa,Manchester City,36.1,63.9,531,796,313,581,20,18,37,26,1,2
+2011/12,Wolverhampton Wanderers,West Bromwich Albion,54,46,614,571,412,359,18,11,16,36,4,2
+2011/12,Chelsea,Bolton Wanderers,59.1,40.9,688,548,458,314,22,16,32,39,4,2
+2011/12,Manchester City,Blackburn Rovers,77.7,22.3,944,351,748,208,13,12,19,24,2,0
+2011/12,Newcastle United,Wolverhampton Wanderers,45.8,54.2,598,688,421,490,17,23,26,25,4,2
+2011/12,Queens Park Rangers,Fulham,44.2,55.8,594,709,394,513,20,20,33,28,2,4
+2011/12,West Bromwich Albion,Sunderland,60.6,39.4,777,583,565,369,17,20,10,38,3,1
+2011/12,Wigan Athletic,Aston Villa,60.7,39.3,594,469,397,249,13,22,16,43,2,1
+2011/12,Arsenal,Tottenham Hotspur,56.9,43.1,713,594,489,368,27,33,23,22,0,2
+2011/12,Norwich City,Manchester United,43.4,56.6,626,793,447,592,13,13,24,38,0,2
+2011/12,Stoke City,Swansea City,26.4,73.6,418,829,194,617,28,26,43,26,1,0
+2011/12,Blackburn Rovers,Aston Villa,54.7,45.3,657,599,435,363,19,25,22,49,1,2
+2011/12,Liverpool,Arsenal,54,46,676,636,466,412,25,21,14,39,6,1
+2011/12,Manchester City,Bolton Wanderers,64.4,35.6,788,483,596,316,17,19,21,21,2,0
+2011/12,Queens Park Rangers,Everton,49.1,50.9,520,527,310,319,16,16,35,33,0,3
+2011/12,Stoke City,Norwich City,47.9,52.1,513,523,282,324,10,13,47,50,4,0
+2011/12,West Bromwich Albion,Chelsea,45.7,54.3,571,658,359,440,22,19,25,40,2,1
+2011/12,Wigan Athletic,Swansea City,51.1,48.9,589,618,395,384,21,22,14,37,1,2
+2011/12,Fulham,Wolverhampton Wanderers,58.2,41.8,751,579,567,390,13,19,18,22,4,1
+2011/12,Newcastle United,Sunderland,63.1,36.9,678,488,439,258,20,23,21,53,1,2
+2011/12,Tottenham Hotspur,Manchester United,52.1,47.9,710,676,510,475,13,19,17,59,1,0
+2011/12,Aston Villa,Fulham,51.2,48.8,635,626,444,435,15,9,24,41,2,3
+2011/12,Bolton Wanderers,Queens Park Rangers,53.2,46.8,602,560,349,313,17,26,44,57,1,0
+2011/12,Chelsea,Stoke City,71.4,28.6,741,390,538,210,19,12,33,52,2,0
+2011/12,Everton,Tottenham Hotspur,37.9,62.1,527,759,320,530,20,27,26,17,3,2
+2011/12,Sunderland,Liverpool,38.2,61.8,536,755,324,549,28,20,39,28,1,0
+2011/12,Wolverhampton Wanderers,Blackburn Rovers,60.1,39.9,656,530,439,300,21,24,34,37,3,3
+2011/12,Manchester United,West Bromwich Albion,65.3,34.7,859,528,675,354,18,18,23,27,5,1
+2011/12,Norwich City,Wigan Athletic,44.9,55.1,607,692,386,489,19,11,36,28,2,1
+2011/12,Swansea City,Manchester City,55.4,44.6,735,646,535,430,14,19,21,22,2,1
+2011/12,Arsenal,Newcastle United,60.9,39.1,758,529,540,348,19,22,12,32,8,2
+2011/12,Liverpool,Everton,51.1,48.9,633,593,425,403,18,17,31,32,5,2
+2011/12,Fulham,Swansea City,38.1,61.9,607,880,430,700,17,25,11,24,2,2
+2011/12,Wigan Athletic,West Bromwich Albion,60.4,39.6,598,478,400,264,14,19,14,40,2,5
+2011/12,Newcastle United,Norwich City,44.2,55.8,592,733,415,523,20,17,16,38,0,3
+2011/12,Wolverhampton Wanderers,Manchester United,41.1,58.9,587,805,419,625,11,18,15,23,1,2
+2011/12,Blackburn Rovers,Sunderland,45.4,54.6,554,594,348,390,11,24,29,34,0,4
+2011/12,Everton,Arsenal,38.3,61.7,509,739,319,533,16,16,30,22,10,3
+2011/12,Manchester City,Chelsea,60.4,39.6,791,580,560,363,18,19,20,46,1,2
+2011/12,Queens Park Rangers,Liverpool,43.5,56.5,647,756,412,548,21,18,55,23,1,4
+2011/12,Tottenham Hotspur,Stoke City,64,36,735,533,488,275,15,29,30,69,1,4
+2011/12,Arsenal,Aston Villa,71.5,28.5,779,392,609,232,10,14,12,26,2,3
+2011/12,Bolton Wanderers,Blackburn Rovers,58.7,41.3,593,460,350,251,16,12,43,27,1,2
+2011/12,Chelsea,Tottenham Hotspur,45.4,54.6,570,708,383,489,20,17,21,38,2,0
+2011/12,Liverpool,Wigan Athletic,56.9,43.1,726,606,525,410,15,21,11,34,2,1
+2011/12,Norwich City,Wolverhampton Wanderers,62.4,37.6,744,511,528,292,17,17,59,34,3,5
+2011/12,Stoke City,Manchester City,32.5,67.5,446,710,229,504,16,25,33,31,1,0
+2011/12,Sunderland,Queens Park Rangers,51.5,48.5,627,578,429,404,16,15,23,24,2,2
+2011/12,Swansea City,Everton,62,38,739,496,554,323,18,12,27,18,1,1
+2011/12,West Bromwich Albion,Newcastle United,51.1,48.9,620,627,413,418,22,18,8,42,4,3
+2011/12,Manchester United,Fulham,59.5,40.5,906,680,708,487,15,22,32,30,2,0
+2011/12,Aston Villa,Chelsea,44.4,55.6,518,625,328,444,13,7,27,43,2,3
+2011/12,Everton,West Bromwich Albion,53.3,46.7,679,619,481,414,17,13,23,26,1,3
+2011/12,Fulham,Norwich City,38.1,61.9,598,855,405,664,19,16,41,26,3,0
+2011/12,Manchester City,Sunderland,64.1,35.9,751,483,527,294,12,22,21,48,2,0
+2011/12,Queens Park Rangers,Arsenal,32.3,67.7,510,839,295,649,32,24,24,16,6,3
+2011/12,Wigan Athletic,Stoke City,60.8,39.2,631,480,449,284,21,13,26,40,0,5
+2011/12,Wolverhampton Wanderers,Bolton Wanderers,50.9,49.1,541,532,295,302,14,15,56,40,4,0
+2011/12,Newcastle United,Liverpool,48.6,51.4,643,624,453,462,17,19,28,14,2,5
+2011/12,Tottenham Hotspur,Swansea City,40.7,59.3,621,805,404,609,31,22,12,17,1,2
+2011/12,Blackburn Rovers,Manchester United,26.7,73.3,443,915,254,701,15,15,42,40,0,1
+2011/12,Swansea City,Newcastle United,77,23,1081,439,912,270,13,16,8,18,0,1
+2011/12,Bolton Wanderers,Fulham,52.4,47.6,633,627,449,428,12,17,26,43,0,4
+2011/12,Chelsea,Wigan Athletic,54.7,45.3,636,557,434,368,20,26,16,21,3,5
+2011/12,Liverpool,Aston Villa,69.6,30.4,826,466,612,261,12,12,16,61,1,0
+2011/12,Norwich City,Everton,48.3,51.7,627,673,431,469,17,13,45,25,3,2
+2011/12,Stoke City,Wolverhampton Wanderers,46.2,53.8,508,548,298,343,14,13,56,43,3,1
+2011/12,Sunderland,Tottenham Hotspur,29.3,70.7,456,905,267,684,22,24,32,28,1,2
+2011/12,West Bromwich Albion,Blackburn Rovers,47.2,52.8,579,631,399,466,15,11,17,19,7,2
+2011/12,Arsenal,Manchester City,64.5,35.5,758,528,539,297,27,17,14,43,3,5
+2011/12,Manchester United,Queens Park Rangers,72.4,27.6,918,463,734,270,18,19,14,41,3,0
+2011/12,Aston Villa,Stoke City,53.7,46.3,570,509,391,316,16,9,48,44,0,1
+2011/12,Everton,Sunderland,58.5,41.5,765,579,567,388,18,16,25,20,3,3
+2011/12,Fulham,Chelsea,46.6,53.4,659,718,471,539,25,16,33,18,4,2
+2011/12,Newcastle United,Bolton Wanderers,50.9,49.1,581,583,401,377,11,16,24,32,7,2
+2011/12,Tottenham Hotspur,Norwich City,58.8,41.2,664,526,429,312,17,17,40,56,4,5
+2011/12,Blackburn Rovers,Liverpool,52.2,47.8,542,530,375,354,14,15,11,34,2,5
+2011/12,Manchester City,West Bromwich Albion,64.9,35.1,893,556,721,383,15,20,11,17,1,1
+2011/12,Queens Park Rangers,Swansea City,40.2,59.8,543,732,360,539,16,16,24,25,1,1
+2011/12,Wigan Athletic,Manchester United,44.9,55.1,550,637,367,449,20,27,22,25,2,2
+2011/12,Wolverhampton Wanderers,Arsenal,28,72,481,974,304,828,19,13,20,12,3,0
+2011/12,Norwich City,Manchester City,47.4,52.6,688,789,482,557,18,22,23,39,0,4
+2011/12,Sunderland,Wolverhampton Wanderers,51.1,48.9,585,577,363,348,22,15,33,49,1,1
+2011/12,Swansea City,Blackburn Rovers,73.2,26.8,810,391,612,214,19,19,20,27,2,0
+2011/12,West Bromwich Albion,Queens Park Rangers,47.9,52.1,568,622,378,411,17,16,14,28,3,4
+2011/12,Manchester United,Aston Villa,65.3,34.7,753,492,548,289,26,16,26,24,1,0
+2011/12,Arsenal,Wigan Athletic,64.3,35.7,771,533,558,309,17,26,12,37,1,3
+2011/12,Arsenal,Chelsea,56.7,43.3,697,576,496,381,24,22,20,28,5,4
+2011/12,Aston Villa,Sunderland,44.6,55.4,548,616,315,402,21,22,30,26,2,2
+2011/12,Blackburn Rovers,Norwich City,42.7,57.3,496,610,285,400,9,19,41,57,4,1
+2011/12,Bolton Wanderers,Swansea City,38.1,61.9,493,717,284,480,13,14,34,42,2,5
+2011/12,Fulham,Wigan Athletic,51.2,48.8,669,648,492,482,15,16,11,23,2,1
+2011/12,Newcastle United,Stoke City,58.1,41.9,699,559,527,365,21,23,21,31,2,2
+2011/12,Queens Park Rangers,Tottenham Hotspur,31,69,479,795,265,585,18,16,33,15,2,1
+2011/12,Liverpool,West Bromwich Albion,63.3,36.7,806,553,564,332,14,26,20,48,2,4
+2011/12,Manchester United,Everton,52.5,47.5,751,685,523,486,20,24,18,38,2,1
+2011/12,Wolverhampton Wanderers,Manchester City,51.8,48.2,676,662,475,463,16,25,24,35,2,4
+2011/12,Aston Villa,Bolton Wanderers,43.8,56.2,518,627,292,386,22,18,15,35,6,3
+2011/12,Everton,Fulham,52.4,47.6,783,705,615,557,24,12,22,13,4,2
+2011/12,Norwich City,Liverpool,44.4,55.6,641,755,451,568,21,12,37,23,2,5
+2011/12,Stoke City,Arsenal,37.1,62.9,499,735,290,515,22,15,48,35,5,2
+2011/12,Sunderland,Bolton Wanderers,52,48,596,555,375,354,18,24,38,37,2,2
+2011/12,Swansea City,Wolverhampton Wanderers,55,45,690,597,516,406,20,16,30,20,1,0
+2011/12,West Bromwich Albion,Aston Villa,55.5,44.5,574,493,383,306,19,15,26,27,3,5
+2011/12,Wigan Athletic,Newcastle United,57.1,42.9,665,542,509,387,16,16,17,12,3,5
+2011/12,Chelsea,Queens Park Rangers,56.7,43.3,698,548,524,384,11,20,13,22,3,3
+2011/12,Tottenham Hotspur,Blackburn Rovers,70.6,29.4,904,457,695,282,22,21,22,29,1,2
+2011/12,Manchester City,Manchester United,52.5,47.5,690,627,449,398,18,37,29,45,1,0
+2011/12,Liverpool,Fulham,59.5,40.5,755,590,574,392,22,16,7,28,5,0
+2011/12,Stoke City,Everton,39.1,60.9,492,647,268,426,18,11,59,46,1,0
+2011/12,Bolton Wanderers,Tottenham Hotspur,46.9,53.1,603,698,415,481,18,19,14,27,2,3
+2011/12,Chelsea,Newcastle United,63.4,36.6,745,522,549,309,18,21,23,39,3,4
+2011/12,Arsenal,Norwich City,63.4,36.6,742,500,506,286,9,22,23,46,1,6
+2011/12,Aston Villa,Tottenham Hotspur,37.5,62.5,503,712,292,489,30,22,45,26,2,1
+2011/12,Bolton Wanderers,West Bromwich Albion,37.6,62.4,511,694,292,501,20,12,29,17,3,8
+2011/12,Fulham,Sunderland,56.8,43.2,783,664,621,460,17,19,16,26,0,3
+2011/12,Manchester United,Swansea City,59.8,40.2,820,627,579,402,26,20,20,45,1,0
+2011/12,Newcastle United,Manchester City,43.7,56.3,591,715,383,501,27,20,21,27,1,3
+2011/12,Queens Park Rangers,Stoke City,54.6,45.4,578,515,341,283,20,22,47,52,1,0
+2011/12,Wolverhampton Wanderers,Everton,43.2,56.8,596,702,366,492,23,16,46,15,4,9
+2011/12,Blackburn Rovers,Wigan Athletic,36.7,63.3,463,683,257,461,18,10,22,29,0,2
+2011/12,Liverpool,Chelsea,53.2,46.8,637,578,459,394,21,20,20,17,3,0
+2011/12,Chelsea,Blackburn Rovers,58.4,41.6,736,583,560,402,14,21,9,39,3,4
+2011/12,Everton,Newcastle United,46.9,53.1,560,610,372,441,20,20,26,16,3,1
+2011/12,Manchester City,Queens Park Rangers,81.3,18.7,938,375,710,175,15,22,5,57,1,1
+2011/12,Norwich City,Aston Villa,58.9,41.1,703,525,515,343,12,11,34,18,3,3
+2011/12,Stoke City,Bolton Wanderers,50.9,49.1,556,519,290,272,13,23,68,45,2,2
+2011/12,Sunderland,Manchester United,35.5,64.5,525,815,337,628,20,24,27,24,3,3
+2011/12,Swansea City,Liverpool,62.4,37.6,809,533,606,355,19,22,20,13,1,0
+2011/12,Tottenham Hotspur,Fulham,51,49,711,668,534,509,25,16,22,14,0,3
+2011/12,West Bromwich Albion,Arsenal,41.7,58.3,509,653,326,466,16,29,18,24,4,3
+2011/12,Wigan Athletic,Wolverhampton Wanderers,52,48,635,627,472,431,23,19,14,27,2,0

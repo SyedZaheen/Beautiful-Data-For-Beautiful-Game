@@ -1,0 +1,381 @@
+Season,HomeTeam,AwayTeam,HomePossession,AwayPossession,HomeTouches,AwayTouches,HomePasses,AwayPasses,HomeTackles,AwayTackles,HomeClearances,AwayClearances,HomeOffsides,AwayOffsides
+2015/16,AFC Bournemouth,Aston Villa,58.4,41.6,747,604,548,391,14,24,16,39,3,4
+2015/16,Chelsea,Swansea City,52,48,635,616,433,399,16,22,14,29,2,4
+2015/16,Everton,Watford,66.6,33.4,774,510,558,286,14,25,25,53,4,1
+2015/16,Leicester City,Sunderland,44,56,544,636,342,442,19,19,21,14,0,1
+2015/16,Manchester United,Tottenham Hotspur,50,50,675,679,487,487,21,26,30,20,1,2
+2015/16,Norwich City,Crystal Palace,62.9,37.1,652,450,470,272,20,14,26,34,4,2
+2015/16,Arsenal,West Ham United,61.8,38.2,781,538,556,359,12,21,18,25,3,1
+2015/16,Newcastle United,Southampton,56.3,43.7,698,606,485,389,13,18,24,32,0,3
+2015/16,Stoke City,Liverpool,47,53,607,676,412,478,25,19,16,33,3,2
+2015/16,West Bromwich Albion,Manchester City,30.9,69.1,502,921,328,764,17,10,21,21,2,0
+2015/16,Aston Villa,Manchester United,45.6,54.4,630,728,441,534,22,24,13,37,4,3
+2015/16,Southampton,Everton,54.4,45.6,660,590,458,393,18,14,19,32,1,2
+2015/16,Sunderland,Norwich City,43.9,56.1,575,726,386,490,31,15,20,34,2,1
+2015/16,Swansea City,Newcastle United,65.8,34.2,827,496,635,333,19,19,18,18,3,1
+2015/16,Tottenham Hotspur,Stoke City,53.2,46.8,687,634,500,430,16,19,17,15,3,3
+2015/16,Watford,West Bromwich Albion,63.9,36.1,721,479,498,285,15,24,20,39,1,2
+2015/16,West Ham United,Leicester City,69.8,30.2,756,435,553,242,15,25,22,36,1,1
+2015/16,Crystal Palace,Arsenal,40.8,59.2,600,792,376,564,18,27,35,36,3,2
+2015/16,Manchester City,Chelsea,49.2,50.8,615,644,423,443,17,20,23,25,1,3
+2015/16,Liverpool,AFC Bournemouth,54.9,45.1,716,612,492,387,24,22,36,23,1,0
+2015/16,Crystal Palace,Aston Villa,49.9,50.1,535,548,357,363,15,13,21,24,4,0
+2015/16,Leicester City,Tottenham Hotspur,34.8,65.2,454,715,265,523,19,11,15,41,1,0
+2015/16,Manchester United,Newcastle United,69.3,30.7,858,496,637,280,17,20,22,35,4,2
+2015/16,Norwich City,Stoke City,42.6,57.4,503,640,326,467,22,15,22,18,2,4
+2015/16,Sunderland,Swansea City,39.3,60.7,490,705,318,494,25,9,17,28,4,2
+2015/16,West Ham United,AFC Bournemouth,45.8,54.2,570,659,373,452,20,17,15,37,3,1
+2015/16,Everton,Manchester City,45.7,54.3,608,682,408,487,21,17,24,21,3,2
+2015/16,Watford,Southampton,52,48,639,613,431,412,15,14,15,28,4,2
+2015/16,West Bromwich Albion,Chelsea,43.9,56.1,543,646,373,496,13,9,15,24,2,1
+2015/16,Arsenal,Liverpool,65.7,34.3,928,577,667,351,23,25,26,36,5,4
+2015/16,Aston Villa,Sunderland,62,38,772,537,523,329,20,32,27,39,0,1
+2015/16,AFC Bournemouth,Leicester City,56.1,43.9,659,550,435,336,16,30,30,17,1,1
+2015/16,Chelsea,Crystal Palace,63.7,36.3,781,534,582,321,16,17,19,45,0,2
+2015/16,Liverpool,West Ham United,62.7,37.3,735,516,543,326,12,25,18,25,1,0
+2015/16,Manchester City,Watford,58.7,41.3,841,634,645,458,15,30,17,23,1,1
+2015/16,Newcastle United,Arsenal,26.3,73.7,456,969,268,777,21,21,33,14,2,2
+2015/16,Stoke City,West Bromwich Albion,49.1,50.9,632,660,446,455,18,19,19,26,2,3
+2015/16,Tottenham Hotspur,Everton,49.9,50.1,624,644,440,443,25,17,17,19,3,1
+2015/16,Southampton,Norwich City,61.1,38.9,733,503,533,348,16,14,19,28,2,0
+2015/16,Swansea City,Manchester United,35.5,64.5,549,830,365,657,14,15,32,20,3,1
+2015/16,Arsenal,Stoke City,67.6,32.4,842,496,628,305,18,16,13,31,3,3
+2015/16,Crystal Palace,Manchester City,42.2,57.8,570,693,359,498,17,15,29,21,5,0
+2015/16,Everton,Chelsea,38.8,61.2,554,749,351,561,23,21,39,12,0,2
+2015/16,Manchester United,Liverpool,55.7,44.3,775,636,559,446,23,23,25,25,2,2
+2015/16,Norwich City,AFC Bournemouth,47.7,52.3,604,663,432,476,21,13,15,15,0,2
+2015/16,Watford,Swansea City,39.2,60.8,520,705,330,515,17,8,27,39,0,6
+2015/16,West Bromwich Albion,Southampton,35.1,64.9,509,816,333,614,20,12,28,20,1,2
+2015/16,Leicester City,Aston Villa,48.7,51.3,646,639,388,416,32,29,15,30,1,1
+2015/16,Sunderland,Tottenham Hotspur,43.9,56.1,543,646,313,411,22,26,30,31,2,0
+2015/16,West Ham United,Newcastle United,39.1,60.9,542,697,314,477,18,17,25,21,0,2
+2015/16,Aston Villa,West Bromwich Albion,59.8,40.2,680,534,451,303,30,15,33,38,2,1
+2015/16,AFC Bournemouth,Sunderland,53.1,46.9,672,619,463,416,23,25,15,18,2,4
+2015/16,Chelsea,Arsenal,62.9,37.1,816,573,628,360,23,21,16,22,0,3
+2015/16,Manchester City,West Ham United,71.5,28.5,905,504,669,279,19,20,17,57,2,2
+2015/16,Newcastle United,Watford,57.6,42.4,728,587,493,381,19,29,8,19,4,1
+2015/16,Stoke City,Leicester City,54.1,45.9,647,597,432,371,32,15,18,33,3,1
+2015/16,Swansea City,Everton,47.9,52.1,610,648,407,454,21,17,22,14,3,1
+2015/16,Liverpool,Norwich City,58.9,41.1,787,591,579,399,19,15,14,27,3,1
+2015/16,Southampton,Manchester United,40.8,59.2,556,742,382,575,21,15,10,31,1,3
+2015/16,Tottenham Hotspur,Crystal Palace,57.1,42.9,698,569,436,323,32,31,27,35,3,3
+2015/16,Leicester City,Arsenal,42,58,590,782,360,532,21,21,20,46,0,2
+2015/16,Liverpool,Aston Villa,62.4,37.6,762,558,572,343,27,18,8,32,3,1
+2015/16,Manchester United,Sunderland,66.2,33.8,782,473,604,311,18,23,15,18,0,3
+2015/16,Newcastle United,Chelsea,35.5,64.5,516,748,293,532,30,27,25,17,1,3
+2015/16,Southampton,Swansea City,41.5,58.5,564,730,380,542,17,7,25,16,6,3
+2015/16,Stoke City,AFC Bournemouth,43.7,56.3,560,676,383,488,15,16,30,18,2,4
+2015/16,Tottenham Hotspur,Manchester City,46,54,671,709,407,478,28,18,40,28,5,3
+2015/16,West Ham United,Norwich City,42.9,57.1,565,675,349,482,17,16,22,36,3,0
+2015/16,Watford,Crystal Palace,55.3,44.7,585,512,386,313,14,14,20,50,4,4
+2015/16,West Bromwich Albion,Everton,46,54,589,672,397,470,19,17,22,37,3,2
+2015/16,Aston Villa,Stoke City,56.3,43.7,711,601,478,381,18,27,17,29,2,2
+2015/16,AFC Bournemouth,Watford,54.4,45.6,718,614,496,421,10,18,22,16,4,1
+2015/16,Chelsea,Southampton,60.2,39.8,734,572,551,360,22,19,12,30,1,3
+2015/16,Crystal Palace,West Bromwich Albion,60.4,39.6,689,496,443,302,16,22,32,35,3,1
+2015/16,Manchester City,Newcastle United,64.3,35.7,770,524,590,335,20,24,13,23,1,3
+2015/16,Norwich City,Leicester City,66.2,33.8,745,491,486,254,14,31,44,40,2,1
+2015/16,Sunderland,West Ham United,44.1,55.9,547,643,367,440,25,19,32,12,2,2
+2015/16,Arsenal,Manchester United,37.8,62.2,606,797,389,632,29,22,28,5,2,3
+2015/16,Everton,Liverpool,50.9,49.1,615,591,388,372,27,27,25,28,1,0
+2015/16,Swansea City,Tottenham Hotspur,45.6,54.4,610,680,404,483,18,17,21,28,1,0
+2015/16,Chelsea,Aston Villa,49,51,634,673,415,424,31,19,24,27,1,0
+2015/16,Crystal Palace,West Ham United,38.5,61.5,524,733,326,516,21,27,14,20,2,4
+2015/16,Everton,Manchester United,47.2,52.8,656,728,458,524,25,23,21,25,0,1
+2015/16,Manchester City,AFC Bournemouth,54.4,45.6,759,631,566,451,14,15,29,14,2,1
+2015/16,Southampton,Leicester City,50.6,49.4,599,580,360,342,15,19,58,15,1,0
+2015/16,Tottenham Hotspur,Liverpool,48.5,51.5,687,709,407,441,41,29,36,27,2,5
+2015/16,Watford,Arsenal,33.3,66.7,510,857,306,627,25,17,25,31,1,4
+2015/16,West Bromwich Albion,Sunderland,56.2,43.8,636,540,452,352,9,24,18,43,2,5
+2015/16,Newcastle United,Norwich City,44.2,55.8,560,661,373,463,13,26,18,24,3,1
+2015/16,Swansea City,Stoke City,54.1,45.9,765,645,548,472,18,32,21,15,1,2
+2015/16,Arsenal,Everton,56.2,43.8,777,626,527,404,20,36,14,21,0,2
+2015/16,Aston Villa,Swansea City,47.9,52.1,573,611,377,419,14,16,18,22,0,4
+2015/16,Leicester City,Crystal Palace,47.7,52.3,633,652,426,456,21,15,38,14,2,3
+2015/16,Norwich City,West Bromwich Albion,60.6,39.4,673,502,466,316,8,10,45,44,4,0
+2015/16,Stoke City,Watford,66.2,33.8,724,455,526,269,19,20,17,25,8,0
+2015/16,West Ham United,Chelsea,45.5,54.5,561,634,370,457,17,18,21,27,4,5
+2015/16,AFC Bournemouth,Tottenham Hotspur,45.8,54.2,624,691,401,489,29,24,19,24,3,5
+2015/16,Liverpool,Southampton,60.3,39.7,815,607,586,383,23,29,24,33,4,2
+2015/16,Manchester United,Manchester City,58.7,41.3,746,583,543,386,19,28,24,30,2,2
+2015/16,Sunderland,Newcastle United,39.7,60.3,495,647,311,456,14,19,25,9,0,1
+2015/16,Chelsea,Liverpool,42.6,57.4,652,792,418,567,35,27,19,16,3,2
+2015/16,Crystal Palace,Manchester United,44.6,55.4,549,638,355,456,20,23,13,28,0,1
+2015/16,Manchester City,Norwich City,70.8,29.2,929,457,722,296,16,15,27,33,4,0
+2015/16,Newcastle United,Stoke City,52.3,47.7,591,542,412,388,15,16,10,18,4,5
+2015/16,Swansea City,Arsenal,54.2,45.8,716,655,550,461,9,16,10,19,5,1
+2015/16,Watford,West Ham United,50.6,49.4,594,597,400,397,17,15,25,39,3,3
+2015/16,West Bromwich Albion,Leicester City,47.7,52.3,565,560,330,370,12,25,27,27,2,1
+2015/16,Everton,Sunderland,67.4,32.6,859,498,687,326,8,19,21,26,3,2
+2015/16,Southampton,AFC Bournemouth,48.5,51.5,666,703,479,514,21,18,28,21,1,1
+2015/16,Tottenham Hotspur,Aston Villa,61.3,38.7,754,542,530,325,21,24,31,24,3,1
+2015/16,AFC Bournemouth,Newcastle United,67.3,32.7,798,505,582,300,22,27,6,36,4,3
+2015/16,Leicester City,Watford,41.3,58.7,578,740,376,556,15,13,23,26,4,1
+2015/16,Manchester United,West Bromwich Albion,67.7,32.3,824,495,648,304,15,21,12,27,1,0
+2015/16,Norwich City,Swansea City,32.9,67.1,477,852,338,706,11,12,13,15,3,2
+2015/16,Stoke City,Chelsea,36.8,63.2,481,676,282,488,15,19,21,12,3,1
+2015/16,Sunderland,Southampton,35.8,64.2,521,748,314,551,13,14,52,34,2,5
+2015/16,West Ham United,Everton,50.8,49.2,617,601,435,427,18,10,16,24,2,1
+2015/16,Arsenal,Tottenham Hotspur,54.9,45.1,693,613,458,383,35,22,20,35,1,3
+2015/16,Aston Villa,Manchester City,40.7,59.3,583,752,410,578,7,16,30,17,1,1
+2015/16,Liverpool,Crystal Palace,63.8,36.2,738,519,499,287,28,25,19,40,1,2
+2015/16,Chelsea,Norwich City,64.4,35.6,835,531,606,331,19,26,20,34,6,3
+2015/16,Everton,Aston Villa,59.9,40.1,783,581,608,403,23,18,13,15,1,4
+2015/16,Manchester City,Liverpool,58.4,41.6,777,618,530,390,16,32,26,28,1,5
+2015/16,Newcastle United,Leicester City,54.3,45.7,674,608,454,375,20,27,19,16,1,1
+2015/16,Southampton,Stoke City,58.2,41.8,708,585,517,389,16,13,8,38,0,2
+2015/16,Swansea City,AFC Bournemouth,42.7,57.3,618,752,401,535,17,11,39,19,0,5
+2015/16,Watford,Manchester United,43.6,56.4,623,718,385,499,28,18,32,19,1,5
+2015/16,West Bromwich Albion,Arsenal,27,73,429,872,246,684,20,13,28,17,5,1
+2015/16,Tottenham Hotspur,West Ham United,55.8,44.2,708,618,484,372,21,28,29,26,3,3
+2015/16,Crystal Palace,Sunderland,66.6,33.4,694,481,452,244,15,26,22,66,1,3
+2015/16,Aston Villa,Watford,65.1,34.9,750,464,494,263,9,21,30,35,3,0
+2015/16,AFC Bournemouth,Everton,57.3,42.7,774,625,542,407,22,24,21,27,2,0
+2015/16,Crystal Palace,Newcastle United,53.7,46.3,670,563,449,394,18,22,17,21,3,1
+2015/16,Leicester City,Manchester United,31.1,68.9,482,791,267,593,27,20,26,23,3,1
+2015/16,Manchester City,Southampton,45.9,54.1,603,670,390,463,28,18,30,18,2,6
+2015/16,Sunderland,Stoke City,48.2,51.8,602,644,436,476,18,8,14,23,0,3
+2015/16,Liverpool,Swansea City,53.7,46.3,752,674,534,449,24,22,27,24,0,1
+2015/16,Norwich City,Arsenal,36.8,63.2,529,813,357,625,16,14,35,22,3,2
+2015/16,Tottenham Hotspur,Chelsea,57.7,42.3,710,563,497,360,15,23,41,21,2,4
+2015/16,West Ham United,West Bromwich Albion,60.9,39.1,637,479,435,274,20,23,24,25,0,2
+2015/16,Arsenal,Sunderland,72.5,27.5,894,443,713,257,20,13,20,34,1,1
+2015/16,Chelsea,AFC Bournemouth,62.9,37.1,771,555,524,323,21,19,20,36,2,1
+2015/16,Manchester United,West Ham United,62.6,37.4,718,518,496,302,18,27,11,34,2,1
+2015/16,Southampton,Aston Villa,63.1,36.9,756,531,539,332,25,12,9,34,3,0
+2015/16,Stoke City,Manchester City,46.5,53.5,651,664,413,462,17,27,18,7,3,0
+2015/16,Swansea City,Leicester City,59,41,783,572,543,386,20,19,31,22,2,2
+2015/16,Watford,Norwich City,50.4,49.6,594,563,385,373,11,9,37,44,4,5
+2015/16,West Bromwich Albion,Tottenham Hotspur,35.4,64.6,485,752,286,559,15,15,15,23,2,1
+2015/16,Newcastle United,Liverpool,39.8,60.2,586,782,389,574,26,26,22,11,1,2
+2015/16,Everton,Crystal Palace,62,38,762,573,527,331,24,25,24,40,0,3
+2015/16,AFC Bournemouth,Manchester United,43.5,56.5,597,681,370,474,27,23,39,17,1,2
+2015/16,Crystal Palace,Southampton,43.8,56.2,518,611,296,397,17,14,40,47,3,0
+2015/16,Manchester City,Swansea City,53,47,732,669,557,492,15,16,24,16,3,6
+2015/16,Norwich City,Everton,41.3,58.7,565,761,401,573,18,11,35,23,1,1
+2015/16,Sunderland,Watford,48.6,51.4,624,660,416,465,8,19,28,28,3,2
+2015/16,West Ham United,Stoke City,46.7,53.3,571,610,335,397,15,21,35,23,1,0
+2015/16,Aston Villa,Arsenal,45.8,54.2,608,686,427,522,16,18,17,20,2,5
+2015/16,Liverpool,West Bromwich Albion,70.4,29.6,822,457,642,270,17,9,8,41,1,1
+2015/16,Tottenham Hotspur,Newcastle United,58.3,41.7,707,556,477,335,18,25,28,25,2,4
+2015/16,Leicester City,Chelsea,34.4,65.6,489,768,275,522,26,14,33,32,0,2
+2015/16,Chelsea,Sunderland,67.2,32.8,770,476,577,280,17,27,20,32,0,3
+2015/16,Everton,Leicester City,67.4,32.6,754,505,538,272,13,30,21,33,2,2
+2015/16,Manchester United,Norwich City,69.2,30.8,818,499,605,283,17,15,6,69,2,1
+2015/16,Newcastle United,Aston Villa,47.2,52.8,594,659,370,414,26,22,32,17,1,3
+2015/16,Southampton,Tottenham Hotspur,51,49,607,611,386,383,24,20,14,23,5,2
+2015/16,Stoke City,Crystal Palace,58.4,41.6,673,533,469,342,17,16,17,26,0,1
+2015/16,West Bromwich Albion,AFC Bournemouth,32.6,67.4,417,744,257,552,10,12,18,33,0,3
+2015/16,Swansea City,West Ham United,72.7,27.3,891,459,678,239,18,13,21,41,4,2
+2015/16,Watford,Liverpool,35.1,64.9,474,724,268,500,28,19,23,30,1,10
+2015/16,Arsenal,Manchester City,37.3,62.7,609,854,386,648,20,19,29,27,3,1
+2015/16,Aston Villa,West Ham United,59.1,40.9,665,527,431,309,18,21,29,48,3,1
+2015/16,AFC Bournemouth,Crystal Palace,55.2,44.8,691,592,464,369,26,18,37,28,2,1
+2015/16,Chelsea,Watford,62.4,37.6,730,517,544,327,21,29,12,22,2,1
+2015/16,Liverpool,Leicester City,64.8,35.2,770,517,518,278,18,21,50,47,5,1
+2015/16,Manchester City,Sunderland,66.4,33.6,805,476,615,306,15,20,20,24,3,1
+2015/16,Newcastle United,Everton,40.9,59.1,552,751,365,517,23,18,28,16,0,3
+2015/16,Southampton,Arsenal,35.2,64.8,489,759,312,571,22,11,22,20,6,1
+2015/16,Stoke City,Manchester United,41.5,58.5,541,635,334,453,24,16,27,10,3,1
+2015/16,Swansea City,West Bromwich Albion,55.5,44.5,703,586,513,386,15,14,28,10,1,2
+2015/16,Tottenham Hotspur,Norwich City,59.8,40.2,747,564,533,354,18,18,19,31,3,8
+2015/16,Arsenal,AFC Bournemouth,51.4,48.6,726,696,530,516,18,20,11,27,1,1
+2015/16,Crystal Palace,Swansea City,53.6,46.4,611,556,407,373,12,11,14,39,4,1
+2015/16,Everton,Stoke City,51.3,48.7,684,658,481,472,19,21,17,31,2,5
+2015/16,Manchester United,Chelsea,66.8,33.2,802,507,617,312,21,26,10,29,2,0
+2015/16,Norwich City,Aston Villa,48.2,51.8,541,595,361,383,20,20,23,30,2,0
+2015/16,Watford,Tottenham Hotspur,37.5,62.5,521,735,312,525,15,12,22,30,2,1
+2015/16,West Bromwich Albion,Newcastle United,51.7,48.3,576,549,343,334,20,15,16,47,2,1
+2015/16,West Ham United,Southampton,49.1,50.9,640,638,408,409,23,21,41,27,1,2
+2015/16,Leicester City,Manchester City,39.3,60.7,557,743,329,498,14,18,36,35,2,1
+2015/16,Sunderland,Liverpool,42.3,57.7,556,668,326,465,13,16,46,29,1,0
+2015/16,Arsenal,Newcastle United,51,49,677,649,468,454,19,20,13,16,2,0
+2015/16,Leicester City,AFC Bournemouth,53.5,46.5,681,642,479,426,18,24,8,45,0,2
+2015/16,Manchester United,Swansea City,54.7,45.3,708,618,515,430,19,16,7,26,1,1
+2015/16,Norwich City,Southampton,41.6,58.4,547,664,356,494,9,19,47,23,2,2
+2015/16,Sunderland,Aston Villa,44.9,55.1,571,661,381,470,21,14,33,22,2,2
+2015/16,Watford,Manchester City,48.5,51.5,649,676,410,436,18,28,19,40,0,1
+2015/16,West Bromwich Albion,Stoke City,45.7,54.3,537,605,360,429,16,13,16,21,1,1
+2015/16,West Ham United,Liverpool,35.6,64.4,527,739,285,501,22,18,54,19,1,3
+2015/16,Crystal Palace,Chelsea,39.8,60.2,571,785,373,593,17,23,19,21,3,0
+2015/16,Everton,Tottenham Hotspur,40.8,59.2,632,805,406,599,21,18,33,25,3,1
+2015/16,Aston Villa,Crystal Palace,51.3,48.7,642,639,434,427,25,10,26,18,2,5
+2015/16,AFC Bournemouth,West Ham United,48.7,51.3,638,646,413,432,18,21,25,20,0,4
+2015/16,Newcastle United,Manchester United,54.2,45.8,725,647,514,432,27,22,14,27,3,1
+2015/16,Chelsea,West Bromwich Albion,61.1,38.9,719,519,528,317,13,21,34,18,1,1
+2015/16,Liverpool,Arsenal,59.5,40.5,762,589,535,378,21,20,20,40,4,5
+2015/16,Manchester City,Everton,55,45,745,659,544,468,16,14,15,35,3,4
+2015/16,Southampton,Watford,50.6,49.4,672,654,458,465,22,11,30,29,4,3
+2015/16,Stoke City,Norwich City,64.4,35.6,800,524,621,348,21,10,13,29,2,1
+2015/16,Swansea City,Sunderland,51.2,48.8,617,594,451,430,11,22,10,33,2,2
+2015/16,Tottenham Hotspur,Leicester City,61.7,38.3,707,529,454,293,14,28,37,51,2,2
+2015/16,Aston Villa,Leicester City,56.5,43.5,718,597,500,398,18,20,17,33,1,4
+2015/16,AFC Bournemouth,Norwich City,45.4,54.6,580,616,353,418,19,21,26,21,1,4
+2015/16,Chelsea,Everton,54.9,45.1,765,681,569,477,26,18,15,34,3,1
+2015/16,Manchester City,Crystal Palace,52.8,47.2,696,620,490,426,22,24,34,10,0,1
+2015/16,Newcastle United,West Ham United,50.7,49.3,671,648,457,436,24,23,21,17,2,1
+2015/16,Southampton,West Bromwich Albion,55.8,44.2,646,527,465,355,14,16,34,21,2,4
+2015/16,Tottenham Hotspur,Sunderland,66.6,33.4,811,501,621,316,18,19,19,33,1,3
+2015/16,Liverpool,Manchester United,53.3,46.7,705,666,491,431,36,26,11,33,3,0
+2015/16,Stoke City,Arsenal,45,55,594,707,406,495,9,11,18,34,9,0
+2015/16,Swansea City,Watford,56.7,43.3,763,607,501,378,17,32,57,29,5,0
+2015/16,Crystal Palace,Tottenham Hotspur,36.1,63.9,516,779,290,533,22,17,24,44,0,2
+2015/16,Leicester City,Stoke City,45.2,54.8,586,639,359,441,19,20,19,25,1,0
+2015/16,Manchester United,Southampton,55.4,44.6,651,579,457,361,9,18,22,28,2,1
+2015/16,Norwich City,Liverpool,47.9,52.1,615,655,401,445,20,22,32,31,1,4
+2015/16,Sunderland,AFC Bournemouth,42.7,57.3,592,752,377,505,20,23,37,35,2,1
+2015/16,Watford,Newcastle United,51.3,48.7,695,632,473,431,31,18,17,17,1,1
+2015/16,West Bromwich Albion,Aston Villa,39.4,60.6,492,655,279,445,17,21,34,33,1,1
+2015/16,West Ham United,Manchester City,46.7,53.3,626,698,401,474,23,16,24,36,1,1
+2015/16,Arsenal,Chelsea,46.6,53.4,671,743,466,549,17,23,14,25,1,7
+2015/16,Everton,Swansea City,59.7,40.3,810,620,592,422,16,15,11,37,2,0
+2015/16,Arsenal,Southampton,66.7,33.3,807,527,535,274,23,32,14,31,0,2
+2015/16,Crystal Palace,AFC Bournemouth,50.6,49.4,606,578,384,386,11,16,21,45,3,0
+2015/16,Leicester City,Liverpool,36.1,63.9,570,807,325,566,16,30,39,29,3,2
+2015/16,Manchester United,Stoke City,46.9,53.1,642,680,461,519,21,12,27,8,3,1
+2015/16,Norwich City,Tottenham Hotspur,45.8,54.2,561,629,355,426,17,24,32,28,5,0
+2015/16,Sunderland,Manchester City,49.6,50.4,650,664,411,431,33,21,39,45,4,2
+2015/16,West Bromwich Albion,Swansea City,45.3,54.7,599,686,373,481,14,10,17,45,2,0
+2015/16,West Ham United,Aston Villa,68,32,857,475,657,303,16,20,19,25,5,0
+2015/16,Everton,Newcastle United,55.8,44.2,706,586,480,372,30,21,27,18,0,1
+2015/16,Watford,Chelsea,45,55,673,767,449,555,20,22,21,23,0,2
+2015/16,Aston Villa,Norwich City,48.3,51.7,595,605,386,400,16,20,38,27,1,5
+2015/16,Liverpool,Sunderland,71.3,28.7,889,464,692,282,16,19,10,46,3,2
+2015/16,Manchester City,Leicester City,65.9,34.1,810,512,565,296,14,27,29,27,1,1
+2015/16,Newcastle United,West Bromwich Albion,68.9,31.1,704,415,506,228,13,18,12,29,1,2
+2015/16,Southampton,West Ham United,35.2,64.8,471,714,280,503,19,19,47,24,0,3
+2015/16,Stoke City,Everton,65.5,34.5,813,541,616,326,13,25,7,35,1,1
+2015/16,Swansea City,Crystal Palace,58.5,41.5,717,570,465,336,26,22,35,35,1,0
+2015/16,Tottenham Hotspur,Watford,65.9,34.1,795,535,555,297,14,23,17,35,2,3
+2015/16,AFC Bournemouth,Arsenal,50.7,49.3,715,698,485,487,22,19,24,32,3,6
+2015/16,Chelsea,Manchester United,49.3,50.7,641,662,413,435,23,20,26,30,1,1
+2015/16,AFC Bournemouth,Stoke City,65.7,34.3,731,484,550,290,15,16,8,30,1,2
+2015/16,Chelsea,Newcastle United,54.9,45.1,747,643,555,452,21,14,19,16,2,0
+2015/16,Crystal Palace,Watford,53.9,46.1,635,576,384,344,18,30,24,34,6,0
+2015/16,Everton,West Bromwich Albion,75.9,24.1,882,448,644,215,14,17,17,64,1,2
+2015/16,Norwich City,West Ham United,48.4,51.6,564,629,376,401,21,14,25,23,3,8
+2015/16,Sunderland,Manchester United,33.7,66.3,465,694,251,501,16,17,46,21,2,6
+2015/16,Swansea City,Southampton,54.4,45.6,670,610,466,401,11,11,27,58,0,2
+2015/16,Arsenal,Leicester City,72.1,27.9,943,491,671,269,17,37,18,32,5,2
+2015/16,Aston Villa,Liverpool,39.3,60.7,600,811,410,635,19,24,24,17,0,1
+2015/16,Manchester City,Tottenham Hotspur,46,54,705,788,468,564,26,33,23,34,4,1
+2015/16,Leicester City,Norwich City,58.1,41.9,655,565,462,337,14,17,10,56,1,4
+2015/16,Southampton,Chelsea,34.6,65.4,514,842,338,660,14,13,28,33,5,2
+2015/16,Stoke City,Aston Villa,55.3,44.7,684,586,492,408,10,15,19,32,2,2
+2015/16,Watford,AFC Bournemouth,46.9,53.1,521,596,313,350,14,20,26,42,3,3
+2015/16,West Bromwich Albion,Crystal Palace,46.1,53.9,571,605,370,427,14,11,34,16,1,1
+2015/16,West Ham United,Sunderland,52.8,47.2,625,587,417,377,17,26,24,26,0,2
+2015/16,Manchester United,Arsenal,39.2,60.8,534,737,349,541,24,14,27,18,2,1
+2015/16,Tottenham Hotspur,Swansea City,57.2,42.8,675,547,450,335,11,18,25,47,3,3
+2015/16,Aston Villa,Everton,46.8,53.2,667,750,457,538,19,20,18,44,0,1
+2015/16,AFC Bournemouth,Southampton,45.4,54.6,529,604,336,424,12,13,30,38,1,4
+2015/16,Leicester City,West Bromwich Albion,65,35,706,496,488,273,23,14,14,38,1,4
+2015/16,Norwich City,Chelsea,47,53,645,732,447,520,13,22,19,27,3,2
+2015/16,Sunderland,Crystal Palace,59.2,40.8,632,488,427,293,17,13,22,24,0,3
+2015/16,Arsenal,Swansea City,62.6,37.4,834,572,621,369,28,19,15,33,3,3
+2015/16,Liverpool,Manchester City,49.6,50.4,691,693,468,470,34,27,23,27,4,1
+2015/16,Manchester United,Watford,61.3,38.7,717,505,504,307,21,26,8,24,2,0
+2015/16,Stoke City,Newcastle United,55.3,44.7,668,575,459,373,29,18,26,27,1,1
+2015/16,West Ham United,Tottenham Hotspur,34.9,65.1,517,730,266,502,19,32,33,20,7,2
+2015/16,Chelsea,Stoke City,48.7,51.3,648,693,441,477,18,21,17,18,3,4
+2015/16,Everton,West Ham United,41.6,58.4,550,702,343,476,19,23,33,24,1,3
+2015/16,Manchester City,Aston Villa,71.2,28.8,994,512,811,328,17,23,4,31,2,0
+2015/16,Newcastle United,AFC Bournemouth,49.3,50.7,656,702,433,448,26,20,27,33,1,1
+2015/16,Southampton,Sunderland,65.1,34.9,707,460,496,265,10,12,40,37,1,1
+2015/16,Swansea City,Norwich City,55.8,44.2,656,547,428,341,20,15,37,37,3,3
+2015/16,Tottenham Hotspur,Arsenal,51.8,48.2,675,646,423,414,30,25,22,34,2,1
+2015/16,Watford,Leicester City,50.2,49.8,637,644,413,415,27,26,21,25,2,1
+2015/16,Crystal Palace,Liverpool,38.5,61.5,541,783,342,564,13,23,17,32,3,2
+2015/16,West Bromwich Albion,Manchester United,46.6,53.4,659,701,439,503,19,28,23,18,5,1
+2015/16,AFC Bournemouth,Swansea City,44,56,587,686,365,463,19,29,24,24,1,1
+2015/16,Norwich City,Manchester City,33.9,66.1,538,846,319,625,27,21,48,36,2,1
+2015/16,Stoke City,Southampton,60.6,39.4,744,548,535,345,21,20,15,42,0,1
+2015/16,Aston Villa,Tottenham Hotspur,37.5,62.5,571,779,327,574,23,21,25,37,3,2
+2015/16,Leicester City,Newcastle United,49.9,50.1,686,679,458,466,21,26,19,26,0,1
+2015/16,Chelsea,West Ham United,59.4,40.6,743,563,534,364,18,20,18,27,1,2
+2015/16,Crystal Palace,Leicester City,55.9,44.1,672,581,428,346,15,28,26,44,1,1
+2015/16,Everton,Arsenal,54.3,45.7,721,684,506,449,24,20,14,32,1,3
+2015/16,Swansea City,Aston Villa,53.8,46.2,725,629,466,387,19,27,49,23,3,0
+2015/16,Watford,Stoke City,52.1,47.9,672,639,454,432,19,18,16,38,2,4
+2015/16,West Bromwich Albion,Norwich City,50.1,49.9,573,583,361,363,17,20,36,49,4,2
+2015/16,Manchester City,Manchester United,54.5,45.5,711,590,454,398,21,26,29,23,2,1
+2015/16,Newcastle United,Sunderland,59.9,40.1,661,510,434,299,24,25,31,34,1,1
+2015/16,Southampton,Liverpool,49.2,50.8,680,667,466,485,18,11,31,24,3,2
+2015/16,Tottenham Hotspur,AFC Bournemouth,62.8,37.2,784,566,601,338,20,20,25,29,3,5
+2015/16,Arsenal,Watford,69,31,960,514,773,328,13,20,25,23,1,3
+2015/16,Aston Villa,Chelsea,41.7,58.3,603,801,411,604,23,21,12,20,0,3
+2015/16,AFC Bournemouth,Manchester City,45.6,54.4,651,735,459,557,17,27,20,17,2,4
+2015/16,Liverpool,Tottenham Hotspur,42.2,57.8,604,772,367,520,29,17,28,28,0,1
+2015/16,Norwich City,Newcastle United,42.7,57.3,542,680,344,475,11,12,31,32,4,3
+2015/16,Stoke City,Swansea City,47.2,52.8,626,678,449,490,16,12,21,23,5,1
+2015/16,Sunderland,West Bromwich Albion,56.8,43.2,620,498,395,305,16,13,38,29,5,0
+2015/16,West Ham United,Crystal Palace,66.6,33.4,701,426,499,227,12,18,27,22,2,5
+2015/16,Leicester City,Southampton,46,54,575,650,364,407,22,20,41,38,2,2
+2015/16,Manchester United,Everton,54.4,45.6,718,642,514,428,13,30,23,21,2,3
+2015/16,Aston Villa,AFC Bournemouth,41.4,58.6,563,745,381,548,22,13,20,29,2,1
+2015/16,Crystal Palace,Norwich City,52,48,527,496,315,301,11,7,23,35,3,2
+2015/16,Manchester City,West Bromwich Albion,62.1,37.9,737,514,548,316,11,21,27,24,3,1
+2015/16,Southampton,Newcastle United,50.6,49.4,640,619,429,426,15,20,21,31,2,1
+2015/16,Swansea City,Chelsea,39.3,60.7,633,830,403,616,26,17,32,15,1,3
+2015/16,Watford,Everton,41.9,58.1,509,651,326,455,19,14,19,26,3,3
+2015/16,West Ham United,Arsenal,39.3,60.7,562,769,355,566,19,18,27,17,2,1
+2015/16,Liverpool,Stoke City,52.9,47.1,672,613,485,429,18,19,16,20,1,3
+2015/16,Sunderland,Leicester City,44.8,55.2,619,661,339,408,35,24,66,36,2,1
+2015/16,Tottenham Hotspur,Manchester United,47,53,635,657,395,442,27,24,31,21,3,3
+2015/16,Crystal Palace,Everton,56.9,43.1,747,610,510,399,23,16,30,46,0,1
+2015/16,Chelsea,Manchester City,51.8,48.2,719,733,529,509,20,13,8,33,5,1
+2015/16,Everton,Southampton,49.3,50.7,593,580,392,378,11,15,51,16,0,3
+2015/16,Manchester United,Aston Villa,66.2,33.8,749,506,581,294,18,21,10,23,4,0
+2015/16,Newcastle United,Swansea City,34.5,65.5,509,772,290,561,22,20,18,16,4,0
+2015/16,Norwich City,Sunderland,64,36,603,454,404,240,9,14,18,79,3,5
+2015/16,West Bromwich Albion,Watford,56.7,43.3,661,554,425,349,13,17,18,31,1,0
+2015/16,Arsenal,Crystal Palace,71.7,28.3,936,476,737,278,16,17,16,35,2,2
+2015/16,AFC Bournemouth,Liverpool,51.3,48.7,720,716,503,492,22,21,9,18,2,3
+2015/16,Leicester City,West Ham United,43.5,56.5,511,616,332,407,14,12,33,18,2,0
+2015/16,Stoke City,Tottenham Hotspur,51.2,48.8,617,622,410,396,25,24,24,24,0,1
+2015/16,Newcastle United,Manchester City,43.2,56.8,626,739,393,522,19,27,33,30,2,3
+2015/16,Liverpool,Everton,66.6,33.4,813,493,595,311,19,17,12,32,2,1
+2015/16,Manchester United,Crystal Palace,66.3,33.7,826,542,633,321,29,23,14,20,3,1
+2015/16,West Ham United,Watford,46.2,53.8,597,634,376,438,18,25,13,16,2,2
+2015/16,Arsenal,West Bromwich Albion,71.4,28.6,915,434,723,274,12,17,15,12,3,0
+2015/16,Aston Villa,Southampton,42,58,606,738,386,536,21,21,28,17,0,4
+2015/16,AFC Bournemouth,Chelsea,45.3,54.7,645,759,446,560,20,24,19,22,0,3
+2015/16,Liverpool,Newcastle United,67,33,841,547,609,296,24,31,21,47,3,1
+2015/16,Manchester City,Stoke City,53.2,46.8,654,622,501,446,16,18,12,17,1,2
+2015/16,Leicester City,Swansea City,38.3,61.7,627,868,392,623,30,28,25,19,3,1
+2015/16,Sunderland,Arsenal,29.8,70.2,463,859,268,659,13,6,33,21,5,4
+2015/16,Tottenham Hotspur,West Bromwich Albion,66.5,33.5,755,456,537,260,19,20,35,26,1,1
+2015/16,Arsenal,Norwich City,68.6,31.4,899,494,697,305,17,17,21,23,3,2
+2015/16,Everton,AFC Bournemouth,56.5,43.5,780,657,608,455,19,17,20,31,1,1
+2015/16,Newcastle United,Crystal Palace,49.5,50.5,612,617,394,399,27,18,31,21,0,1
+2015/16,Stoke City,Sunderland,53.6,46.4,567,483,369,306,15,15,28,15,1,1
+2015/16,Watford,Aston Villa,64.7,35.3,778,527,588,332,14,17,14,32,1,3
+2015/16,West Bromwich Albion,West Ham United,40.9,59.1,529,703,332,493,13,16,19,37,3,1
+2015/16,Manchester United,Leicester City,70.5,29.5,822,480,592,248,14,25,19,36,1,0
+2015/16,Southampton,Manchester City,40.2,59.8,594,804,384,576,38,24,13,26,3,0
+2015/16,Swansea City,Liverpool,47.6,52.4,678,728,480,533,20,20,12,27,1,0
+2015/16,Chelsea,Tottenham Hotspur,47.3,52.7,588,616,366,408,24,23,22,19,3,0
+2015/16,Aston Villa,Newcastle United,45.9,54.1,625,693,409,455,21,17,32,33,1,1
+2015/16,AFC Bournemouth,West Bromwich Albion,68.3,31.7,776,463,567,255,24,28,19,16,1,3
+2015/16,Crystal Palace,Stoke City,57.8,42.2,585,462,390,293,8,16,10,27,1,3
+2015/16,Leicester City,Everton,41.3,58.7,562,700,340,504,17,24,19,19,2,1
+2015/16,Norwich City,Manchester United,33.1,66.9,466,767,272,579,14,19,18,18,0,1
+2015/16,Sunderland,Chelsea,31.4,68.6,450,821,287,652,15,15,9,23,6,1
+2015/16,West Ham United,Swansea City,51.9,48.1,622,617,427,408,10,16,11,31,3,2
+2015/16,Liverpool,Watford,66.1,33.9,756,487,563,271,22,17,24,25,2,1
+2015/16,Manchester City,Arsenal,57.2,42.8,747,618,505,383,22,26,28,32,3,3
+2015/16,Tottenham Hotspur,Southampton,69.8,30.2,803,461,586,257,14,26,25,45,1,4
+2015/16,West Ham United,Manchester United,41.3,58.7,538,659,324,473,18,25,14,26,1,2
+2015/16,Liverpool,Chelsea,55.3,44.7,768,666,546,446,25,23,19,21,1,2
+2015/16,Norwich City,Watford,55.6,44.4,716,585,495,400,8,29,19,13,5,3
+2015/16,Sunderland,Everton,37.7,62.3,545,774,352,596,12,19,34,24,2,1
+2015/16,Arsenal,Aston Villa,59.6,40.4,774,591,609,414,14,13,12,26,0,1
+2015/16,Chelsea,Leicester City,54,46,753,668,525,444,26,24,26,16,8,0
+2015/16,Everton,Norwich City,45.5,54.5,599,650,382,445,18,13,29,28,1,1
+2015/16,Newcastle United,Tottenham Hotspur,38.5,61.5,538,739,351,551,20,21,35,11,1,1
+2015/16,Southampton,Crystal Palace,49.8,50.2,612,584,396,401,15,11,40,19,2,1
+2015/16,Stoke City,West Ham United,46.7,53.3,542,599,355,401,28,10,27,19,6,2
+2015/16,Swansea City,Manchester City,50,50,676,672,494,496,13,17,27,16,2,2
+2015/16,Watford,Sunderland,54.2,45.8,615,547,401,346,13,20,26,39,1,4
+2015/16,West Bromwich Albion,Liverpool,32.6,67.4,492,813,285,612,22,23,25,23,1,0
+2015/16,Manchester United,AFC Bournemouth,66.3,33.7,846,510,677,342,17,16,11,10,4,2
